@@ -74,18 +74,21 @@ http://176868.cloud/acff8aaa96f54dad248968b413d29c44/a2142e9e39fcb740164dc9a0e03
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR VIDIO
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="MAYANG TV", INDOSIAR OTT
-http://bit.ly/indosiar_shareext-ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="MAYANG TV", INDOSIAR VIDIO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://srtv.my.id/vd/play.m3u8?id=205&type=hls
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://thumbor.prod.vidiocdn.com/UMECq0_g6VrR4FqAl6Jzi_AO1ZE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-45122c.png", PERSIB LIVE 1
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR HD
+https://link.zozotv.xyz:443/Rina923/390023/45
+
+#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://thumbor.prod.vidiocdn.com/UMECq0_g6VrR4FqAl6Jzi_AO1ZE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-45122c.png", PERSIB LIVE 
 #EXTVLCOPT:http-referrer=https://www.808bola29.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
-#https://leisuww3-cf.ddi2ank3.cc/auth%3D80f340e753abb90af839b66ebbdb7c161da17ad272b516dbc7b63f8b7cf4ebcc0c94e057e1985ed500cc8143e141490546ae9884be6645ab4d3b9f63230fc0d8aea701c4f6b168bf5da5826a4de10728874fb8012b8f6d76feb5ad6454c4e9e62ebef2bf02c42fdd6f9187f7adfacda6a96e7a02a50e4323e633fcc64b226bb15098096e64b88fbfc6a9e25e905a03f4b6e730b9d85d1c5a311c2ce0c204e939f6296a9085d19f83b412c24c270f06da8e8f5cca8a2393c390875abe4e0d6ef7f90608ae07499827658075b224f1dd346125f6408686b4c6b947bac61454b8841aa0f67255371c1ec48e9b56803e2a9ddf7c447bc6233ff215910ec34c99388e6db2d516c8d8b2e44865ff9b935105cd2cd28a1311a88fe9290e8001f6be4eca%26cid%3DGRbo-YnJUDTGkUMMBhosR240303%26_v%3D2%26_r%3DAmq3js%26_vis%3Dbe2d17600db538d58a9a4df853ad9a1fd7ad91237572ba5eb29035e373e2bc2c%26_vvs%3D6b1b76c76069483c37484bc7cf8a5afba72a4c7d6aa9a77a50532cff36873925/app/c236062.m3u8
+http://60.221.17.157/play1nm.hnyongshun.cn/live/sd-6ypq3nh7jn8zmd7.m3u8?_session_id=186509985.n.sg-50jntd.djhv_3674903&cascade=true&cluster=fc.cn-w6bl1k&domain=play2nm.hnyongshun.cn&fp_dispatch_strategy=--&fp_pod_uid=dba5b977-382b-4380-b68d-dfed7a3fbb02&fp_region=&launch_ip=10.198.81.201&node_id=fc.cn-w6bl1k&notUserSink=true&pod_name=pod.cn-w6bl1k.gc25.nss&pro_type=http&remote_type=external&switch302=false&vhost=hnyongshun.cn&TxLiveCode=tf_stream&TxDispType=1&svr_type=live_oc&tencent_test_client_ip=221.194.167.56&dispatch_from=OC_MGR221.204.15.135&utime=1710509443993
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="MNCSports3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/UMECq0_g6VrR4FqAl6Jzi_AO1ZE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-45122c.png", SPORTSTARS 3
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -3020,5 +3023,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 https://stream.lokermusik.com:8420/lokermusik
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/pimbes.png", Pimbes
 https://sv.rajamediautama.my.id/listen/station_4/radio
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.persibradio.id/asset/images/PERSIB-Radio-Logo.png", RADIO PERSIB
+https://s3.vinhostmedia.com:10945/;
 
 
