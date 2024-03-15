@@ -83,10 +83,10 @@ https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 https://srtv.my.id/vd/play.m3u8?id=205&type=hls
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR HD
-https://link.zozotv.xyz:443/Rina923/390023/45
+https://s.id/indosiar_xtv-shareext-ts
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://thumbor.prod.vidiocdn.com/UMECq0_g6VrR4FqAl6Jzi_AO1ZE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-45122c.png", PERSIB LIVE 
-#EXTVLCOPT:http-referrer=https://www.808bola29.com/
+#EXTVLCOPT:http-referrer=https://sport.duktek.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 http://60.221.17.157/play1nm.hnyongshun.cn/live/sd-6ypq3nh7jn8zmd7.m3u8?_session_id=186509985.n.sg-50jntd.djhv_3674903&cascade=true&cluster=fc.cn-w6bl1k&domain=play2nm.hnyongshun.cn&fp_dispatch_strategy=--&fp_pod_uid=dba5b977-382b-4380-b68d-dfed7a3fbb02&fp_region=&launch_ip=10.198.81.201&node_id=fc.cn-w6bl1k&notUserSink=true&pod_name=pod.cn-w6bl1k.gc25.nss&pro_type=http&remote_type=external&switch302=false&vhost=hnyongshun.cn&TxLiveCode=tf_stream&TxDispType=1&svr_type=live_oc&tencent_test_client_ip=221.194.167.56&dispatch_from=OC_MGR221.204.15.135&utime=1710509443993
 
@@ -3025,5 +3025,4 @@ https://stream.lokermusik.com:8420/lokermusik
 https://sv.rajamediautama.my.id/listen/station_4/radio
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.persibradio.id/asset/images/PERSIB-Radio-Logo.png", RADIO PERSIB
 https://s3.vinhostmedia.com:10945/;
-
 
