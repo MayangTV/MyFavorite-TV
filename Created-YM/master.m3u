@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/unitedkingdom.xml, https://i.mjh.nz/PlutoTV/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml, https://epg.pw/xmltv/epg_ID.xml.gz"  refresh="3600" billed-msg="Mayang-TV™ : PERBAIKI SHALATMU & PERBANYAK SHOLAWAT | @ yaya_M"
 
 
@@ -161,7 +160,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="ExtremeSportsChannel.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/extreme-sports-channel-uk.png", Extreme Sports Plus
-https://d1j5f4s4o1u3r4.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-Dooya-SportsTribal/267.m3u8
+https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-Dooya-SportsTribal/276.m3u8
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="Strongman.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300010PU_20230614T005517SQUARE.png_20230614005517.png", STRONGMAN
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="FuelTV.us" tvg-logo="https://photocall.cc/img/new/fueltv.png", FUEL TV
@@ -170,7 +169,8 @@ https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/playlist/amg010
 http://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", DARTS
-https://r.mjh.nz/PlutoTV/64b67f0424ade50008a3be17-alt.m3u8
+https://stitcher-ipv4.pluto.tv/v2/stitch/hls/channel/64b67f0424ade50008a3be17livestitch/1302400/playlist.m3u8?terminate=false&sid=3de2f95f-e310-11ee-ba2a-664c0e899cdb&deviceDNT=0&deviceLat=52.52000045776367&deviceLon=13.319999694824219&deviceModel=web&deviceVersion=114.0.0&embedPartner=stitcher-ipv4.pluto.tv&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&DRMCapabilities=widevine&deviceId=2cd63986-e8a2-35b0-b9c6-71934c102de0&appVersion=7.2.0-57e9a96fe7f66354de7957efff20f469e6772404&deviceType=samsung-tvplus&deviceMake=Chrome&includeDeviceUA=true&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgxZmQ1ODE3LTkwYmQtNDRkOS04YTI0LWIxZWY3N2YzYzE5YSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzZGUyZjk1Zi1lMzEwLTExZWUtYmEyYS02NjRjMGU4OTljZGIiLCJjbGllbnRJUCI6Ijg1LjIxNC4xMzIuMTE3IiwiY2l0eSI6IkJlcmxpbiIsInBvc3RhbENvZGUiOiIxMDU4NyIsImNvdW50cnkiOiJERSIsImRtYSI6Mjc2MDA2LCJhY3RpdmVSZWdpb24iOiJERSIsImRldmljZUxhdCI6NTIuNTIwMDAwNDU3NzYzNjcsImRldmljZUxvbiI6MTMuMzE5OTk5Njk0ODI0MjE5LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTQuMC4wIiwiZGV2aWNlTWFrZSI6IkNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI3LjIuMC01N2U5YTk2ZmU3ZjY2MzU0ZGU3OTU3ZWZmZjIwZjQ2OWU2NzcyNDA0IiwiY2xpZW50SUQiOiIyY2Q2Mzk4Ni1lOGEyLTM1YjAtYjljNi03MTkzNGMxMDJkZTAiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiRXVyb3BlL0JlcmxpbiIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiaXNTdGl0Y2hlckVrcyI6dHJ1ZSwibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjJjZDYzOTg2LWU4YTItMzViMC1iOWM2LTcxOTM0YzEwMmRlMCIsImZ3VmNJRDJDb3BwYSI6IjJjZDYzOTg2LWU4YTItMzViMC1iOWM2LTcxOTM0YzEwMmRlMCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiMmNkNjM5ODYtZThhMi0zNWIwLWI5YzYtNzE5MzRjMTAyZGUwIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMywxMDAwMCwxMDAwOSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkRFOk1tTmtOak01T0RZdFpUaGhNaTB6TldJd0xXSTVZell0TnpFNU16UmpNVEF5WkdVdyIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3MTA2MjMzMzksImlhdCI6MTcxMDUzNjkzOSwianRpIjoiZmJmNzI1ODctMjUxYi00OGZmLTkzNzEtMjgxNmJlOTI5NjYzIn0.SD9s2Jh79aA13oxjuvPWrCplLpBNFMJ9_EitBGq_lns&advertisingId=%7BPSID%7D&profileLimit=&profileFloor=&masterJWTPassthrough=true&profilesFromStream=true
+#https://r.mjh.nz/PlutoTV/64b67f0424ade50008a3be17-alt.m3u8
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", NHL
 https://nhl-firetv.amagi.tv/playlist480p.m3u8
 
@@ -186,8 +186,7 @@ https://r.mjh.nz/PlutoTV/60d39387706fe50007fda8e8-alt.m3u8
 https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/../../eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV", LIVERPOOL TV (LFC TV)
-https://srtv.my.id/vd/play.m3u8?id=6362&type=hls
-
+https://salamus2023.onlinehdhls.ru/ddy3/premium826/tracks-v1a1/mono.m3u8?|Origin=weblivehdplay.ru&referer=https://weblivehdplay.ru/
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEq1pqi-6Shuf3aadBE5gFdJfTcO5eDVyLpw&usqp=CAU", REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043156/rmtv-en-mob/bitrate_3.m3u8
 
@@ -2526,6 +2525,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 ==========================================
+#EXTINF:-1 group-title="KNOWLEDGE", NAT GEO USA
+https://salamus2023.onlinehdhls.ru/ddh1/premium328/tracks-v1a1/mono.m3u8?|Origin=weblivehdplay.ru&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="KNOWLEDGE", NAT GEO WILD USA
+https://salamus2023.onlinehdhls.ru/ddy5/premium745/tracks-v1a1/mono.m3u8?|Origin=weblivehdplay.ru&referer=https://weblivehdplay.ru/
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="AnimalPlanet.MACAN", Animal Planet
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="KNOWLEDGE", Love Nature (HD)
@@ -2832,8 +2835,6 @@ https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c910
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="OKEY" tvg-logo="https://i.ibb.co/bbVfKQT/ae.png", TV OKEY
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="SUKAN" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg", SUKAN
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo.png", TV Ikim
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png", Selangor TV
