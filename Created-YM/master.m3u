@@ -829,10 +829,10 @@ https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager
 https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 ==========================================
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-id="TruePremierFootball1.th" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Premier Football 1
-https://edge2.laotv.la/live/TSport1/sc-gaFECQ/v1_index.m3u8
+https://edge2.laotv.la/live/TSport1/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-id="TruePremierFootball3.th", Premier Football 2 
-https://edge2.laotv.la/live/TSport2/sc-gaFECQ/v1_index.m3u8
+https://edge2.laotv.la/live/TSport2/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-id="TruePremierFootball3.th" tvg-logo="https://i.ibb.co/xLq8sst/Desain-tanpa-judul-60-modified.png", Premier Football 3
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
@@ -846,17 +846,11 @@ https://sport.livedoomovies.com:4432/02_PremierHD4_480p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-id="TruePremierFootball5.th" tvg-logo="https://i.ibb.co/f216tTj/Desain-tanpa-judul-61-modified.png", Premier Football 5
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8?|user-agent=Mozilla/5.0&referer=https://www.movie87hd.com/
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-id="truesports1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png", true Sports 1
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sport.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+https://edge2.laotv.la/live/TrueSport6/index.m3u8
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-id="truesports2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png", true Sports 2
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
+https://edge2.laotv.la/live/TrueSport2/index.m3u8
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-id="truesports3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.webp", true Sports 3
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
+https://edge2.laotv.la/live/TrueSport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-id="truesports4.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_original.png", true Sports 4
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
