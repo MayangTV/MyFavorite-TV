@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/unitedkingdom.xml, https://i.mjh.nz/PlutoTV/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml, https://epg.pw/xmltv/epg_ID.xml.gz"  refresh="3600" billed-msg="Mayang-TV™ : PERBAIKI SHALATMU & PERBANYAK SHOLAWAT | @ yaya_M"
 
 
@@ -77,11 +76,8 @@ http://176868.cloud/acff8aaa96f54dad248968b413d29c44/a2142e9e39fcb740164dc9a0e03
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="MAYANG TV", INDOSIAR VIDIO 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://srtv.my.id/vd/play.m3u8?id=205&type=hls
-
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="MAYANG TV", INDOSIAR 2
+http://bit.ly/indosiar_shareext-ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR HD
 https://s.id/indosiar_xtv-shareext-ts
 
@@ -833,14 +829,10 @@ https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager
 https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 ==========================================
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-id="TruePremierFootball1.th" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Premier Football 1
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sport.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8
+https://edge2.laotv.la/live/TSport1/sc-gaFECQ/v1_index.m3u8
 
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-id="TruePremierFootball3.th", Premier Football 2 
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sport.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8
+https://edge2.laotv.la/live/TSport2/sc-gaFECQ/v1_index.m3u8
 
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-id="TruePremierFootball3.th" tvg-logo="https://i.ibb.co/xLq8sst/Desain-tanpa-judul-60-modified.png", Premier Football 3
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
