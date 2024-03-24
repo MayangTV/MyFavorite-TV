@@ -67,8 +67,8 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227726/32
 #KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
 https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="Trans7.id" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x197:1268x975/x/photo/2020/10/16/839802574.png", TRANS 7 LIVE MOTOGP
-https://live-c.cf.dmcdn.net/sec2(ZbTshOTszagAfsNv4q_jgGRds5xou0UXjxtow0XgluJWEB7D9tQMlq3VtCawILrX57bQD2CUw_EX11tk_zZW0JkKopkmsGlhhp6sEuPkZHI)/dm/3/x8qckyq/s/live-2.m3u8
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="Trans7.id" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x197:1268x975/x/photo/2020/10/16/839802574.png", ADMIN GANTENG LIVE MOTOGP
+https://arjuna.trans7.co.id/Trans7-L1v3stream/tracks-a1v2/index.m3u8?|user-agent=Mozilla/5.0&referer=https://sevenhub.id/
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="eurosports.uk" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png", EUROSPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
@@ -85,7 +85,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="EdgeSport.au" tvg-logo="https://photocall.cc/img/new/edgesport.png", EDGE SPORTS
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="ExtremeSportsChannel.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/extreme-sports-channel-uk.png", Extreme Sports Plus
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="ExtremeSportsChannel.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/extreme-sports-channel-uk.png", EXTREME SPORTS Plus
 https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-Dooya-SportsTribal/276.m3u8
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="Strongman.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300010PU_20230614T005517SQUARE.png_20230614005517.png", STRONGMAN
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
@@ -3352,5 +3352,4 @@ https://stream.lokermusik.com:8420/lokermusik
 https://sv.rajamediautama.my.id/listen/station_4/radio
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.persibradio.id/asset/images/PERSIB-Radio-Logo.png", RADIO PERSIB
 https://s3.vinhostmedia.com:10945/;
-
 
