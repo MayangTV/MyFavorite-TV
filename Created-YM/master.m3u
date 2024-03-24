@@ -68,7 +68,7 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227726/32
 https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="Trans7.id" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x197:1268x975/x/photo/2020/10/16/839802574.png", ADMIN GANTENG LIVE MOTOGP
-https://arjuna.trans7.co.id/Trans7-L1v3stream/tracks-a1v2/index.m3u8?|user-agent=Mozilla/5.0&referer=https://sevenhub.id/
+https://arjuna.trans7.co.id/Trans7-L1v3stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="eurosports.uk" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png", EUROSPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
