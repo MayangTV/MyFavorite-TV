@@ -2257,6 +2257,13 @@ http://202.150.161.68/spotv1/index.m3u8
 #EXTINF:-1 group-title="OTHER SPORTS", SPOTV 2 ASIA
 http://202.150.161.68/spotv2/index.m3u8
 
+#EXTINF:-1 group-title="OTHER SPORTS", L'EQUIPE TV
+https://live-c.cf.dmcdn.net/sec2(6pIvgna-wlfDtVmh__-aVxkss1zH7ou2sd4b1EKJYl-oS8cOodWBmBYO9y_uIyHSzQtflZz-rmO92zuRaEowRAoIYF-IL1Xefy5NMMOqEgM)/dm/3/x2lefik/d/live-4.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", L'EQUIPE LIVE 1
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/c8096d38-5da0-411b-9e41-dced3bc51468/1.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", L'EQUIPE LIVE 2
+https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/200971c1-b560-42a3-a011-d6f9093eab93/1.m3u8
+
 #EXTINF:-1 group-title="OTHER SPORTS", START SPORTS Russia ( various sports)
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 group-title="OTHER SPORTS", START TRIUMPH Russia
@@ -2362,9 +2369,6 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://cdn-azd2042.telewebion.com/tv3/live/1080p/index.m3u8
 #EXTINF:-1 group-title="OTHER SPORTS", ITV DEPORTES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
-
-#EXTINF:-1 group-title="OTHER SPORTS", L'EQUIPE TV France
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
 
 #EXTINF:-1 group-title="OTHER SPORTS", LENZ SPORT IRAN (premier League)
 https://lenz.ayassport.ir/wh7f454c46tw427076266_1100830981/PLTV/88888888/224/3221226614/4.m3u8
@@ -2809,9 +2813,6 @@ https://live-hls-apps-aljazeera.global.ssl.fastly.net/AJE/03.m3u8
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
-#EXTINF:-1 group-title="DAKWAH" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", LIVE MEKAH 
-http://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
-
 #EXTINF:-1 group-title="DAKWAH" tvg-id="AlQuranAlKareem" group-title="DAKWAH" tvg-logo="https://static.mncnow.id/images/channel/42f6952c/f9d3.png", Al Quran Al Kareem
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2850,19 +2851,20 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
 #https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 _________________________________________________
-#EXTINF:-1 group-title="DAKWAH" tvg-id="deikids.id" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", DeiKids TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://e.siar.us/live/deikidstv.m3u8
 
-#EXTINF:-1 group-title="DAKWAH" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", KHAZANAH
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+#EXTINF:-1 group-title="DAKWAH" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", RAMADHAN CHANNEL
+http://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8?|user-agent=Mozilla/5.0 
+
+#EXTINF:-1 group-title="DAKWAH" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", LIVE MEKAH 
+http://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8?|user-agent=Mozilla/5.0 
 
 #EXTINF:-1 group-title="DAKWAH" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", AL WAFA TARIM TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 
 https://ammedia.siar.us/ammedia/live/ammedia_480p.m3u8
+
+#EXTINF:-1 group-title="DAKWAH" tvg-id="deikids.id" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", DeiKids TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 
+https://e.siar.us/live/deikidstv.m3u8
 
 #EXTINF:-1 group-title="DAKWAH" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", TV9 NU
 https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist.m3u8
