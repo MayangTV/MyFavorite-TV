@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/unitedkingdom.xml, https://i.mjh.nz/PlutoTV/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml, https://epg.pw/xmltv/epg_ID.xml.gz"  refresh="3600" billed-msg="PERBAIKI SHALATMU & PERBANYAK SHOLAWAT | MAYANG TV™@yaya m"
+#EXTM3U url-tvg="https://xmltv.tvkaista.net/guides/indihometv.com.xml, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/dens.tv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://xmltv.tvkaista.net/guides/firstmedia.com.xml, https://xmltv.tvkaista.net/guides/mncvision.id.xml, https://xmltv.tvkaista.net/guides/visionplus.id.xml"  refresh="3600" billed-msg="PERBAIKI SHALATMU & PERBANYAK SHOLAWAT | MAYANG TV™@yaya m"
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", RAMADHAN CHANNEL
 http://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
@@ -56,11 +56,13 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png", SPO TV2 MALAYSIA
+http://202.150.161.68/spotv2/index.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001
+#https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="skysportmotogp.it" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x197:1268x975/x/photo/2020/10/16/839802574.png", SKYSPORT MOTOGP
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -70,7 +72,7 @@ https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="Trans7.id" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x197:1268x975/x/photo/2020/10/16/839802574.png", ADMIN GANTENG LIVE MOTOGP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 #EXTVLCOPT:http-referrer=https://sevenhub.id/live
-https://arjuna.trans7.co.id/Trans7-L1v3stream/index.m3u8
+https://arjuna.trans7.co.id/Trans7-L1v3stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="eurosports.uk" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png", EUROSPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
@@ -141,7 +143,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427
 /////////////////////////////  ALL INDOSIAR
 ================================
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", Indosiar_HD_621
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Indosiar_HD_621
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", Indosiar_(ott/televizo)
@@ -945,7 +947,7 @@ http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/mast
 
 ///////////////////// ELEVEN SPORTS
 ===================================
-#EXTINF:-1 group-title="ELEVEN SPORT" tvg-id="eleven.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png", ELEVEN 1	
+#EXTINF:-1 group-title="ELEVEN SPORT" tvg-id="eleven.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", ELEVEN 1	
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-054/stream.mpd 
@@ -1602,6 +1604,8 @@ https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ARAB SPORTS", KUWAIT SPORTS PLUS
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ARAB SPORTS", OMAN SPORTS
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ARAB SPORTS" tvg-logo="https://photocall.cc/img/new/racing.png", Racing
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 
@@ -2240,30 +2244,40 @@ https://webhdrus.onlinehdhls.ru/lb/premium599/index.m3u8?|origin=weblivehdplay.r
 
 
 
-|||||||||||||||||||||||||||||| OTHER SPORTS
-
+||||||||||||||||||||||||||| OTHER SPORTS
+=============================
 #EXTINF:-1 group-title="OTHER SPORTS" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", KHAZANAH
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER SPORTS" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", TNT Sports HD
+#EXTINF:-1 group-title="OTHER SPORTS", SPOTV 1 ASIA
+http://202.150.161.68/spotv1/index.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", SPOTV 2 ASIA
+http://202.150.161.68/spotv2/index.m3u8
+
+#EXTINF:-1 group-title="OTHER SPORTS", START SPORTS Russia ( various sports)
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", START TRIUMPH Russia
+https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+
+#EXTINF:-1 group-title="OTHER SPORTS" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", TNT SPORTS HD
 http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="OTHER SPORTS", Unbeaten
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="OTHER SPORTS", UNBEATEN
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="OTHER SPORTS", TyC Sports
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="OTHER SPORTS", TyC SPORTS
 http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="OTHER SPORTS", SportyStuff TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="OTHER SPORTS", SPORTY STUFF TV
 https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="OTHER SPORTS", J Sports 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="OTHER SPORTS", J SPORTS 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="OTHER SPORTS", J Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="OTHER SPORTS", J SPORTS 2
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xdI361E.png" group-title="OTHER SPORTS", J Sports 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xdI361E.png" group-title="OTHER SPORTS", J SPORTS 3
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="OTHER SPORTS", J Sports 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="OTHER SPORTS", J SPORTS 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
 #EXTINF:-1 group-title="OTHER SPORTS", PREMIER SPORTS 1
@@ -2275,438 +2289,174 @@ http://202.21.104.6:88/sps-action/index.m3u8
 #EXTINF:-1 group-title="OTHER SPORTS", PREMIER SPORTS 5
 http://202.21.104.6:88/sps-plus/index.m3u8
 
-#EXTINF:-1 group-title="OTHER SPORTS", Abu Dhabi sports 1(various sports)
-https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
-#EXTINF:-1 group-title="OTHER SPORTS", Abu Dhabi sports 2 (various sports)
-https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
-#EXTINF:-1 group-title="OTHER SPORTS", Acc digital network
-https://dbrb49pjoymg4.cloudfront.net/10001/99991315/hls/playlist.m3u8?ads.xumo_channelId=99991315&ads._fw_ifa_type=dpid&ads._fw_did=c162d88f-2332-175e-59eb-f75203f7d507&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ACCDigitalNetwork&ads.csid=xumo_desktopweb_ACCDigitalNetwork_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Sport&ads._fw_content_category=IAB17&ads._fw_content_language=en&ads._fw_content_genre=Sports&ads._fw_content_rating=TV-PG&ads.xumo_contentId=251&ads.xumo_contentName=ACCDigitalNetwork&ads.xumo_providerId=251&ads.xumo_providerName=ACCDigitalNetwork&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991315&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.13.1&ads._fw_app_bundle=&ads._fw_app_store_url=
-#EXTINF:-1 group-title="OTHER SPORTS", Aci sport tv Italy (motorsports)
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Adventure sports tv
-https://livestream.mdc.akamaized.net/channellivev3/live/master1400000.m3u8;session=275?channel=275
-#EXTINF:-1 group-title="OTHER SPORTS", Aio sport 1
+#EXTINF:-1 group-title="OTHER SPORTS", Aio Sport 1
 https://live.tmk.ir/channel1/signal/stream_720/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Aio sport 2
+#EXTINF:-1 group-title="OTHER SPORTS", Aio Sport 2
 https://live.tmk.ir/channel2/signal/stream_720/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", All sports Brasil
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Arriadia Morocco (various sports)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", ATG Sweden (horse racing)
-https://httpcache0-00688-cacheliveedge0.dna.ip-only.net/00688-cacheliveedge0/out/u/atg_sdi_1_premium_timecode_hd.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Ayozat fight network
-https://cdn.rtmp1.vodhosting.com/hls/AFN.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Bein sports xtra ( various sports)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Bein sports xtra Australia
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Bein sports xtra en Espanol
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Belarus 5
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Belarus 5 internet
+
+#EXTINF:-1 group-title="OTHER SPORTS", ACC DIGITAL NETWORK
+https://dbrb49pjoymg4.cloudfront.net/10001/99991315/hls/playlist.m3u8?ads.xumo_channelId=99991315&ads._fw_ifa_type=dpid&ads._fw_did=c162d88f-2332-175e-59eb-f75203f7d507&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ACCDigitalNetwork&ads.csid=xumo_desktopweb_ACCDigitalNetwork_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Sport&ads._fw_content_category=IAB17&ads._fw_content_language=en&ads._fw_content_genre=Sports&ads._fw_content_rating=TV-PG&ads.xumo_contentId=251&ads.xumo_contentName=ACCDigitalNetwork&ads.xumo_providerId=251&ads.xumo_providerName=ACCDigitalNetwork&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991315&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.13.1&ads._fw_app_bundle=&ads._fw_app_store_url=
+#EXTINF:-1 group-title="OTHER SPORTS", ACI SPORT TV ITALY (motorsports)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", ADVENTURE SPORTS
+https://livestream.mdc.akamaized.net/channellivev3/live/master.m3u8?channel=275
+
+#EXTINF:-1 group-title="OTHER SPORTS",  BEIN AYAS 1
+https://edge11.97588.ir.cdn.ir/hls2/ayas1.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS",  BEIN AYAS 2
+https://edge11.97588.ir.cdn.ir/hls2/ayas2.m3u8
+
+#EXTINF:-1 group-title="OTHER SPORTS", TR SPORT ITALY
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", TRT SPOR TURKEY (various sports)
+https://trtspor.blutv.com/blutv_trtspor/live.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", TRT SPOR 2 TURKEY (various sports)
+https://trtsporyildiz.blutv.com/blutv_trtsporyildiz/live.m3u8
+
+#EXTINF:-1 group-title="OTHER SPORTS", VARZESH TV IRAN 
+https://live.aionet.ir/hls/varzesh/varzesh_1080p/index.m3u8
+
+#EXTINF:-1 group-title="OTHER SPORTS", BELARUS 5 INTERNET
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="OTHER SPORTS", Bike channel Italy
-https://62becaa5a1e2f.streamlock.net/BIKE/BIKE/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Billiard tv
-https://i.mjh.nz/SamsungTVPlus/INBA5100006V5.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Boks tv
+#EXTINF:-1 group-title="OTHER SPORTS", BOKS TV
 http://stream01.vnet.am/BoksTv/mono.m3u8
 
-#EXTINF:-1 group-title="OTHER SPORTS", Chess tv
-https://ab9d2b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0NoZXNzVFZfSExT/playlist.m3u8?ads.coppa=0&t=2024-01-25T08%3A49%3A00.000&ads.wurl_name=ChessTV&ads.wurl_channel=1545&ads.cid=78f6cdce-62537-20240125084900_D0CF72b&ads.mute=false&ads.consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA
-#EXTINF:-1 group-title="OTHER SPORTS", Chilevision Deportes
-https://r.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Claro sport Chile
-https://r.mjh.nz/PlutoTV/6320d80a66666000086712d7-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Claro Sports mx (various sports)
+#EXTINF:-1 group-title="OTHER SPORTS", CLARO SPORTS MX (various sports)
 https://r.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Cornhole tv
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-cornholetv-sportstribal/playlist.m3u8?channel_name=CORNHOLE+TV&content_id=6063de45_20240125110000_D0CF72b&ip=83.137.6.162&mute=false&consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36&gdpr=1&p=sportstribal&content_title=CORNHOLE+TV&channel_partner=CORNHOLE+TV&content_genre=Sports&t=2024-01-25T11%3A00%3A00.000&ic=IAB483
-#EXTINF:-1 group-title="OTHER SPORTS", Court sports network
+
+#EXTINF:-1 group-title="OTHER SPORTS", COURT SPORTS NETWORK
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169.m3u8
 
-#EXTINF:-1 group-title="OTHER SPORTS", Dazn combat
+#EXTINF:-1 group-title="OTHER SPORTS", DAZN COMBAT
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8?ads_amagi_channel=857&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=15&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=c8e61e11-2bd8-40a6-adc2-4b266186548f&ads_rtv_content_id=5095&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=1f3157cd-a1ef-48ae-9b9e-3ba256590699&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:-1 group-title="OTHER SPORTS", Dazn Darts
+#EXTINF:-1 group-title="OTHER SPORTS", DAZN DARTS
 https://r.mjh.nz/PlutoTV/64b67f0424ade50008a3be17-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Dazn fights
+#EXTINF:-1 group-title="OTHER SPORTS", DAZN FIGHTS
 https://r.mjh.nz/PlutoTV/64b67f7cbc3ab400084e51f2-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Dazn football
+#EXTINF:-1 group-title="OTHER SPORTS", DAZN FOOTBALL
 https://r.mjh.nz/PlutoTV/6509bb783a0d700008c700aa-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Dazn Heldinnen
+#EXTINF:-1 group-title="OTHER SPORTS", DAZN HELDINNEN
 https://r.mjh.nz/PlutoTV/64afe50c5dc16600087f3227-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Dazn int-Football
+#EXTINF:-1 group-title="OTHER SPORTS", DAZN INT-FOOTBALL
 https://r.mjh.nz/PlutoTV/64b79c057d934100080b3583-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Dazn ringside uk
+#EXTINF:-1 group-title="OTHER SPORTS", DAZN RINGSIDE UK
 https://r.mjh.nz/PlutoTV/65b14aae0cb1a100087a216e-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Dazn ringside uk
-https://r.mjh.nz/PlutoTV/65b14aae0cb1a100087a216e-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Dazn tv Canada (champions and Europa Leagues)
+#EXTINF:-1 group-title="OTHER SPORTS", DAZN TV CANADA (champions and Europa Leagues)
 https://r.mjh.nz/PlutoTV/647f07e74cfc2c0008a2e557-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Dazn Women's football
+#EXTINF:-1 group-title="OTHER SPORTS", DAZN WOMEN'S FOOTBALL
 https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8?ads_amagi_channel=855&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=c8e61e11-2bd8-40a6-adc2-4b266186548f&ads_rtv_content_id=5029&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=84296508-3a8e-4d24-955b-b2fde32d82e9&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:-1 group-title="OTHER SPORTS", Deportv
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Dubai Racing (Irish and uk racing)
-https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Dubai racing 2 (horse racing)
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Dubai racing 3 (horse racing)
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Dubai sports 1 (various sports)
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Dubai sports 2 (various sports)
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Dubai sports 4 (various sports)
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Equidia pro (french horse racing)
-https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Extreme sports
-https://r.mjh.nz/PlutoTV/5ea1966ae0e0610007b1faf2-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Extreme+
-https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-Dooya-SportsTribal/276.m3u8?iris_id=iris_05a33bdeda028749&content_genre=Action%2CSurfing%2CSkate%2CSnow+Sports%2CSkiing%2CSnowboard%2CMTB%2CBMX&t=2024-01-25T13%3A06%3A49.000&content_id=528c5f66_20240125130649_D0CF72b&ip=83.137.6.162&ads.user_consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ic=IAB17-34%2CIAB483-498%2CIAB498-503%2CIAB498-505%2CIAB498-499%2CIAB498-506&mute=false&iris_context=ic_4146983&ads.content_id=528c5f66_20240125130649_D0CF72b&schain=1&gdpr=1
-#EXTINF:-1 group-title="OTHER SPORTS", Fanduel racing (horse racing)
-https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Fanduel tv (horse racing)
-https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_4.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Fanduel tv extra (horse racing)
-https://dd66cf6aae5b4f7dadf70efcbfbc1beb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_FanDuelTVChannel/playlist.m3u8?ads.wurl_channel=1568&ads.wurl_name=FanDuelTVChannel&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D
-#EXTINF:-1 group-title="OTHER SPORTS", Fast sports 1 Armenia
-https://srv3.gisher.org/tv/v2_360.m3u8?t=l1kerr9DJaCxd7uBfzotpQ&e=1708191883
-#EXTINF:-1 group-title="OTHER SPORTS", Fast sports 2 Armenia
-https://srv3.gisher.org/tv/v3_360.m3u8?t=yo-gC-k_uDj3_hLmYqhh3g&e=1708191908
-#EXTINF:-1 group-title="OTHER SPORTS", Fei tv
-https://fhd0007.live.clipmyhorse.tv/live/smil:adaptive_freemium.smil/chunklist_b3256000.m3u8
 
-#EXTINF:-1 group-title="OTHER SPORTS", Fight network
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-fightnetwork-sportstribal/playlist.m3u8?channel_name=Fightnetwork&p=sportstribal&content_title=Fightnetwork&channel_partner=Fightnetwork&content_genre=MMA&t=2024-01-25T18%3A02%3A02.000&content_id=e2c1ad69_20240125180202_D0CF72b&ip=83.137.6.162&mute=false&consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36&gdpr=1
-#EXTINF:-1 group-title="OTHER SPORTS", Fight sports
-http://210.210.155.35/session/81de881a-c353-11ee-80ef-8efa9d2aa6bd/dr9445/h/h05/01.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Fight tv
-https://i.mjh.nz/SamsungTVPlus/INBC2800017OC.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Fishing tv Italy
-https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Fite tv
-https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-SportsTribal/263.m3u8?iris_id=iris_05a33bdeda028749&content_genre=MMA%2CBoxing&t=2024-01-25T18%3A01%3A12.000&content_id=ce9a9fb6_20240125180112_D0CF72b&ip=83.137.6.162&ads.user_consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ic=IAB485-483%2CIAB546-483%2CIAB520-483%2CIAB17-20&mute=false&iris_context=ic_4146983&ads.content_id=ce9a9fb6_20240125180112_D0CF72b&schain=1&gdpr=1
-#EXTINF:-1 group-title="OTHER SPORTS", Football hd Tajikistan
-https://live.teleradiocom.tj/8/3m.m3u8
-
-#EXTINF:-1 group-title="OTHER SPORTS", France 2 ( erc rugby)
-http://livetv.ktv.zone/104/play.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Fubo sports usa
-https://i.mjh.nz/SamsungTVPlus/USAJ2200023Z0.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Fuel tv
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8?channel_name=Fuel+TV&content_id=3bc3536b_20240125183000_D0CF72b&ip=83.137.6.162&mute=false&consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36&gdpr=1&p=sportstribal&content_title=Fuel+TV&channel_partner=Fuel+TV&content_genre=Action%2CSurfing%2CSkate%2CSnow+Sports%2CSkiing%2CSnowboard%2CMTB%2CBMX&t=2024-01-25T18%3A30%3A00.000&ic=IAB17-34%2CIAB483-498%2CIAB498-503%2CIAB498-505%2CIAB498-499%2CIAB498-506
-#EXTINF:-1 group-title="OTHER SPORTS", Gaora sports Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 group-title="OTHER SPORTS", Gctv
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-gctv-sportstribal/playlist.m3u8?channel_name=GCTV&content_id=41980c0f_20240125155110_D0CF72b&ip=83.137.6.162&mute=false&consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36&gdpr=1&p=sportstribal&content_title=GCTV&channel_partner=GCTV&content_genre=Horses%2CEquestrian&t=2024-01-25T15%3A51%3A10.000&ic=IAB17-16%2C+IAB17-17%2C+IAB17-18%2CIAB483-514%2CIAB483-496
-#EXTINF:-1 group-title="OTHER SPORTS", Golf network
-http://203.162.235.41:28107
-#EXTINF:-1 group-title="OTHER SPORTS", Hard knocks tv
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribalV2/121.m3u8?ads.content_genre=MMA&t=2024-01-29T12%3A25%3A03.000&content_id=1a906a22_20240129122503_D0CF72b&ads.channel_partner=Hard+Knocks&ads.ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36&ads.user_consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ads.ip=83.137.6.166&mute=false&ads.channel_name=Hard+Knocks&gdpr=1
-#EXTINF:-1 group-title="OTHER SPORTS", Ictimai tv Azerbaijan
-https://cdn405.canlitv.vin/ictimaitv.m3u8?tkn=Hyg7DWWEDZVnxILgRfwz-w&tms=1707093388&hst=www.canlitv.vin&ip=109.76.14.107
-#EXTINF:-1 group-title="OTHER SPORTS", Idman tv Azerbaijan (Premier League Bundesliga wrc)
-https://edge02.odtv.az/o7/idman/playlist.m3u8
-
-#EXTINF:-1 group-title="OTHER SPORTS", Irib 4k (some 4k sports)
-https://cdn-azd2055.telewebion.com/faratar/live/2160p/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Irib tv 3 iran (champions league and Europa league)
-https://cdn-azd2042.telewebion.com/tv3/live/1080p/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Itv 4 uk(various sports)
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/24301
-#EXTINF:-1 group-title="OTHER SPORTS", Itv Deportes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
-#EXTINF:-1 group-title="OTHER SPORTS", Itv uk (fa cup)
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/24298
-#EXTINF:-1 group-title="OTHER SPORTS", joj sport slovakia(various sports Inc Liv golf)
-https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Jtbc
-https://i.mjh.nz/SamsungTVPlus/KRBC5000019FB.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Jtbc golf
-https://i.mjh.nz/SamsungTVPlus/KRBC5000018O9.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", k24 Kenya (3pm premier League)(English)
-https://livestream.angani.africa/livestream/k24/master.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Kick sports news
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/2ERRPZTG6RYWL98BUO8Z/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=carbontv.com&ads.app_name=CarbonTV&ads.app_store_url=https://www.carbontv.com/&ads.cb=&ads.channel_name=Kick+Sports+News&ads.content_genre=Sports&ads.content_series=Sports+Wrap&ads.did=&ads.gdpr=0&ads.gdpr_consent=0&ads.h=1080&ads.ic=IAB17&ads.ip=&ads.pod_max_dur=120&ads.provider=TrueAmerican&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=www.carbontv.com&ads.us_privacy=1---&ads.vast_id=STA112&ads.w=1920&coppa=0&is_lat=0&livestream=1
-#EXTINF:-1 group-title="OTHER SPORTS", Kozoom tv
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-kozoom-sportstribal/playlist.m3u8?channel_name=Kozoom&p=sportstribal&content_title=Kozoom&channel_partner=Kozoom&content_genre=Billiard%2CPool%2CSnooker&t=2024-01-25T17%3A42%3A13.000&content_id=bf580ae8_20240125174213_D0CF72b&ip=83.137.6.162&ic=IAB532-483&mute=false&consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36
-#EXTINF:-1 group-title="OTHER SPORTS", Ksa sports 1 Saudi Arabia
-https://edge.taghtia.com/sa/9.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Ksa sports 2 Saudi Arabia
-https://edge.taghtia.com/sa/10.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Kuwait sport
-https://kwmedia.hibridcdn.net/kwmedia/kwtvsports_abr/kwmedia/kwtvsports_1080p/chunks.m3u8?p=53&s=1706374267&e=1706460667&cf=1706460667&h=5e2e316de1cf27977d244af45a867154&hs=1401489058
-#EXTINF:-1 group-title="OTHER SPORTS", Kuwait sport plus
-https://kwmedia.hibridcdn.net/kwmedia/kwtvsportsplus_abr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8?p=57&s=1706461203&e=1706547603&cf=1706547603&h=e8e025b4c509c3d1543585f023cdc972&hs=1318637137
-
-#EXTINF:-1 group-title="OTHER SPORTS", La 7d Italia (Saudi Pro League)
-https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", La Liga+ (various sports)
-https://i.mjh.nz/SamsungTVPlus/ESBD3600001Q1.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Lacrosse tv
-https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Lenz sport Iran(premier League)
-https://lenz.ayassport.ir/wh7f454c46tw427076266_1100830981/PLTV/88888888/224/3221226614/4.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Lo mejor de liga
-https://linear-452.frequency.stream/dist/vidaa/452/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4992
-#EXTINF:-1 group-title="OTHER SPORTS", M-net sports Macedonia
-http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", M4 sport Hungary
-https://c202-node61-cdn.connectmedia.hu/110304/839ed9d0fef170f61bfa57562d6eccd3/65ba01a2/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", M6 France
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Maq tv (cricket)
-https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-369a105d1ae94fdda2557ebf0d18023a/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Match! Russia
-https://streaming.televizor-24-tochka.ru/live/6.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Mmn sports tv
-http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Monterrico tv Peru (horse racing)
-https://jcp.live.opencaster.com/play_src/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", More than sports tv Germany (various sports)(premiership rugby)
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Moto America
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-motoamerica-sportstribal/playlist.m3u8?channel_name=MOTOAMERICA&content_id=b149684d_20240125183000_D0CF72b&ip=83.137.6.162&mute=false&consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36&gdpr=1&p=sportstribal&content_title=MOTOAMERICA&channel_partner=MOTOAMERICA&content_genre=Racing%2CMotor+Racing%2CMotorsport&t=2024-01-25T18%3A30%3A00.000&ic=IAB519-518
-#EXTINF:-1 group-title="OTHER SPORTS", Motorcycle channel
-https://the-motorcycle-channel-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_656a81ba21b48a90a803cf83_the-motorcycle-channel-live/playlist.m3u8?ads.wurl_channel=1524&ads.wurl_name=TheMotorcycleChannel&ads.coppa=0&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.did=&ads.ifa_type=&ads.dnt=&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=&ads.ua=&ads.content_id=&ads.content_title=&ads.cust_channeltype=Shows&ads.content_genre=&ads.content_provider=&ads.us_privacy=&ads.cb=4832227553471988&ads.w=360&ads.h=203&ads.url=https%3A%2F%2Fwww.sports.tv%2Fchannels%2Fepg-the-motorcycle-channel&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%206.1%3B%20WOW64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F80.0.3987.100%20Safari%2F537.36&ads.channel_id=656a81ba21b48a90a803cf83&ads.content_custom_1_param=656a81ba21b48a90a803cf83&ads.channel_title=The%20Motorcycle%20Channel&ads.channel_contenttype=Sports&ads.channel_name=The%20Motorcycle%20Channel&ads.channel_genre=Sports&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=3600&ads.content_livestream=1&ads.network_name=the-motorcyle-channel&ads.content_provider=the-motorcyle-channel&ads.ip=68.235.38.42&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=&ads.hybrid=0&ads.tag_id=localnow&ads.adc_token=R0lDREZESUVDTWwwKGRzTlRUNjE7VzYpQWk2KFQsbGtlR2spQzAwUy82&user_cookieid=f0896a03-abfd-42be-b61e-9f391b2e79cd&ads.cust_anonymousid=d4345e9e-d891-42ef-8851-fc7dae366498
-#EXTINF:-1 group-title="OTHER SPORTS", Motorsport tv
-https://6b3b2599.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX01vdG9yc3BvcnRUVl9ITFM/playlist.m3u8?ads.coppa=0&ads.rating=2&ads.ic=IAB19-16%2CIAB25-1&t=2024-01-25T18%3A01%3A00.000&ads.wurl_name=MotorsportTV&ads.wurl_channel=1370&ads.channel_partner=MotorsportTV&ads.gdpr=1&ads.cid=ee02728d-61986-20240125180100_D0CF72b&ads.mute=0&ads.consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA
-#EXTINF:-1 group-title="OTHER SPORTS", Motorvision
-https://r.mjh.nz/PlutoTV/61c199a31387c80007c894c3-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Motorvision uk
-https://i.mjh.nz/SamsungTVPlus/GBBA1500006H6.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Msg SportZone
-https://i.mjh.nz/SamsungTVPlus/USBD300021B8.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Mtrspt 1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8?channel_name=MTRSPT1&content_id=284f9d24_20240125180149_D0CF72b&ip=83.137.6.162&mute=false&consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36&gdpr=1&p=sportstribal&content_title=MTRSPT1&channel_partner=MTRSPT1&content_genre=Drag+Racing%2CRacing%2CMotor+Racing%2CMotorsport&t=2024-01-25T18%3A01%3A49.228&ic=IAB19-16%2CIAB25-1
-#EXTINF:-1 group-title="OTHER SPORTS", My padel tv
-https://i.mjh.nz/SamsungTVPlus/ESBC3500003YK.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Nbc golfpass
-https://i.mjh.nz/SamsungTVPlus/USBB400000145.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Nbc sports free usa
-https://r.mjh.nz/PlutoTV/6549306c83595c000815a696-alt.m3u8
-
-#EXTINF:-1 group-title="OTHER SPORTS", On golf
-https://code.vthanhtivi.pw/getlink/tv360/LUXGVjTyFJWyfrK2iNTClQ/1707111183/169/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", On sports
-https://code.vthanhtivi.pw/getlink/onlive/onsports/96808.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", On sports +
-https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/20231229.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", On sports news
-https://pc-web.stream.onlive.vn/live-stm-01/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.c8lW59DcVTO3JsPT7VHxKF0MEr0os77HQ_8GDJOBN9baJdDHmdXhGZ4VBpSi9ENLm2WDYZ548bCfrmUIx8CoRLRWnTDc95egjebNrl0m_m8
-
-#EXTINF:-1 group-title="OTHER SPORTS", Origin sports
-https://i.mjh.nz/SamsungTVPlus/GBBC300001ZW.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Ortb Benin
-https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Outside sports
-https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Pac 12 insider
-https://pac12-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Pbr ridepass
-https://r.mjh.nz/PlutoTV/60d39387706fe50007fda8e8-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Persiana sports Iran (Various sports)
-https://stream.live12.ir/hls2/persiana.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Pfl tv
-https://d856dff4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/playlist.m3u8?ads.kwds=MMA%2CMartial+Arts&ads.coppa=0&ads.rating=2&ads.ic=IAB17-20%2CIAB483-520%2CIAB483-485&t=2024-01-29T12%3A04%3A00.000&ads.wurl_name=PFLMMA&ads.wurl_channel=1309&ads.channel_partner=PFLMMA&ads.gdpr=1&ads.cid=d5e3ebd5-61919-20240129120400_D0CF72b&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36&ads.mute=0
-#EXTINF:-1 group-title="OTHER SPORTS", PGA tour opt 1
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=0&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=PGATour&ads.csid=zeus_uk_pgatour_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=5217&ads.rakuten_streaming_id=788721d4-8d79-45a3-853e-ab1f08a76125&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883073&ads.xumo_contentId=211&ads.xumo_contentName=PGATour&ads.xumo_ifa=c8e61e11-2bd8-40a6-adc2-4b266186548f&ads.xumo_ifaType=ppid&ads.xumo_providerId=211&ads.xumo_providerName=PGATour&ads.xumo_streamId=88883073
-#EXTINF:-1 group-title="OTHER SPORTS", Pga tour opt 2
-https://i.mjh.nz/SamsungTVPlus/GBBB1500005BH.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Pga tour opt 3
-https://i.mjh.nz/SamsungTVPlus/INBD29000010W.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Pickle tv
-https://c3233b7fc40c4802bca196ef41b586a6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTribal-eu_PickleTV-1/playlist.m3u8?ads.kwds=Pickeball%2CTennis%2CRacket+Sport%2C+Paddle+Sport&ads.coppa=0&ads.ic=IAB17-39%2CIAB17-40&t=2024-01-29T12%3A21%3A00.000&ads.wurl_name=PickleTV&ads.wurl_channel=1380&ads.channel_partner=PickleTV&ads.cid=48ebe739-62314-20240129122100_D0CF72b&ads.mute=false&ads.consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA
-#EXTINF:-1 group-title="OTHER SPORTS", Pluto tv Action Germany
-https://r.mjh.nz/PlutoTV/5be1be871843b56328bc3ef1-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Pluto tv Deportes Espana
-https://r.mjh.nz/PlutoTV/5f1ac8588734f8000823b7de-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Pluto tv Deportes Mexico
-https://i.mjh.nz/SamsungTVPlus/INBC2800017OC.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Pluto tv Deportes premier League
-https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Pluto tv Esportes Brazil
-https://r.mjh.nz/PlutoTV/5f32d2db0af67400077f29c4-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Pluto tv fishing
-https://r.mjh.nz/PlutoTV/619e1874e0d3a7000729a036-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Pluto tv mlb channel
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="OTHER SPORTS", Pluto tv Nfl channel
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
-#EXTINF:-1 group-title="OTHER SPORTS", Pluto tv sport italy
-https://r.mjh.nz/PlutoTV/608030eff4b6f70007e1684c-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Pluto tv sports America
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId=&appName=web&appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d&app_name=web&clientDeviceType=0&clientID=a43fec89-d02c-4203-9157-330e47e21bd7&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=a43fec89-d02c-4203-9157-330e47e21bd7&deviceLat=45.9500&deviceLon=-112.5200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=120.0.6099&marketingRegion=US&serverSideAds=false&sessionID=25fa63f1-aeed-11ee-aaf3-22f787f415c3&sid=25fa63f1-aeed-11ee-aaf3-22f787f415c3&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjUzNjZhNDc0LWQ2NjYtNDg1Ni04MDFjLTQyNzVkMTcwNGMyOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIyNWZhNjNmMS1hZWVkLTExZWUtYWFmMy0yMmY3ODdmNDE1YzMiLCJjbGllbnRJUCI6IjY4LjIzNS4zMy4xMTAiLCJjaXR5IjoiQnV0dGUiLCJwb3N0YWxDb2RlIjoiNTk3MDEiLCJjb3VudHJ5IjoiVVMiLCJkbWEiOjc1NCwiYWN0aXZlUmVnaW9uIjoiVVMiLCJkZXZpY2VMYXQiOjQ1Ljk1MDAwMDc2MjkzOTQ1LCJkZXZpY2VMb24iOi0xMTIuNTE5OTk2NjQzMDY2NCwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTIwLjAuNjA5OSIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNy45LjAtYTljY2E2Yjg5YWVhNGRjMDk5OGI5MmE1MTk4OWQyYWRiOWE5MDI1ZCIsImNsaWVudElEIjoiYTQzZmVjODktZDAyYy00MjAzLTkxNTctMzMwZTQ3ZTIxYmQ3IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvRGVudmVyIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJpc1N0aXRjaGVyRWtzIjp0cnVlLCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7Im1hdGNoRXhhY3RJblBocmFzZUVuYWJsZWQiOnRydWUsIm1hdGNoSW5BY3RvcnNFbmFibGVkIjp0cnVlLCJtYXRjaEluRGlyZWN0b3JzRW5hYmxlZCI6dHJ1ZSwicXVlcnlTeW5vbnltc0VuYWJsZWQiOnRydWUsInF1ZXJ5VmVyc2lvbiI6InYxIn19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6ImE0M2ZlYzg5LWQwMmMtNDIwMy05MTU3LTMzMGU0N2UyMWJkNyIsImZ3VmNJRDJDb3BwYSI6ImE0M2ZlYzg5LWQwMmMtNDIwMy05MTU3LTMzMGU0N2UyMWJkNyIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiYTQzZmVjODktZDAyYy00MjAzLTkxNTctMzMwZTQ3ZTIxYmQ3IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlVTOllUUXpabVZqT0RrdFpEQXlZeTAwTWpBekxUa3hOVGN0TXpNd1pUUTNaVEl4WW1RMyIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3MDQ4OTA4MDYsImlhdCI6MTcwNDgwNDQwNiwianRpIjoiNTNjMTI4YmQtZTBjYi00NDk4LWJmYTgtOGQxMTRhNjMyOWFhIn0.MmZk4yr13HI4z-j4vxuZv-QdjK75X5bYRSRyNWBJF0U&masterJWTPassthrough=true&gdpr=1&gdprConsent=CP3V7wAP3V7wAAcABBENAgEgAPLAAEJgACiQJwgR5C5ETWlDYHh3Afs0WYAHVlgwAMAgAgCBACAFCAAAIAQABCAgIAQIACACGAAAIAIBIAAEAAAEQEAAQAAAIAFAAAAAgAAIIABAAAMAAAAAAAIAgAAgAAAAAAAREAAAiAgAAEKEQEAAQAAAAAAAAAAAAIAEAgMAAAAAQAIAAAAAAgAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAYJwgBgChETQlAaChVAPEUCIAQVhAwAIAgAACBAAAECAAAIAQAFCAgAAAIAAAAGAAAIAABAAAAAAAEAEAAQAAAIABAAAAAAAAIAABAAAEAAAAAAAAAgAAgAAAAAAAQAAAAgQhAAAAEQEAAQAAAAAAAAIAAAIAAAAMAAAAAAAAAAAAAAgAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAIBoUAiAAqAE4AVAA9ACKAFIALwAcwBKgCtAHAAQgAjsBXgFfAPaAloBUsDqQOqCAHYAGAAaABCAC4AMAAtgByAHQARgAnABRAC1AGEAYgAywBoAGwAOUAgACCAEYAI8AUgAuQBxAGNANAAlkBe4DFAGNgMgAcwA6EB5gSACAEQeAOAAVACcAKgAegBFACcAFIAOYArQBwQFeAV8A9oB_AEtQOpA6ocAigAYABoAEAAMAAtAB0AEYAKIAWgAvABhADKAGwANwAcoBAAEEAIwASoAuQBqgDiAKaAY0A0AB-gFrALeAXuAxQBjYDIAHMAOhAeYA9kdABACIRADgAqAHBAV4BXwD2gH8AS1A6kDqiAA4AMIAbABKgDVAHEAU0AxoB-gFrALeAXuAxQBkADmCUBEABYAHAAeABEACYAFwAMUAhgCJAEcAKMAxQB1AEXgJEAXmAyQCAJIAEABcBSZQA-AA0ACAAGAAWgA6ACMAFEALwAYQAygBsgDeAOUAgACCAEZAJUAlgBxAEIAJaAU0AwIBjQDQAH6ARqAvcBf4DFAHMAOhgdSB1QDzCoAmAE4AVABFADmAK0AcEBXgFfAS0AtYBkBSACAEQAA.flgACEwAAAAA&includeExtendedEvents=true&paln=AQzzBGQE-KsCMWmx1NbZABy_ORSs-syvp4l32RdfhgPWFXDP3VgYjYoVfWL01BRqZbGgUsk6kQHIntrBxXcQqkvsqRTHZDrjmcKn78hIFo4ZRqmcMNqZKmwHoJy1V5PgV-KP5p8PF92F6GB3GaLbxsdFaljnFm0WjkeiM7fq0ZQibjzuX2sGvIOdLNetGeoAe-3cmUxVXmsDJjMTHnMW13NNhr165LA2icT_J5S24o1s2a9IV8GXg5YZ1hFQ_JzKhhbnbMYshxKihwwGey2mfpviF5AGzQ7SgqdOjVnvyvXF05hTHIBzg3r80rXm-TZ6glH1AsRq3ln-MA_AVXBNjwWOcaUw5CxjkCqX_rXBq4Kk5anSxxvBFKO--Yvl9U-Kuaa_jPxmdUNvzxsTKHk5ikNonyA0u1dCpkJv145GfwNiZCIL7havkaFe9YFh6BiMD1NdJ702Q9kCxDtasBOnNZDk6vCiM3d8h7xes18bLQOM4_UnLMTED0UUH8KkJScvDutPCuO8PAed_aVSMl7FVCbg_PMPJowpZ-2HWin15yTxY4LDFyuvOMk6OZh58DaCf9K3xq71h4YbvznE0RSWJtodiiBWfiGb8nLDv_6MQNkaJD_922d8y1n--gSFubQKUi7hif6SeZkRWcSd7u-j_YeOarhsQYtBiCrs1CzeDwwVpAgQFuA0EY1e9cZZVFYlWIkrE5vXbav0eUcWUZGHFHq5tLzAtoHyBCtIDnqcpnt4x5Rjs0Sl6TSjaTJic4gm1w-8RCFaWZGg-dDPFJH4t2DMeDy-VW7EV3j-fiBb3gNKqrgTlAQ668T4M2dENTI-VvS2dn-gsMb0AqH35H5v032OqaVCIzp7SV1f_XAGbE2ktB2RQKRE9w-98HRlwOCxKykLtu2fq-4t1t1i3z6nO8_Uw74wJ9UCaM9b_cIVJ8lZ3_wBNWFHpb5YlAy1i35ukmeexIYT738v4udV06ds3nVaHkHdTi9N4bCDcfwzhl24Zqzdq0h95UY0HhKgmBfsbVE_zDSRKYunMSs24vvSAtT-cFb-Epkz0xSDYL0Ak2-SiKhHmPwgUmQZW2rHx8Y6IrizBzdw26dhgRoB8bQ5OjwFsQr9dGjgo1YhwSchZ4HDxloVMGlM1ZeZVXNqecT4hI4t6L1ec-9x_AEhaLEdj2jMgcPrjwumZIKQTwfGQxePL9sLQjUS2a0EfdDuHlSwL__JyPUBh-CQdVCQ8WrM86gtE8pxGqmMiC2Nr0Li9Q6p5UiB1_9NyHvmAK_6dgnjNTGRaxn04e_CXC7dcqooBy-vVteGXAKzQQCArClb2AMWBT8zon9ZxKjlaSeQ1F-ofPTwiyqN0vLJBBwVxRHqNEd6bocU-O8bIxufyE1mv1H4ch_LjCCgDAgUN1VgBDxXYTcFIwjJ8UQXlYZE-doVNV5aOL4aCatGWzu7mvf_HAIboqSwDbkktlPB4XbDrMBr4vXVQQMnkmJAAOBTAtSwCRCRbZf2TKHsy54G3j5upTN01MrLCdbmy4jppUXc7ia6tInud7zrbx5wJzkn-eXo9-Alw667mHhMwZvU2q8QIkfS4hkO6CI6AsxMyQyzKob5nstcbEV4VAe5EPcTLLcIHLfe9VibS0DJLHqQOYQbv7lJR7smxi-xHZq0JTSaR3FsuczGMqE5wuF5I_UsnuP_ipcUtqq7zqwSZW_zUGG_rEdm_l-YfJGxd3jpKjeIKknFXsg0Oe8a3lBjwLln9Kl0NfZFL3hQ6_1HNTqKEOmDAIbxdP3Z3AEH9daWTmnyH2vWEe7v_qG_IdDj67Fu_3cL5aZORM2-c3kf64o4gOSDjAhIo037d9OtV9UJ_gtO5U43FDyUrAiHJ4AKoBKpv0KlJ9BLRmIY--kKU5MN59kTXTt1ClcPPtd6y1iigCXvy2kdjFnzzfvKbf25x36OqBZUodsoBtOh-nOfpdVylbHXEjB7AvvXuS1EO4BJP6VH-8p7htT7BtcgM6OubkZdoPiud2c7&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2227ba772c-362c-44bd-ab76-2abec223e686%22%2Csu
-#EXTINF:-1 group-title="OTHER SPORTS", Pluto tv sports Denmark
-https://r.mjh.nz/PlutoTV/6357f3de3643ba0007bc0b50-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Pluto tv sports France
-https://r.mjh.nz/PlutoTV/6081310e48d3200007afaf3b-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Pluto tv sports Norway
-https://r.mjh.nz/PlutoTV/6357f33cb51d2d00077927c6-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Pluto tv sports sweden
-https://r.mjh.nz/PlutoTV/62cd74e38f6f0d000798cd93-alt.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Poker tv Farsi
-https://hls.pokertvfa.live/hls/stream.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Premier sports network Mongolia
-https://cdn3.skygo.mn/live/disk1/SPSWORLD/HLS-FTA/SPSWORLD.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Ptv sports Pakistan (premier League)
-http://175.107.244.52:4457/play/a08g/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Qazsport
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Qsport international
-http://89.254.128.5:22280/qsport/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Racing America
-https://lnc-racing-america.tubi.video/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Rta sports Afghanistan
-https://hls.rtasport.live/hls/stream.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Rtl
-s6.hopslan.com/rtlq1/index.m3u8?token=453459889ec4a8f94dfb300082b68f1d3ebfc047-89d48bdbea994475331b1ff628da9922-1705369087-1705358287
-#EXTINF:-1 group-title="OTHER SPORTS", Rtp internacional portugal
-streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Rtv sport San Marino
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Russian Motorsport tv
-https://tv.a21network.ru/content/37909/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Sctv 15
-https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/01.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Sctv 17
-https://uy7qk2oykpliv.vcdn.cloud/hls/sctv17/01.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Servus tv Austria (F1 Motogp Wrc)
-https://s6.hopslan.com/servusx1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Setanta Turkmenistan(various football leagues)
-http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Shabake jam
-https://ncdn.telewebion.com/jam/live/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Sharjah sports tv
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Ski tv
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribalV2/193.m3u8?content_id=97ee0bd6_20240129122325_D0CF72b&ads.channel_partner=SkiTV&ip=83.137.6.166&ads.user_consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&mute=false&ads.channel_name=SkiTV&gdpr=1&p=sportstribal&content_title=SkiTV&ads.content_genre=Skiing&t=2024-01-29T12%3A23%3A25.000&ads.ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36&ic=IAB17-35%2CIAB17-36%2CIAB498-500%2CIAB498-504
-#EXTINF:-1 group-title="OTHER SPORTS", Sky open +1  New Zealand (various sports)
-https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", sos kanal Serbia
-https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Sport en France (various sports)
-https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Sport ext
-https://marine2.miplay.cl/sportext/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Sport hd (Premier League)
-https://lenz.ayassport.ir/wh7f454c46tw2739134558_1001334405/PLTV/88888888/224/3221226913/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Sport tv plus
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/XSJFWT5YF4UTW38VBLGF/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=carbontv.com&ads.app_name=CarbonTV&ads.app_store_url=https://www.carbontv.com/&ads.cb=&ads.channel_name=SportsTVPlus&ads.content_genre=Sports&ads.content_series=golfingthe+world+2307+castle+golf-synd&ads.did=&ads.gdpr=0&ads.gdpr_consent=0&ads.h=1080&ads.ic=IAB17&ads.ip=&ads.pod_max_dur=120&ads.provider=TrueAmerican&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=www.carbontv.com&ads.us_privacy=1---&ads.vast_id=STA117&ads.w=1920&coppa=0&is_lat=0&livestream=1
-#EXTINF:-1 group-title="OTHER SPORTS", Sport Uzbekistan (not 24/7)
-https://cda.tas-ix.tv/sportuz/index.m3u8?token=0a6a75e44873824b912330984e6a9047e6679bbe-cb2cfa3cbdd8cee476e091092ed3cf1b-1708115994-1708105194
-#EXTINF:-1 group-title="OTHER SPORTS", Sportdigital Free Germany
+#EXTINF:-1 group-title="OTHER SPORTS", SPORTDIGITAL FUSBALL
 https://i.mjh.nz/SamsungTVPlus/ATAJ0500433A.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Sportdigital scooore
+#EXTINF:-1 group-title="OTHER SPORTS", SPORTDIGITAL SCOOORE
 https://i.mjh.nz/SamsungTVPlus/ATBD26000124P.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Sportinghd (horse racing)
-https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Sportitalia solocalcio italy (football)
+
+#EXTINF:-1 group-title="OTHER SPORTS", DEPORTV
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+#EXTINF:-1 group-title="OTHER SPORTS", HARD KNOCKS TV
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribalV2/121.m3u8?ads.content_genre=MMA&t=2024-01-29T12%3A25%3A03.000&content_id=1a906a22_20240129122503_D0CF72b&ads.channel_partner=Hard+Knocks&ads.ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36&ads.user_consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ads.ip=83.137.6.166&mute=false&ads.channel_name=Hard+Knocks&gdpr=1
+
+#EXTINF:-1 group-title="OTHER SPORTS", IRIB TV 3 IRAN (champions league and Europa league)
+https://cdn-azd2042.telewebion.com/tv3/live/1080p/index.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", ITV DEPORTES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
+
+#EXTINF:-1 group-title="OTHER SPORTS", L'EQUIPE TV France
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
+
+#EXTINF:-1 group-title="OTHER SPORTS", LENZ SPORT IRAN (premier League)
+https://lenz.ayassport.ir/wh7f454c46tw427076266_1100830981/PLTV/88888888/224/3221226614/4.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", LO MEJOR DE LIGA
+https://linear-452.frequency.stream/dist/vidaa/452/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4992
+
+#EXTINF:-1 group-title="OTHER SPORTS", MATCH! Russia
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", MMN SPORTS TV
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
+#EXTINF:-1 group-title="OTHER SPORTS", NBC SPORTS FREE USA
+https://r.mjh.nz/PlutoTV/6549306c83595c000815a696-alt.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", NHL TV
+https://nhl-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="OTHER SPORTS", NITRO CIRCUS
+https://dbrb49pjoymg4.cloudfront.net/10001/99991294/hls/master.m3u8?ads.xumo_channelId=99991294&ads._fw_ifa_type=dpid&ads._fw_did=c162d88f-2332-175e-59eb-f75203f7d507&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=NitroCircus&ads.csid=xumo_desktopweb_NitroCircus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Sport&ads._fw_content_category=IAB17&ads._fw_content_language=en&ads._fw_content_genre=Sports&ads._fw_content_rating=TV-PG&ads.xumo_contentId=284&ads.xumo_contentName=NitroCircus&ads.xumo_providerId=284&ads.xumo_providerName=NitroCircus&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991294&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.13.1&ads._fw_app_bundle=&ads._fw_app_store_url=
+
+#EXTINF:-1 group-title="OTHER SPORTS", ORIGIN SPORTS
+https://i.mjh.nz/SamsungTVPlus/GBBC300001ZW.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", OUTSIDE SPORTS
+https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
+
+#EXTINF:-1 group-title="OTHER SPORTS", PERSIANA SPORTS IRAN (Various sports)
+https://stream.live12.ir/hls2/persiana.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", PFL TV
+https://d856dff4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/playlist.m3u8?ads.kwds=MMA%2CMartial+Arts&ads.coppa=0&ads.rating=2&ads.ic=IAB17-20%2CIAB483-520%2CIAB483-485&t=2024-01-29T12%3A04%3A00.000&ads.wurl_name=PFLMMA&ads.wurl_channel=1309&ads.channel_partner=PFLMMA&ads.gdpr=1&ads.cid=d5e3ebd5-61919-20240129120400_D0CF72b&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36&ads.mute=0
+
+#EXTINF:-1 group-title="OTHER SPORTS", PLUTO TV MLB CHANNEL
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="OTHER SPORTS", PLUTO TV NFL CHANNEL
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
+#EXTINF:-1 group-title="OTHER SPORTS", PLUTO TV SPORT ITALY
+https://r.mjh.nz/PlutoTV/608030eff4b6f70007e1684c-alt.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", PLUTO TV SPORTS AMERICA
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId=&appName=web&appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d&app_name=web&clientDeviceType=0&clientID=a43fec89-d02c-4203-9157-330e47e21bd7&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=a43fec89-d02c-4203-9157-330e47e21bd7&deviceLat=45.9500&deviceLon=-112.5200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=120.0.6099&marketingRegion=US&serverSideAds=false&sessionID=25fa63f1-aeed-11ee-aaf3-22f787f415c3&sid=25fa63f1-aeed-11ee-aaf3-22f787f415c3&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjUzNjZhNDc0LWQ2NjYtNDg1Ni04MDFjLTQyNzVkMTcwNGMyOSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIyNWZhNjNmMS1hZWVkLTExZWUtYWFmMy0yMmY3ODdmNDE1YzMiLCJjbGllbnRJUCI6IjY4LjIzNS4zMy4xMTAiLCJjaXR5IjoiQnV0dGUiLCJwb3N0YWxDb2RlIjoiNTk3MDEiLCJjb3VudHJ5IjoiVVMiLCJkbWEiOjc1NCwiYWN0aXZlUmVnaW9uIjoiVVMiLCJkZXZpY2VMYXQiOjQ1Ljk1MDAwMDc2MjkzOTQ1LCJkZXZpY2VMb24iOi0xMTIuNTE5OTk2NjQzMDY2NCwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTIwLjAuNjA5OSIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNy45LjAtYTljY2E2Yjg5YWVhNGRjMDk5OGI5MmE1MTk4OWQyYWRiOWE5MDI1ZCIsImNsaWVudElEIjoiYTQzZmVjODktZDAyYy00MjAzLTkxNTctMzMwZTQ3ZTIxYmQ3IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvRGVudmVyIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJpc1N0aXRjaGVyRWtzIjp0cnVlLCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7Im1hdGNoRXhhY3RJblBocmFzZUVuYWJsZWQiOnRydWUsIm1hdGNoSW5BY3RvcnNFbmFibGVkIjp0cnVlLCJtYXRjaEluRGlyZWN0b3JzRW5hYmxlZCI6dHJ1ZSwicXVlcnlTeW5vbnltc0VuYWJsZWQiOnRydWUsInF1ZXJ5VmVyc2lvbiI6InYxIn19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6ImE0M2ZlYzg5LWQwMmMtNDIwMy05MTU3LTMzMGU0N2UyMWJkNyIsImZ3VmNJRDJDb3BwYSI6ImE0M2ZlYzg5LWQwMmMtNDIwMy05MTU3LTMzMGU0N2UyMWJkNyIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiYTQzZmVjODktZDAyYy00MjAzLTkxNTctMzMwZTQ3ZTIxYmQ3IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlVTOllUUXpabVZqT0RrdFpEQXlZeTAwTWpBekxUa3hOVGN0TXpNd1pUUTNaVEl4WW1RMyIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3MDQ4OTA4MDYsImlhdCI6MTcwNDgwNDQwNiwianRpIjoiNTNjMTI4YmQtZTBjYi00NDk4LWJmYTgtOGQxMTRhNjMyOWFhIn0.MmZk4yr13HI4z-j4vxuZv-QdjK75X5bYRSRyNWBJF0U&masterJWTPassthrough=true&gdpr=1&gdprConsent=CP3V7wAP3V7wAAcABBENAgEgAPLAAEJgACiQJwgR5C5ETWlDYHh3Afs0WYAHVlgwAMAgAgCBACAFCAAAIAQABCAgIAQIACACGAAAIAIBIAAEAAAEQEAAQAAAIAFAAAAAgAAIIABAAAMAAAAAAAIAgAAgAAAAAAAREAAAiAgAAEKEQEAAQAAAAAAAAAAAAIAEAgMAAAAAQAIAAAAAAgAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAYJwgBgChETQlAaChVAPEUCIAQVhAwAIAgAACBAAAECAAAIAQAFCAgAAAIAAAAGAAAIAABAAAAAAAEAEAAQAAAIABAAAAAAAAIAABAAAEAAAAAAAAAgAAgAAAAAAAQAAAAgQhAAAAEQEAAQAAAAAAAAIAAAIAAAAMAAAAAAAAAAAAAAgAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAIBoUAiAAqAE4AVAA9ACKAFIALwAcwBKgCtAHAAQgAjsBXgFfAPaAloBUsDqQOqCAHYAGAAaABCAC4AMAAtgByAHQARgAnABRAC1AGEAYgAywBoAGwAOUAgACCAEYAI8AUgAuQBxAGNANAAlkBe4DFAGNgMgAcwA6EB5gSACAEQeAOAAVACcAKgAegBFACcAFIAOYArQBwQFeAV8A9oB_AEtQOpA6ocAigAYABoAEAAMAAtAB0AEYAKIAWgAvABhADKAGwANwAcoBAAEEAIwASoAuQBqgDiAKaAY0A0AB-gFrALeAXuAxQBjYDIAHMAOhAeYA9kdABACIRADgAqAHBAV4BXwD2gH8AS1A6kDqiAA4AMIAbABKgDVAHEAU0AxoB-gFrALeAXuAxQBkADmCUBEABYAHAAeABEACYAFwAMUAhgCJAEcAKMAxQB1AEXgJEAXmAyQCAJIAEABcBSZQA-AA0ACAAGAAWgA6ACMAFEALwAYQAygBsgDeAOUAgACCAEZAJUAlgBxAEIAJaAU0AwIBjQDQAH6ARqAvcBf4DFAHMAOhgdSB1QDzCoAmAE4AVABFADmAK0AcEBXgFfAS0AtYBkBSACAEQAA.flgACEwAAAAA&includeExtendedEvents=true&paln=AQzzBGQE-KsCMWmx1NbZABy_ORSs-syvp4l32RdfhgPWFXDP3VgYjYoVfWL01BRqZbGgUsk6kQHIntrBxXcQqkvsqRTHZDrjmcKn78hIFo4ZRqmcMNqZKmwHoJy1V5PgV-KP5p8PF92F6GB3GaLbxsdFaljnFm0WjkeiM7fq0ZQibjzuX2sGvIOdLNetGeoAe-3cmUxVXmsDJjMTHnMW13NNhr165LA2icT_J5S24o1s2a9IV8GXg5YZ1hFQ_JzKhhbnbMYshxKihwwGey2mfpviF5AGzQ7SgqdOjVnvyvXF05hTHIBzg3r80rXm-TZ6glH1AsRq3ln-MA_AVXBNjwWOcaUw5CxjkCqX_rXBq4Kk5anSxxvBFKO--Yvl9U-Kuaa_jPxmdUNvzxsTKHk5ikNonyA0u1dCpkJv145GfwNiZCIL7havkaFe9YFh6BiMD1NdJ702Q9kCxDtasBOnNZDk6vCiM3d8h7xes18bLQOM4_UnLMTED0UUH8KkJScvDutPCuO8PAed_aVSMl7FVCbg_PMPJowpZ-2HWin15yTxY4LDFyuvOMk6OZh58DaCf9K3xq71h4YbvznE0RSWJtodiiBWfiGb8nLDv_6MQNkaJD_922d8y1n--gSFubQKUi7hif6SeZkRWcSd7u-j_YeOarhsQYtBiCrs1CzeDwwVpAgQFuA0EY1e9cZZVFYlWIkrE5vXbav0eUcWUZGHFHq5tLzAtoHyBCtIDnqcpnt4x5Rjs0Sl6TSjaTJic4gm1w-8RCFaWZGg-dDPFJH4t2DMeDy-VW7EV3j-fiBb3gNKqrgTlAQ668T4M2dENTI-VvS2dn-gsMb0AqH35H5v032OqaVCIzp7SV1f_XAGbE2ktB2RQKRE9w-98HRlwOCxKykLtu2fq-4t1t1i3z6nO8_Uw74wJ9UCaM9b_cIVJ8lZ3_wBNWFHpb5YlAy1i35ukmeexIYT738v4udV06ds3nVaHkHdTi9N4bCDcfwzhl24Zqzdq0h95UY0HhKgmBfsbVE_zDSRKYunMSs24vvSAtT-cFb-Epkz0xSDYL0Ak2-SiKhHmPwgUmQZW2rHx8Y6IrizBzdw26dhgRoB8bQ5OjwFsQr9dGjgo1YhwSchZ4HDxloVMGlM1ZeZVXNqecT4hI4t6L1ec-9x_AEhaLEdj2jMgcPrjwumZIKQTwfGQxePL9sLQjUS2a0EfdDuHlSwL__JyPUBh-CQdVCQ8WrM86gtE8pxGqmMiC2Nr0Li9Q6p5UiB1_9NyHvmAK_6dgnjNTGRaxn04e_CXC7dcqooBy-vVteGXAKzQQCArClb2AMWBT8zon9ZxKjlaSeQ1F-ofPTwiyqN0vLJBBwVxRHqNEd6bocU-O8bIxufyE1mv1H4ch_LjCCgDAgUN1VgBDxXYTcFIwjJ8UQXlYZE-doVNV5aOL4aCatGWzu7mvf_HAIboqSwDbkktlPB4XbDrMBr4vXVQQMnkmJAAOBTAtSwCRCRbZf2TKHsy54G3j5upTN01MrLCdbmy4jppUXc7ia6tInud7zrbx5wJzkn-eXo9-Alw667mHhMwZvU2q8QIkfS4hkO6CI6AsxMyQyzKob5nstcbEV4VAe5EPcTLLcIHLfe9VibS0DJLHqQOYQbv7lJR7smxi-xHZq0JTSaR3FsuczGMqE5wuF5I_UsnuP_ipcUtqq7zqwSZW_zUGG_rEdm_l-YfJGxd3jpKjeIKknFXsg0Oe8a3lBjwLln9Kl0NfZFL3hQ6_1HNTqKEOmDAIbxdP3Z3AEH9daWTmnyH2vWEe7v_qG_IdDj67Fu_3cL5aZORM2-c3kf64o4gOSDjAhIo037d9OtV9UJ_gtO5U43FDyUrAiHJ4AKoBKpv0KlJ9BLRmIY--kKU5MN59kTXTt1ClcPPtd6y1iigCXvy2kdjFnzzfvKbf25x36OqBZUodsoBtOh-nOfpdVylbHXEjB7AvvXuS1EO4BJP6VH-8p7htT7BtcgM6OubkZdoPiud2c7&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2227ba772c-362c-44bd-ab76-2abec223e686%22%2Csu
+
+#EXTINF:-1 group-title="OTHER SPORTS", RTA SPORTS AFGHANISTAN
+https://hls.rtasport.live/hls/stream.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", RTSH SPORT ALBANIA
+https://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/rtshsport_720p/playlist.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", RTV SPORT SAN MARINO
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
+
+#EXTINF:-1 group-title="OTHER SPORTS", SPORT EN FRANCE (various sports)
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", SPORT HD (Premier League)
+https://lenz.ayassport.ir/wh7f454c46tw2739134558_1001334405/PLTV/88888888/224/3221226913/index.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", SPORT TVL ITALY
+https://live.mariatvcdn.com/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/mono.m3u8
+
+#EXTINF:-1 group-title="OTHER SPORTS", SPORT ITALIA SOLOCALCIO
 https://i.mjh.nz/SamsungTVPlus/ITBC4700002CO.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Sportoutdoor.tv
+#EXTINF:-1 group-title="OTHER SPORTS", SPORTOUTDOOR.TV
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Sports news highlights
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-sprtnwshlt-lgau/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Sports tv Turkey (various sports)
+
+#EXTINF:-1 group-title="OTHER SPORTS", SPORTS TV TURKEY (various sports)
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Sportstak
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-sportstak-sportstribal/playlist.m3u8?channel_name=SportStak&content_id=9b4d2cb7_20240125183000_D0CF72b&ip=83.137.6.162&mute=false&consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36&gdpr=1&p=sportstribal&content_title=SportStak&channel_partner=SportStak&content_genre=Sport&t=2024-01-25T18%3A30%3A00.000&ic=IAB9-7%2CIAB483%2CIAB483-547%2CIAB483-533%2CIAB483-487
-#EXTINF:-1 group-title="OTHER SPORTS", Sportv
+
+#EXTINF:-1 group-title="OTHER SPORTS", SPORTV
 http://trenduhd.xyz:80/0454713149/6189330030/211941
-#EXTINF:-1 group-title="OTHER SPORTS", Sporty stuff tv(Greyhounds South African horses Darts)
+#EXTINF:-1 group-title="OTHER SPORTS", SPORTY STUFF TV (Greyhounds South African horses Darts)
 https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", SSC 1 Saudi Arabia(various sports)
-https://af.ayassport.ir/hls2/ssc1.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", SSC sport (live events only)
-https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Stadium sports
-https://csm-e-cetubiausw2live204-044861ea4d2c34bd3.csm.tubi.video/csm/live/368960642.m3u8?playback_start_ts=1704142617&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=613763&content_type=mp4&device_id=197e5bdb-1804-4a15-b911-e1bb582446b9&language=en&now_pos=0&platform=WEB&pub_id=5598e7342e939e25d0f9ad48dd1be9b5&vpaid_enabled=true&yo.eb.fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS9zdGFkaXVtL2gyNjQvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVZWTWlMQ0prWlhacFkyVmZhV1FpT2lJeE9UZGxOV0prWWkweE9EQTBMVFJoTVRVdFlqa3hNUzFsTVdKaU5UZ3lORFEyWWpraUxDSmxlSEFpT2pFM01EUTBNREU0TVRVc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pWkhVNlZrbEVSVTlmVWtWVFQweFZWRWxQVGw4M01qQlFJaXdpZFhObGNsOXBaQ0k2TUgwLlFtN2RqQkpoWTJwLXJNWjlqWDBUdHN4VXRBcGt6N3JIaXU4dnlYcVZMZV9Qa0VoREdZZ0hoNTQwZkxwci16ZmoxZGtXSm15RkI4akw5MldkWklCa0VB&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
-#EXTINF:-1 group-title="OTHER SPORTS", Start sports Russia ( various sports)
-https://strm.yandex.ru/kal/start/start0.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Start Triumph Russia
-https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Sukan Malaysia (various sports)
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 group-title="OTHER SPORTS", Surf channel Espana
-https://i.mjh.nz/SamsungTVPlus/ESBA140000460.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", T sports 7
-https://ctrl.laotv.la/live/TSports7/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Tdm sports Macau (la liga)
-https://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Teledeporte Espana (various sports)
+#EXTINF:-1 group-title="OTHER SPORTS", TELEDEPORTE ESPANA (various sports)
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Telemundo usa
+#EXTINF:-1 group-title="OTHER SPORTS", TELEMUNDO USA
 http://livex.pop-app.live/s4n/poplive/ch327/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Tennis channel international
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Tennis T2
-https://i.mjh.nz/SamsungTVPlus/USBC600001QL.m3u8
 
-#EXTINF:-1 group-title="OTHER SPORTS", Tigo sports
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Top rank boxing classics
-https://csm-e-cetubiausw2live204-02c3e4ae2177c369f.csm.tubi.video/csm/extlive/tubiprd01,Top-Rank.m3u8?playback_start_ts=1704142443.744&yo.ap=https%3A%2F%2Flna.tubi.video%2Fprd-yospace%2F&yo.t.jt=1000&yo.eb.fb=aHR0cHM6Ly9sbmMtdG9wLXJhbmsudHViaS52aWRlby9wbGF5bGlzdC5tM3U4&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=400000055&content_type=mp4&device_id=197e5bdb-1804-4a15-b911-e1bb582446b9&language=en&now_pos=0&pub_id=f0164792d92507a6e36d2ead10e4ffb5&vpaid_enabled=true&platform=WEB&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
-#EXTINF:-1 group-title="OTHER SPORTS", Torque
-https://df7ed838.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Ub3JxdWVfSExT/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", TR sport italy
-https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", TV 8.5 Turkey (champions + Europa league Saudi and Dutch football)
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:-1 group-title="OTHER SPORTS", Tvp sport Poland
-https://cdn-main.lolokoko.tv/TVPSport.stream/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Tvq sports Gautamala
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Tyc sports
-http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Usa today sports
+#EXTINF:-1 group-title="OTHER SPORTS", USA TODAY SPORTS
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Utrk sport Kyrgyzstan (various sports)
-https://64e5ed58c00d4.streamlock.net/live/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Varzesh tv Iran opt 2
-https://live.aionet.ir/hls/varzesh/varzesh_1080/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Varzesh tv Iran opt 3
-https://cdn-azd2044.telewebion.com/varzesh/live/1080p/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Varzesh tv Iran(various football leagues)
-https://af.ayas.ir/hls2/varzeshtv.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Varzish tv Tajikistan
-https://live.teleradiocom.tj/5/3m.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Viju+ sport russia
-http://135.181.115.81/russia/viasat_sport/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Wapa Deportes (various sports)
+
+#EXTINF:-1 group-title="OTHER SPORTS", WAPA DEPORTES (various sports)
 https://live.field59.com/wapa/wapa2/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Wedo sports Austria
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedosports-lgat/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Win sports(various sports)
+
+#EXTINF:-1 group-title="OTHER SPORTS", WIN SPORTS (various sports)
 http://190.61.57.2:1010/play/a01e/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Wired2fish tv
-https://linear-80.frequency.stream/dist/sportstribaltv/80/hls/master/playlist.m3u8?ads.content_genre=Fishing%2CFishing+Tips%2CFishing+reviews&t=2024-01-29T12%3A00%3A00.000&content_id=99b9f6d4_20240129120000_D0CF72b&ads.channel_partner=Wired2Fish&ip=83.137.6.166&mute=false&ads.channel_name=Wired2Fish&consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36
-#EXTINF:-1 group-title="OTHER SPORTS", Women's sports
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", World of freesports
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-freesportsinc-sportstribal/playlist.m3u8?channel_name=WorldOfFreesports&content_id=b418f387_20240125182031_D0CF72b&ip=83.137.6.162&mute=false&consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36&gdpr=1&p=sportstribal&content_title=WorldOfFreesports&channel_partner=WorldOfFreesports&content_genre=Action%2CSurfing%2CSkate%2CSnow+Sports%2CSkiing%2CSnowboard%2CMTB%2CBMX&t=2024-01-25T18%3A20%3A31.920&ic=IAB17-34%2C+IAB483-498%2C+IAB498-503%2CIAB498-505%2CIAB498-499%2CIAB498-506
-#EXTINF:-1 group-title="OTHER SPORTS", World of freesports germany
+
+#EXTINF:-1 group-title="OTHER SPORTS", WORLD DARTS
+https://cdn.rtmp1.vodhosting.com/hls/WDF.m3u8
+
+#EXTINF:-1 group-title="OTHER SPORTS", WORLD OF FREESPORTS
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-worldoffreespor-lgde/playlist.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", wpt tv (world poker tour)
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", X sport plus Ukraine
-http://iptv.prosto.tv:7000/ch117/video.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Xsport Ukraine
-https://xsport.cdn-01.cosmonova.net.ua/hls/xsport_ua_hi/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", Yas tv Abu Dhabi (horse camel and falcon racing)
-https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/YASSportsChannel/DASH/master.mpd
-#EXTINF:-1 group-title="OTHER SPORTS", Zona Tudn
+
+#EXTINF:-1 group-title="OTHER SPORTS", ZONA TUDN
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 
 
-|||||||||||||||||||||||||||||||||||||||||| KIDS 
-
+||||||||||||||||||||||||||||||||||| KIDS 
+=======================
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", KHAZANAH
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
@@ -2790,8 +2540,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index
 
 
 
-|||||||||||||||||||||||||||||||||||||||||| KNOWLEDGE 
-
+|||||||||||||||||||||||||||||||||||||| KNOWLEDGE 
+==============================
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", KHAZANAH
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
@@ -3354,3 +3104,4 @@ https://stream.lokermusik.com:8420/lokermusik
 https://sv.rajamediautama.my.id/listen/station_4/radio
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.persibradio.id/asset/images/PERSIB-Radio-Logo.png", RADIO PERSIB
 https://s3.vinhostmedia.com:10945/;
+
