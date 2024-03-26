@@ -167,6 +167,13 @@ https://1a-gtv.rctiplus.id/gtv-sdi.mpd?|user-agent=Dalvik/2.1.0
 #EXTINF:-1 group-title="NASIONAL" tvg-id="iNews.id" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png", INEWS+
 https://1a-inews.rctiplus.id/inews-sdi.mpd?|user-agent=Dalvik/2.1.0 
 
+#EXTINF:-1 group-title="NASIONAL" tvg-id="RCTI.id" tvg-logo="https://static.mncnow.id/images/channel/e8b7a6a8/f009.png", RCTI Visen+
+https://liveaneviadev.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+#EXTINF:-1 group-title="NASIONAL" tvg-id="MNCTV.id" tvg-logo="https://static.mncnow.id/images/channel/c121c900/d11c.png", MNCTV Visen+
+https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+#EXTINF:-1 group-title="NASIONAL" tvg-id="GTV.id" tvg-logo="https://static.mncnow.id/images/channel/9436da00/11fe.png", GTV Visen+
+https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+
 #EXTINF:-1 group-title="NASIONAL" tvg-id="Indosiar.id" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="Ochannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", MOJI 
@@ -3101,4 +3108,3 @@ https://stream.lokermusik.com:8420/lokermusik
 https://sv.rajamediautama.my.id/listen/station_4/radio
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.persibradio.id/asset/images/PERSIB-Radio-Logo.png", RADIO PERSIB
 https://s3.vinhostmedia.com:10945/;
-
