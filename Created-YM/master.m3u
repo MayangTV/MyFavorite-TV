@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://xmltv.tvkaista.net/guides/indihometv.com.xml, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/dens.tv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://xmltv.tvkaista.net/guides/firstmedia.com.xml, https://xmltv.tvkaista.net/guides/mncvision.id.xml, https://xmltv.tvkaista.net/guides/visionplus.id.xml"  refresh="3600" billed-msg="PERBAIKI SHALATMU & PERBANYAK SHOLAWAT | MAYANG TV™@yaya m"
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", RAMADHAN CHANNEL
-http://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
+http://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8?|user-agent=Mozilla/5.0 
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="OChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", MOJI HD 
 https://bit.ly/moji_shareext-ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -14,7 +14,7 @@ http://bit.ly/indosiar_shareext-ts|User-Agent=OTT Navigator/hometv.finale (Linux
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd?|referer=https://visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="99" tvg-logo="https://thumbor.prod.vidiocdn.com/UMECq0_g6VrR4FqAl6Jzi_AO1ZE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-45122c.png", SPORTSTARS 3 BACKUP
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -2257,8 +2257,6 @@ http://202.150.161.68/spotv1/index.m3u8
 #EXTINF:-1 group-title="OTHER SPORTS", SPOTV 2 ASIA
 http://202.150.161.68/spotv2/index.m3u8
 
-#EXTINF:-1 group-title="OTHER SPORTS", L'EQUIPE TV
-https://live-c.cf.dmcdn.net/sec2(6pIvgna-wlfDtVmh__-aVxkss1zH7ou2sd4b1EKJYl-oS8cOodWBmBYO9y_uIyHSzQtflZz-rmO92zuRaEowRAoIYF-IL1Xefy5NMMOqEgM)/dm/3/x2lefik/d/live-4.m3u8
 #EXTINF:-1 group-title="OTHER SPORTS", L'EQUIPE LIVE 1
 https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/c8096d38-5da0-411b-9e41-dced3bc51468/1.m3u8
 #EXTINF:-1 group-title="OTHER SPORTS", L'EQUIPE LIVE 2
@@ -2269,15 +2267,11 @@ https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 group-title="OTHER SPORTS", START TRIUMPH Russia
 https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
 
-#EXTINF:-1 group-title="OTHER SPORTS" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", TNT SPORTS HD
-http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="OTHER SPORTS", UNBEATEN
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="OTHER SPORTS", TyC SPORTS
 http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="OTHER SPORTS", SPORTY STUFF TV
-https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="OTHER SPORTS", J SPORTS 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="OTHER SPORTS", J SPORTS 2
@@ -2305,13 +2299,9 @@ https://live.tmk.ir/channel2/signal/stream_720/index.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99991315/hls/playlist.m3u8?ads.xumo_channelId=99991315&ads._fw_ifa_type=dpid&ads._fw_did=c162d88f-2332-175e-59eb-f75203f7d507&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ACCDigitalNetwork&ads.csid=xumo_desktopweb_ACCDigitalNetwork_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Sport&ads._fw_content_category=IAB17&ads._fw_content_language=en&ads._fw_content_genre=Sports&ads._fw_content_rating=TV-PG&ads.xumo_contentId=251&ads.xumo_contentName=ACCDigitalNetwork&ads.xumo_providerId=251&ads.xumo_providerName=ACCDigitalNetwork&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991315&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.13.1&ads._fw_app_bundle=&ads._fw_app_store_url=
 #EXTINF:-1 group-title="OTHER SPORTS", ACI SPORT TV ITALY (motorsports)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", ADVENTURE SPORTS
-https://livestream.mdc.akamaized.net/channellivev3/live/master.m3u8?channel=275
 
 #EXTINF:-1 group-title="OTHER SPORTS",  BEIN AYAS 1
 https://edge11.97588.ir.cdn.ir/hls2/ayas1.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS",  BEIN AYAS 2
-https://edge11.97588.ir.cdn.ir/hls2/ayas2.m3u8
 
 #EXTINF:-1 group-title="OTHER SPORTS", TR SPORT ITALY
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
@@ -2321,7 +2311,7 @@ https://trtspor.blutv.com/blutv_trtspor/live.m3u8
 https://trtsporyildiz.blutv.com/blutv_trtsporyildiz/live.m3u8
 
 #EXTINF:-1 group-title="OTHER SPORTS", VARZESH TV IRAN 
-https://live.aionet.ir/hls/varzesh/varzesh_1080p/index.m3u8
+https://cdn-azd2044.telewebion.com/varzesh/live/1080p/index.m3u8
 
 #EXTINF:-1 group-title="OTHER SPORTS", BELARUS 5 INTERNET
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
@@ -2359,9 +2349,6 @@ https://i.mjh.nz/SamsungTVPlus/ATAJ0500433A.m3u8
 #EXTINF:-1 group-title="OTHER SPORTS", SPORTDIGITAL SCOOORE
 https://i.mjh.nz/SamsungTVPlus/ATBD26000124P.m3u8
 
-#EXTINF:-1 group-title="OTHER SPORTS", DEPORTV
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-
 #EXTINF:-1 group-title="OTHER SPORTS", HARD KNOCKS TV
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribalV2/121.m3u8?ads.content_genre=MMA&t=2024-01-29T12%3A25%3A03.000&content_id=1a906a22_20240129122503_D0CF72b&ads.channel_partner=Hard+Knocks&ads.ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36&ads.user_consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ads.ip=83.137.6.166&mute=false&ads.channel_name=Hard+Knocks&gdpr=1
 
@@ -2371,7 +2358,7 @@ https://cdn-azd2042.telewebion.com/tv3/live/1080p/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
 
 #EXTINF:-1 group-title="OTHER SPORTS", LENZ SPORT IRAN (premier League)
-https://lenz.ayassport.ir/wh7f454c46tw427076266_1100830981/PLTV/88888888/224/3221226614/4.m3u8
+https://lenz.ayassport.ir/wh7f454c46tw427076266_1100830981/PLTV/88888888/224/3221226614/3.m3u8
 #EXTINF:-1 group-title="OTHER SPORTS", LO MEJOR DE LIGA
 https://linear-452.frequency.stream/dist/vidaa/452/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4992
 
@@ -2431,8 +2418,6 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1 group-title="OTHER SPORTS", SPORTV
 http://trenduhd.xyz:80/0454713149/6189330030/211941
-#EXTINF:-1 group-title="OTHER SPORTS", SPORTY STUFF TV (Greyhounds South African horses Darts)
-https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
 
 #EXTINF:-1 group-title="OTHER SPORTS", TELEDEPORTE ESPANA (various sports)
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
@@ -2605,6 +2590,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 ==========================================
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://photocall.cc/img/new/lovenature.png", LOVE NATURE Eng
+https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://photocall.cc/img/new/bbc.png", BBC EARTH
+https://bbc-bbcearth-1-us.plex.wurl.tv/2000.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://photocall.cc/img/new/bbc.png", BBC ANTIQUES
+https://bbc-antiquesroadshowuk-1-us.plex.wurl.tv/2000.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://photocall.cc/img/new/bbc.png", BBC HOME
+https://d1wxiaxdr51kqy.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-perrpizm3ap26-prod/594a746f-110b-4c4c-93ea-be27fd5bc0eb/1.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://photocall.cc/img/new/bbc.png", BBC HISTORY
+https://7a0978fa08424aa3b473d22dc144bd01.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCHistory/2eb38fc8-2eed-49bf-957d-e71f8ca7c372/1.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE", NAT GEO USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
 https://webhdrus.onlinehdhls.ru/lb/premium328/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
