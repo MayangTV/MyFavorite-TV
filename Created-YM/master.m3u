@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://xmltv.tvkaista.net/guides/indihometv.com.xml, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/dens.tv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://xmltv.tvkaista.net/guides/firstmedia.com.xml, https://xmltv.tvkaista.net/guides/mncvision.id.xml, https://xmltv.tvkaista.net/guides/visionplus.id.xml"  refresh="3600" billed-msg="PERBAIKI SHALATMU & PERBANYAK SHOLAWAT | MAYANG TV™@yaya m"
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", RAMADHAN CHANNEL
+#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png" group-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", RAMADHAN CHANNEL
 http://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8?|user-agent=Mozilla/5.0 
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="99" tvg-logo="https://thumbor.prod.vidiocdn.com/UMECq0_g6VrR4FqAl6Jzi_AO1ZE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-45122c.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", BRI LIGA 1 - SPORTSTARS 3 
@@ -10,13 +10,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8?|user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="99" tvg-logo="https://thumbor.prod.vidiocdn.com/UMECq0_g6VrR4FqAl6Jzi_AO1ZE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-45122c.png", SPORTSTARS 3 BACKUP
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
 #https://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="88" tvg-logo="https://thumbor.prod.vidiocdn.com/UMECq0_g6VrR4FqAl6Jzi_AO1ZE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-45122c.png", BRI LIGA 1 - SPORTSTARS 4
@@ -27,7 +20,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="SPOTV.kr" tvg-logo="https://static.mncnow.id/images/channel/d4a3bbd6/4b47.png", SPO TV 1 ID
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", SPO TV 1 ID
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -35,7 +28,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.m
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="SPOTV2.kr" tvg-logo="https://static.mncnow.id/images/channel/fa2e7f65/768b.png", SPOTV 2 ID
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="SPOTV2.kr" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", SPOTV 2 ID
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -43,14 +36,14 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png", SPO TV1 MALAYSIA
+#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", SBK - SPOTV 1 MAY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7de0fa3c35f52f8a8517f1600dd11ed7:2d59cf94d10020aeee01a97cd0716eea
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png", SPO TV2 MALAYSIA
+#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", MotoGp - SPOTV 2 MAY
 http://202.150.161.68/spotv2/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -59,78 +52,75 @@ http://202.150.161.68/spotv2/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
 #https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="skysportmotogp.it" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x197:1268x975/x/photo/2020/10/16/839802574.png", SKYSPORT MOTOGP
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="skysportmotogp.it" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", MotoGp - SKYSPORT MotoGp
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
 https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="skysportmotogp.it" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x197:1268x975/x/photo/2020/10/16/839802574.png", SKYSPORT MOTOGP 2
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/153
-
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="Trans7.id" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x197:1268x975/x/photo/2020/10/16/839802574.png", TRANS7 MOTOGP
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="Trans7.id" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", MotoGp - TRANS7
 https://arjuna.trans7.co.id/Trans7-L1v3stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="eurosports.uk" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png", EUROSPORTS 1 
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="eurosports.uk" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", EUROSPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-027/stream.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="eurosports.uk" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png", EUROSPORTS 2 
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="eurosports.uk" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", EUROSPORTS 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-028/stream.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="RedBullTV.uk" tvg-logo="https://photocall.cc/img/new/redbull.png", REDBULL TV
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="RedBullTV.uk" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="EdgeSport.au" tvg-logo="https://photocall.cc/img/new/edgesport.png", EDGE SPORTS
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="EdgeSport.au" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", EDGE SPORTS
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="ExtremeSportsChannel.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/extreme-sports-channel-uk.png", EXTREME SPORTS Plus
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="ExtremeSportsChannel.bg" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", EXTREME SPORTS+
 https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-Dooya-SportsTribal/276.m3u8
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="Strongman.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300010PU_20230614T005517SQUARE.png_20230614005517.png", STRONGMAN
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="Strongman.uk" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", STRONGMAN
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="FuelTV.us" tvg-logo="https://photocall.cc/img/new/fueltv.png", FUEL TV
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="FuelTV.us" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", FUEL TV
 https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/playlist/amg01074-fueltv-fueltvemeaen-sportstribal/cb543d1e786c64879bd43e60d5ef46a6f9a853fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505f6cdb7fdc7c03cece08ed0868280817fa99c365db981201b3da112a2ab0710e16b81705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434ff9081fa6f901fde0e54345c81ff9f34315c03044e5825cc9ca1abb89dd459c4086668c4bcfcbacdec373d3d0c021f048b7675e16712bdbc47892cf5bb3dfca6b749e737d105304b7a696b3176bdf440e0afdabc8e932ab449edf7287525dd160ea2ffe50c00bf8699d502fca53daf24d5b30a8c85a2e72eeb5e0c2d73c3da87ea0e2c8d3776e96ff1038169b3698147968c2a48b3691ca1992f910b5e548536a91c11dcacffcd3bfe3d60a8b338387d5882d4e4b540100ad54b6d538887e932bfe8e5b0a74796981d615c88fd25b70454a858b519d532dbcc9988ad000749e2e4b1acb68cb54086983653e2cab7db7cc6c35d06858d6657dd65737894ef9f81ff4a1daf70f74e08d900cac399dd860b5d70cad7f335006c1907d0d3f3317b4d84b0c280ba773c9d2d29b143f52bcb5a1d3cf51310b3c57620484ece27af9d992317c8bfeeed7b088bb910d42bd8b314fde45/72/848x480_1249600/index.m3u8
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="HorizonSports.us" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", HORIZON SPORTS
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="HorizonSports.us" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", HORIZON SPORTS
 http://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8?|user-agent=Mozilla/5.0 
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", DARTS
+#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", DARTS
 https://r.mjh.nz/PlutoTV/64b67f0424ade50008a3be17-alt.m3u8
-#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", NHL
+#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", NHL
 https://nhl-firetv.amagi.tv/playlist480p.m3u8
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="nflnetwork.us" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/05/nfl-network-logo-1-e1663261658553-768x321.png", NFL
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="nflnetwork.us" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", NFL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-023/stream.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" channel-id="pluto-60d39387706fe50007fda8e8" tvg-id="60d39387706fe50007fda8e8" tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png" tvg-chno="2520", PBR RIDEPASS
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="60d39387706fe50007fda8e8" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", PBR RIDEPASS
 https://r.mjh.nz/PlutoTV/60d39387706fe50007fda8e8-alt.m3u8
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png", MU TV
+#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", MU TV
 https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/../../eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 group-title="MAYANG TV", LIVERPOOL TV (LFC TV)
+#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", LIVERPOOL TV (LFC TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
-https://webhdrus.onlinehdhls.ru/lb/premium826/index.m3u8?|origin=https://weblivehdplay.ru/&referer=https://weblivehdplay.ru/
-#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEq1pqi-6Shuf3aadBE5gFdJfTcO5eDVyLpw&usqp=CAU", REAL MADRID TV
+https://webhdrus.onlinehdhls.ru/lb/premium826/index.m3u8?|origin=https://weblivehdplay.ru&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043156/rmtv-en-mob/bitrate_3.m3u8
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="MilanTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Milan_TV_-_Logo_2016.png/220px-Milan_TV_-_Logo_2016.png", MILAN TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="MilanTV.it" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", MILAN TV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-025/stream.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9mZDUgt_xktkPUNI2LR0X5JLpmkbG9zc2IA&usqp=CAU", INTER TV
+#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", INTER TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-033/stream.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="speed.fr" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858d6351f0018dc0100d513246/f7cf616178534d1aba1b1deb20366f7a.jpg", PERSIJA TV
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="speed.fr" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", PERSIJA TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -153,8 +143,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 https://bit.ly/moji_shareext-ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 
 
-||||||||||||||||||||||||||||||||||||||| NASIONAL
-================================
+///////////////////////// NASIONAL
+=============================
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", RAMADHAN CHANNEL
 http://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8?|user-agent=Mozilla/5.0 
 
