@@ -574,7 +574,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6858afb4c71018b03b1d9d
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6858afb4c71018b03bb78c91525/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858afb4c71018b03ced8f7152f/a2e6f7b4608445b1afe788aea34f2033.jpg" group-title="Anak", DUCK TV
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858afb4c71018b03ced8f7152f/a2e6f7b4608445b1afe788aea34f2033.jpg" group-title="KIDS", DUCK TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -3360,4 +3360,3 @@ https://stream.lokermusik.com:8420/lokermusik
 https://sv.rajamediautama.my.id/listen/station_4/radio
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.persibradio.id/asset/images/PERSIB-Radio-Logo.png", RADIO PERSIB
 https://s3.vinhostmedia.com:10945/;
-
