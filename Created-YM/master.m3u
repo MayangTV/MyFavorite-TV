@@ -3019,19 +3019,17 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
 #EXTINF:-1 group-title="MUSIK" tvg-id="mictv.id" tvg-logo="https://iptv.urfan.web.id/logo/mictv.png", MIC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 
 https://v2.siar.us/mic/live/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIK" tvg-id="imtv" tvg-logo="https://iptv.urfan.web.id/logo/imtv.png", IMTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIK" tvg-id="musica.id" tvg-logo="https://iptv.urfan.web.id/logo/musica.png", Musica Studios
-https://kister.net/mpl/yt2m3u8?w=@MusicaStudios
+https://ythls-v2.onrender.com/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-id="aquarius.id" tvg-logo="https://iptv.urfan.web.id/logo/aquarius.png", Aquarius Musikindo
-https://kister.net/mpl/yt2m3u8?w=@AquariusMusikindo
+https://ythls-v2.onrender.com/channel/UCpJRmMTfdv0iPbnjo6qBw_g.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-id="nagaswara.id" tvg-logo="https://iptv.urfan.web.id/logo/nagaswara.png", Nagaswara
-https://kister.net/mpl/yt2m3u8?w=@nagaswarafmbgr
+https://ythls-v2.onrender.com/channel/UCw9QaspFztufNcEBFlwb5iw.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-id="nagaswara.id" tvg-logo="https://iptv.urfan.web.id/logo/nagaswara.png", Nagaswara Dangdut
 https://ythls-v2.onrender.com/video/NYoNORroe3o.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-id="nagaswara.id" tvg-logo="https://iptv.urfan.web.id/logo/nagaswara.png", Citra Dangdut
