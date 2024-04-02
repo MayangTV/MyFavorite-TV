@@ -1557,56 +1557,26 @@ https://linear.aws.optusvideo.tv/v7/OptusSport12/xbtss/drm/avc/dash/plain/manife
 
 ///////////////////   VPN CHANNEL
 ==========================
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Cbs sports golazo network usa (vpn usa)
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", Cbs sports golazo network usa (vpn usa)
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", Dazn ringside usa (vpn usa)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Dazn ringside usa (vpn usa)
 https://i.mjh.nz/Roku/b6a492b04d7d534fa0e9e69380382d02.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", Fox sports free usa(vpn usa)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports2.m3u8
 =======
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", Canela sports usa (vpn usa)
 https://live1058.delivery.roku.com/ac3e64f3-c7d8-4011-b73b-68c4a94f6320/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", cbs sports golazo network usa opt 2(vpn usa)
-https://i.mjh.nz/PlutoTV/163a0e33a45264d000850ed7e-alt.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", CBS Sports hq usa (vpn usa)
-https://i.mjh.nz/PlutoTV/15e9f2c05172a0f0007db4786-alt.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", Hbcugo sports usa (vpn usa)
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", Tudn usa (vpn usa)
 https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", Canela sports usa (vpn usa)
 https://live1058.delivery.roku.com/ac3e64f3-c7d8-4011-b73b-68c4a94f6320/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", cbs sports golazo network usa opt 2(vpn usa)
-https://i.mjh.nz/PlutoTV/163a0e33a45264d000850ed7e-alt.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", CBS Sports hq usa (vpn usa)
-https://i.mjh.nz/PlutoTV/15e9f2c05172a0f0007db4786-alt.m3u8
-=================
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", Channel 10 Australia (vpn au)
-https://i.mjh.nz/10-nsw.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", Channel 7 Australia (vpn au)
-https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", Channel 9 Australia (vpn au)
-https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", Sbs Australia (vpn au)
-https://i.mjh.nz/sbs.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", Sky 1 Australia (vpn au)
-https://i.mjh.nz/sky-racing-1.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", Sky 2 Australia (vpn au)
-https://i.mjh.nz/sky-racing-2.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", Channel 7 Australia(vpn au)
-https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", Channel 9 Australia (vpn au)
-https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
-=============================
+===============
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", DF1 Germany (vpn German)
 https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", Sport 1 Germany (darts) (vpn German)
 https://streaming-s1free.sport1.de/hFLlzmhSJxo5pPlpnLeVCw==,1711917468/ls-45420-1/tracks-v1a1/mono.m3u8
 ================================
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", L'equipe live 1(vpn francis)
-https://i.mjh.nz/SamsungTVPlus/FRBC4200004XH.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VPN CHANNEL", Sportitalia plus italy (vpn Italia)
 https://i.mjh.nz/SamsungTVPlus/ITBA2200010O1.m3u8
 
