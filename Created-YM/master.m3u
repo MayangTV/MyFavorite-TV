@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://xmltv.tvkaista.net/guides/indihometv.com.xml, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/dens.tv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://xmltv.tvkaista.net/guides/firstmedia.com.xml, https://xmltv.tvkaista.net/guides/mncvision.id.xml, https://xmltv.tvkaista.net/guides/visionplus.id.xml"  refresh="3600" billed-msg="PERBAIKI SHALATMU & PERBANYAK SHOLAWAT | MAYANG TV™@yaya m"
+#EXTM3U url-tvg="https://xmltv.tvkaista.net/guides/indihometv.com.xml, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/dens.tv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://xmltv.tvkaista.net/guides/firstmedia.com.xml, https://xmltv.tvkaista.net/guides/mncvision.id.xml, https://xmltv.tvkaista.net/guides/visionplus.id.xml"  refresh="3600" billed-msg="PERBAIKI SHALATMU & PERBANYAK SHOLAWAT
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png" group-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", RAMADHAN CHANNEL
 http://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
@@ -44,13 +44,11 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", MotoGp - SPOTV 2 MAY
-http://202.150.161.68/spotv2/index.m3u8
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
-#https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="skysportmotogp.it" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", MotoGp - SKYSPORT MotoGp
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -754,6 +752,638 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
+
+
+/////////////////  SPORTS PREMIUM HD
+=====================================
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", KHAZANAH
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-supersport-hd-my.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-supersport-2-hd-my.png", Astro SuperSport 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-supersport-3-hd-my.png", Astro SuperSport 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-supersport-4-hd-my.png", Astro SuperSport 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/arena-1-premium-rs.png", Arena Sport 1 Premium 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium134/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/arena-2-premium-rs.png", Arena Sport 2 Premium 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium135/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/arena-3-premium-rs.png", Arena Sport 3 Premium 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium139/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/arena-sport-1-rs.png", Arena Sport 1 Serbia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium429/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/arena-sport-2-rs.png", Arena Sport 2 Serbia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium430/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/arena-sport-3-rs.png", Arena Sport 3 Serbia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium431/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/arena-sport-4-rs.png", Arena Sport 4 Serbia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium581/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-1-hr.png", Arena Sport 1 Croatia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium432/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-2-hr.png", Arena Sport 2 Croatia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium433/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-3-hr.png", Arena Sport 3 Croatia off
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium434/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-4-hr.png", Arena Sport 4 Croatia off
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium580/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Cosmote Sport 1 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium622/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Cosmote Sport 2 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium623/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Cosmote Sport 3 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium624/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Cosmote Sport 4 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium625/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Cosmote Sport 5 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium626/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Cosmote Sport 6 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium627/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Cosmote Sport 7 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium628/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Cosmote Sport 8 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium629/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Cosmote Sport 9 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium630/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", DAZN 1 Bar DE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium426/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", DAZN 2 Bar DE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium427/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", DAZN 1 Spain 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium445/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", DAZN 2 Spain 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium446/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", DAZN 3 Spain off
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium447/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", DAZN 4 Spain off
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium448/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", DAZN F1 ES 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium537/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", DAZN LaLiga 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium538/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", DAZN LaLiga 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Digi Sport 1 Romania 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium400/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Digi Sport 2 Romania 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium401/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Digi Sport 3 Romania 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium402/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Digi Sport 4 Romania 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium403/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Diema Sport 1 Bulgaria 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium465/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Diema Sport 2 Bulgaria 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium466/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Diema Sport 3 Bulgaria 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium467/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", ESPN USA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium44/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", ESPN2 USA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium45/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", ESPNU USA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium316/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", ESPN 1 NL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium379/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", ESPN 2 NL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium386/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Eleven Sports 1 Poland 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium71/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Eleven Sports 2 Poland 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium72/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Eleven Sports 3 Poland 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium428/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Eleven Sports 1 Portugal 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium455/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Eleven Sports 2 Portugal 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium456/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Eleven Sports 3 Portugal 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium457/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Eleven Sports 4 Portugal 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium458/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Eleven Sports 5 Portugal 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium459/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", EuroSport 1 UK 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium41/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", EuroSport 2 UK 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium42/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", EuroSport 1 Poland 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium57/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", EuroSport 2 Poland 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium58/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", EuroSport 1 Spain 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium524/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", EuroSport 2 Spain 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium525/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", EuroSport 1 Italy 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium878/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", EuroSport 2 Italy 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium879/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-premium-ar.png", ESPN Premium Argentina 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium387/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", ESPN Brasil 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premi.um81/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", ESPN2 Brasil 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium82/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", ESPN3 Brasil 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium83/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", ESPN4 Brasil 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium85/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", ESPN SUR 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium149/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", ESPN2 SUR 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium150/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", ESPN Deportes 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium375/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Fox Sports 1 USA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium39/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Fox Sports 2 USA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium758/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", FOX Soccer Plus 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium756/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", FOX Deportes USA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium643/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-502-hd-au.png", FOX Sports 502 AU 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium820/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-hd-au.png", FOX Sports 503 AU 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium821/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-504-hd-au.png", FOX Sports 504 AU 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium822/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-hd-au.png", FOX Sports 505 AU 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium823/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-506-hd-au.png", FOX Sports 506 AU 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium824/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-507-hd-au.png", FOX Sports 507 AU 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium825/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png", Fox Sports Argentina 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium767/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png", Fox Sports 2 Argentina 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium788/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-3-ar.png", Fox Sports 3 Argentina 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium789/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Orange Sport 1 Romania 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium439/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Orange Sport 2 Romania 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium440/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Orange Sport 3 Romania 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium441/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Orange Sport 4 Romania 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium442/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Polsat Sport Poland 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium47/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Polsat Sport Extra Poland 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium50/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Premier Brasil 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium88/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Prima Sport 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium583/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Prima Sport 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium584/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Prima Sport 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium585/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Prima Sport 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium586/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", RMC Sport 1 France 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium119/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", RMC Sport 2 France 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium120/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sports Football UK 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium35/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sports Arena UK 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium36/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sports Action UK 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium37/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sports Main Event 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium38/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky sports Premier League 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium130/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sports F1 UK 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium60/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sports Cricket 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium65/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sport MotoGP Italy 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium575/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sport Tennis Italy 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium576/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sport F1 Italy 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium577/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sports News UK 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium366/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sports MIX UK 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium449/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sport Top Event DE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium556/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sport Mix DE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium557/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sport Bundesliga 1 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium558/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sport Austria 1 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium559/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SportsNet New York (SNY) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium759/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sport Football Italy 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium460/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sport UNO Italy 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium461/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sport Arena Italy 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium462/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sports Racing UK 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium554/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky UNO Italy 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium881/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-1-nz.png", Sky Sport 1 NZ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium588/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-2-nz.png", Sky Sport 2 NZ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium589/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-3-nz.png", Sky Sport 3 NZ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium590/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-4-nz.png", Sky Sport 4 NZ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium591/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-5-nz.png", Sky Sport 5 NZ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium592/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-6-nz.png", Sky Sport 6 NZ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium593/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-7-nz.png", Sky Sport 7 NZ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium594/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-8-nz.png", Sky Sport 8 NZ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium595/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-9-nz.png", Sky Sport 9 NZ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium596/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-select-nz.png", Sky Sport Select NZ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium587/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sport TV1 Portugal 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium49/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sport TV2 Portugal 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium74/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sport TV3 Portugal 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium454/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sport TV4 Portugal 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium289/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sport TV5 Portugal 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium290/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sport TV6 Portugal 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium291/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SporTV Brasil 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium78/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SporTV2 Brasil 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium79/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SporTV3 Brasil 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium80/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sport Klub 1 Serbia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium101/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sport Klub 2 Serbia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium102/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sport Klub 3 Serbia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium103/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sport Klub 4 Serbia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium104/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SuperSport Grandstand 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium412/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SuperSport PSL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium413/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SuperSport Premier league 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SuperSport LaLiga 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium415/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SuperSport Action 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium420/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SuperSport Rugby 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium421/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SuperSport Golf 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium422/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SuperSport Tennis 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium423/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SuperSport Motorsport 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Supersport Football 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium56/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SuperSport Cricket 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium368/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SuperSport MaXimo 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SuperSport Variety 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium416/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SuperSport Variety 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium417/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SuperSport Variety 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium418/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SuperSport Variety 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium419/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", SportDigital Fussball 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium571/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Spectrum Sportsnet LA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium764/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sport1+ Germany 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium640/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sport1 Germany 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium641/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sport 24 Italy 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium869/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Sky Sport Calcio Italy 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium870/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", TNT Sports 1 UK 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium31/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", TNT Sports 2 UK 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium32/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", TNT Sports 3 UK 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium33/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", TNT Sports 4 UK 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium34/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", TSN1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium111/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/ 
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", TSN2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium112/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/ 
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", TSN3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium113/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/ 
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", TSN4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium114/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/ 
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", TSN5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium115/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/ 
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Viaplay Sports 1 UK 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium451/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Viaplay Sports 2 UK 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium550/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Viaplay Xtra UK 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium597/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Ziggo Sport Docu NL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium383/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Ziggo Sport Select NL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium393/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Ziggo Sport Voetbal NL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium398/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", FOX SPORTS PREMIUM HD MX 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium830/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Fight Network 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium757/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", LaLiga SmartBank TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium539/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Match Football 1 Russia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium136/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Match Football 2 Russia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium137/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Match Football 3 Russia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium138/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Match Premier Russia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium573/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Match TV Russia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium127/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", МАТЧ! БОЕЦ Russia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium395/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Movistar Laliga 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium84/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Movistar Liga de Campeones 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium435/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Movistar Deportes 1 Spain 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium436/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Movistar Deportes 2 Spain 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium438/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Movistar Deportes 3 Spain 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium526/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Movistar Deportes 4 Spain 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium527/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", MUTV UK 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium377/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", MAVTV USA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium646/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Max Sport 1 Bulgaria 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium472/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Max Sport 2 Bulgaria 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium473/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Max Sport 3 Bulgaria 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium474/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Max Sport 4 Bulgaria 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium475/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", MLB Network USA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium399/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
+
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="http", Nova Sports Premier League  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium599/index.m3u8?|origin=weblivehdplay.ru/&referer=https://weblivehdplay.ru/
 
 
 //////////////////// AUTO SPORTS
@@ -2052,9 +2682,71 @@ https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd
 https://liveb.streamready.in/starsportsselect2/smil:common.smil/manifest.mpd
 
 
+////////////////////   SPORTS RUSIA
+===========================
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", MATCH !
+http://194.143.148.28:8080/MatchHD/mpegts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", MATCH APENA
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", TYGON~1~FUTbol
+http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", TYGON~2~FUTBOL
+http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", TYGON~3~FUTBOL
+http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", MotoR~Racing 
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", FITE~24/7
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", Nash~1
+https://stream-msk-14.ott.tricolor.tv:443/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", ALL SPORTS TV 
+http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", Futbol TVHorizon Sports 
+https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", M-1 Global 
+https://lb.telepark.tv/live/ru_m1global/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", FightBox 
+https://lb.telepark.tv/live/ru_fightbox/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", Fast&FunBox 
+https://lb.telepark.tv/live/ru_fastfunbox/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", Extreme Sports HD 
+https://lb.telepark.tv/live/ru_extreme_sports/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", UkrainaSport~1小锌芯褉褌 1 
+https://lb.telepark.tv/live/ua_sport1/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", RU_Boks tv
+https://lb.telepark.tv/live/ru_boks_tv/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", Setanta Sports 1 HD 
+https://lb.telepark.tv/live/ru_setanta_sports_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", Eurosport 1 HD 
+https://lb.telepark.tv/live/ru_eurosport_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", RU_TK.sports
+https://lb.telepark.tv/live/ru_tk_futbol_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", RU_start-hd
+https://lb.telepark.tv/live/ru_start_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", RU.Match.football_1hd
+https://lb.telepark.tv/live/ru_match_futbol1_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", RU.Match.football_2hd
+https://lb.telepark.tv/live/ru_match_futbol2_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", RU.Match.football_3hd
+https://lb.telepark.tv/live/ru_match_futbol3_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", RU_Mstch!igra_hd
+https://lb.telepark.tv/live/ru_match_igra_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", RU_Arena_hd
+https://lb.telepark.tv/live/ru_match_arena_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", RU_Nasth_football-hd
+https://lb.telepark.tv/live/ru_nash_futbol/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", RU_Boec
+https://lb.telepark.tv/live/ru_boec/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", RU_MIR_hd
+https://lb.telepark.tv/live/ru_konnij_mir_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="SPORTS RUSIA", RU.Mtch..hd
+https://lb.telepark.tv/live/ru_match_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+
+
 
 //////////////////////  LATIN SPORTS
-================================
+===========================
 #EXTINF:-1 tvg-id="" tvg-name="NL - ESPN HD" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="LATIN SPORTS" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", ESPN 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2090,8 +2782,8 @@ http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
 
 
-|||||||||||||||||||||||||||||||||||||||  ARAB SPORTS 
-==================================
+/////////////////////////  ARAB SPORTS 
+============================
 #EXTINF:-1 group-title="ARAB SPORTS" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", KHAZANAH
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
