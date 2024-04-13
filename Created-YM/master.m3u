@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://epg.urfan.web.id, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/dens.tv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://xmltv.tvkaista.net/guides/firstmedia.com.xml, https://xmltv.tvkaista.net/guides/mncvision.id.xml, https://xmltv.tvkaista.net/guides/visionplus.id.xml"  refresh="3600" billed-msg="PLAYLIST INI GRATIS DIBUAT OLEH ADMIN GANTENG FORUM SATELIT INDONESIA ~ https://chat.whatsapp.com/FVaNcuFgAuT00cv7WLTeat | Created by: YM"
 
+#EXTINF:-1 tvg-id="" group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", GOWESS
+https://amg13231-actve-bike-ono-mj2ao.amagi.tv/playlist/amg13231-actve-bike-ono/cb543d1e786c64879bd43e60d5ef46a6f93b3dda0f74907570ae4a9677df1f4b91eaa2c7bc4ebc6f558249d7660a70505c329e048c2d5491c37eaa5760294522c8cab128dafb283382fa3f001aa94a1c61942d2fed7a087acdfd0a47d173e42b4b439a69143638eeec51aa3e63070c54f82a1358293c05f62c78bcd046/187/854x480_1706830/index.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="99" tvg-logo="https://thumbor.prod.vidiocdn.com/UMECq0_g6VrR4FqAl6Jzi_AO1ZE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-45122c.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", BRI LIGA 1 - SPORTSTARS 3 
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -34,7 +36,7 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", SBK - SPOTV 1 MAY
+#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", SBK - SPOTV 1 MAY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -75,14 +77,14 @@ https://arjuna.trans7.co.id/Trans7-L1v3stream/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-016/stream.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="eurosports.uk" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", EUROSPORTS 1 
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="eurosports.uk" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", EUROSPORTS 1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-027/stream.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="eurosports.uk" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png", EUROSPORTS 2 
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="eurosports.uk" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", EUROSPORTS 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
@@ -105,11 +107,11 @@ https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist_1024x
 http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="Motorvision TV.de" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", MOTORVISION
 http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-#EXTINF:-1 channel-id="pluto-611468532f5f180007fbbc9c" tvg-id="611468532f5f180007fbbc9c" tvg-logo="https://images.pluto.tv/channels/611468532f5f180007fbbc9c/colorLogoPNG.png" tvg-chno="3000" group-title="MAYANG TV", MAVTV SELECT
-https://r.mjh.nz/PlutoTV/611468532f5f180007fbbc9c-alt.m3u8
-
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", MOTO AMERICA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-motoamerica-sportstribal/playlist.m3u8
+
+#EXTINF:-1 channel-id="pluto-611468532f5f180007fbbc9c" tvg-id="611468532f5f180007fbbc9c" tvg-logo="https://images.pluto.tv/channels/611468532f5f180007fbbc9c/colorLogoPNG.png" tvg-chno="3000" group-title="MAYANG TV", MAVTV SELECT
+https://r.mjh.nz/PlutoTV/611468532f5f180007fbbc9c-alt.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="RedBullTV.uk" tvg-logo="https://photocall.cc/img/new/redbull.png", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -139,9 +141,6 @@ https://nhl-firetv.amagi.tv/playlist480p.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-023/stream.mpd
-
-#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/mkd5TKbL/Sport-Fishing-TV.jpg", SPORT FISHING TV
-https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/ea8e88dd-90d0-471d-9958-4df61396c098_0_HLS/manifest.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5rKI89wWFiDrg-HiIBn4_PF6KaHMzWwHbC36fHTCvSw&s", MU TV
 https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/../../eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
@@ -684,13 +683,11 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858afb4c71018b03bd40c
 ///////////////////////////// KNOWLEDGE 
 ==============================
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/k4Wthh5n/Animal-Planet-HD.jpg" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Animal Planet HD
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/k4Wthh5n/Animal-Planet-HD.jpg" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", ANIMAL PLANET HD
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/fSZ39zj/IMG-20240129-071418.png", ANIMAL PLANET
-https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/YS18msj2/national-geographic-hd.jpg", NATIONAL GEOGRAPHIC [Youtube]
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/YS18msj2/national-geographic-hd.jpg", NATIONAL GEOGRAPHIC [Youtube]
 https://ythls.armelin.one/channel/UCpVm7bg6pXKo1Pr6k5kxG9A.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/k5Q6nMcC/National-Geographic-Wild.jpg", NATGEO WILD [Youtube]
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/k5Q6nMcC/National-Geographic-Wild.jpg", NATGEO WILD [Youtube]
 https://ythls.armelin.one/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="LoveNature.ca" tvg-logo="https://static.mncnow.id/images/channel/f7543c9d/9c2d.png", LOVE NATURE 
@@ -742,14 +739,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 ==========================================
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://photocall.cc/img/new/lovenature.png", LOVE NATURE 
-https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/3hQBDBj/IMG-20240129-071855.jpg", LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="AnimalPlanet.MACAN", ANIMAL PLANET
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/qqSVhQ83/vsBKeDw.jpg", DISCOVERY HD ( Multi Audio )
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/qqSVhQ83/vsBKeDw.jpg", DISCOVERY HD ( Multi Bahasa )
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/KcHyHcd8/XBz4I65.jpg", DISCOVERY SCIENCE
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
@@ -778,6 +771,23 @@ https://wildearth-roku.amagi.tv/master.m3u8
 #https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/3yp7V9G/IMG-20240129-071756.png", DISCOVERY TURBO
 #https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
+
+
+///////////////   MANCING MANIA
+==========================
+#EXTINF:-1 group-title="MANCING MANIA" tvg-logo="https://i.postimg.cc/mkd5TKbL/Sport-Fishing-TV.jpg" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", SPORT FISHING TV
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/ea8e88dd-90d0-471d-9958-4df61396c098_0_HLS/manifest.m3u8
+
+#EXTINF:-1 group-title="MANCING MANIA" tvg-id="5d4af39510fd17b31a528eda" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png", FISHING
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/1539795/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-62c84a96-8101-471c-9303-7c710ef8af2e&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=stitcher-ipv4.pluto.tv&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=938905e6-e8e0-4f3f-8415-40bf5a583dcd&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true&advertisingId={PSID}&profileLimit=&profileFloor=
+#EXTINF:-1 group-title="MANCING MANIA" tvg-id="" tvg-name="" tvg-logo="https://assets.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png.webp", WIRED2FISH
+https://linear-80.frequency.stream/mt/plextv/80/hls/master/playlist_640x360.m3u8
+#EXTINF:-1 group-title="MANCING MANIA" tvg-id="" tvg-name="" tvg-logo="https://www.italianfishingtv.it/img/italian-fishing-tv-logo.png", ITALIAN FISHING TV
+https://itftv-italianfishingtv-1-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="MANCING MANIA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Fish_TV_logo_2022.svg", FISH TV
+https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
+#EXTINF:-1 group-title="MANCING MANIA" tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png", WAYPOINT TV
+https://d1w9kw87gey2yk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6mqcw4p8177c4-prod/5713a57a-ffda-4b71-b2e4-a818480a52d4/1.m3u8
 
 
 |||||||||||||||||||||||||| SPORTS INDOVISION
@@ -861,7 +871,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 /////////////////  SPORTS PREMIUM HD
 ==============================
 
-#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Astro SuperSport 1
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8?|origin=https://weblivehdplay.ru/&referer=https://weblivehdplay.ru/
 #EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Astro SuperSport 2
@@ -4382,4 +4392,3 @@ https://stream.lokermusik.com:8420/lokermusik
 https://sv.rajamediautama.my.id/listen/station_4/radio
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.persibradio.id/asset/images/PERSIB-Radio-Logo.png", RADIO PERSIB
 https://s3.vinhostmedia.com:10945/;
-
