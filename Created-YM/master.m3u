@@ -3878,7 +3878,6 @@ https://linear407-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_1080_30/L
 https://linear402-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_1080_30/Live/channel(skycinemaselect)/manifest_1080.mpd
 ===========================================
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.mncnow.id/images/channel/920951dc/fad9.png", CELESTIAL MOVIES 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="HorizonSports.us" tvg-logo="https://photocall.cc/img/new/horizon.png", HORIZON SPORTS
 http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.mncnow.id/images/channel/0d4e8c1c/3028.png", GALAXY PREMIUM 
@@ -3996,6 +3995,13 @@ https://ythls-v2.onrender.com/video/NYoNORroe3o.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradangdut.m3u8
 #EXTINF:-1 group-title="MUSIK", JK Record
 https://kister.net/mpl/yt2m3u8?w=@jekarecord
+#EXTINF:-1 group-title="MUSIK", RELAXING MUSIC 1
+https://kister.net/mpl/yt2m3u8?w=@OCBRelaxMusic
+#EXTINF:-1 group-title="MUSIK", RELAXING MUSIC 2
+https://kister.net/mpl/yt2m3u8?w=@timjanis
+#EXTINF:-1 group-title="MUSIK", RELAXING MUSIC 3
+https://kister.net/mpl/yt2m3u8?w=@pianojazzmusicchannel
+
 
 
 
@@ -4390,4 +4396,3 @@ https://stream.lokermusik.com:8420/lokermusik
 https://sv.rajamediautama.my.id/listen/station_4/radio
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.persibradio.id/asset/images/PERSIB-Radio-Logo.png", RADIO PERSIB
 https://s3.vinhostmedia.com:10945/;
-
