@@ -1,7 +1,12 @@
-#EXTM3U url-tvg="http://guidatv.sky.it, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/dens.tv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://xmltv.tvkaista.net/guides/firstmedia.com.xml, https://xmltv.tvkaista.net/guides/mncvision.id.xml, https://xmltv.tvkaista.net/guides/visionplus.id.xml"  refresh="3600" billed-msg="PLAYLIST INI GRATIS DIBUAT OLEH ADMIN GANTENG FORUM SATELIT INDONESIA ~ https://chat.whatsapp.com/FVaNcuFgAuT00cv7WLTeat | Created by: YM"
+#EXTM3U url-tvg="guidatv.sky.it, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/dens.tv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://xmltv.tvkaista.net/guides/firstmedia.com.xml, https://xmltv.tvkaista.net/guides/mncvision.id.xml, https://xmltv.tvkaista.net/guides/visionplus.id.xml"  refresh="3600" billed-msg="PLAYLIST INI GRATIS DIBUAT OLEH ADMIN GANTENG FORUM SATELIT INDONESIA ~ https://chat.whatsapp.com/FVaNcuFgAuT00cv7WLTeat | Created by: YM"
 
 #EXTINF:-1 tvg-id="" group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", GOWESS
 https://amg13231-actve-bike-ono-mj2ao.amagi.tv/playlist/amg13231-actve-bike-ono/cb543d1e786c64879bd43e60d5ef46a6f93b3dda0f74907570ae4a9677df1f4b91eaa2c7bc4ebc6f558249d7660a70505c329e048c2d5491c37eaa5760294522c8cab128dafb283382fa3f001aa94a1c61942d2fed7a087acdfd0a47d173e42b4b439a69143638eeec51aa3e63070c54f82a1358293c05f62c78bcd046/187/854x480_1706830/index.m3u8
+
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="99" tvg-logo="https://thumbor.prod.vidiocdn.com/UMECq0_g6VrR4FqAl6Jzi_AO1ZE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-45122c.png", PERSIB LIVE
+#EXTVLCOPT:http-referrer=https://www.808bola42.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+https://ttx0022-cf.cool6bcd6.cc/auth%3D2832340f3ed7318f0d6d954fd69a8faf503614b19a820b95ac0a23d866a80015178e0dd6b87b7c6b7cbad5d676e56b55a26567e9b97c5b5caf48afdf7d451563e6c27c9a68515f2a0b9429cff5ebdb973ca95b5b60729604277ce8cd2bed58679cb84c1343fba590353514cc0397a99b8cd65d91b8782120f6ed3ef040fae455031cf641315d2e051ab1063d34158a8d7cda9467f7a0588712120781215aa88be8521d610a3fb4a55c46f603c4afc4592c6cf9ee607d9170cc3c001fb28230e8255bf7480ff3ed2a884a4093c4a615e8%26cid%3DVzGbfoo_x1I9yKMulgmXh240415%26_v%3D2%26_r%3Df-7RDh%26_vis%3D8e84b79b3699270738eea096cacffeedb68b645dc4948b0512616985492ce07a%26_vvs%3Dccaf76b59d397c903b64cf5eafef682beddb1ae8c2aae43bdb262b831425bd3a/app/c245056.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="99" tvg-logo="https://thumbor.prod.vidiocdn.com/UMECq0_g6VrR4FqAl6Jzi_AO1ZE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-45122c.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", BRI LIGA 1 - SPORTSTARS 3 
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -275,13 +280,13 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 ///////////////////  TV DIGITAL
 =======================
 
-#EXTINF:-1  group-title="TV DIGITAL" tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", INDOSIAR
+#EXTINF:-1  group-title="TV DIGITAL" tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", MOJI
+http://103.226.232.196:8000/play/a022/index.m3u8
+#EXTINF:-1  group-title="TV DIGITAL" tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 http://103.226.232.196:8000/play/a00l/index.m3u8
 #EXTINF:-1  group-title="TV DIGITAL" tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png", SCTV
 http://103.226.232.196:8000/play/a013/index.m3u8
-#EXTINF:-1  group-title="TV DIGITAL" tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png", MOJI
-http://103.226.232.196:8000/play/a022/index.m3u8
 #EXTINF:-1  group-title="TV DIGITAL" tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png", MENTARI
 http://103.226.232.196:8000/play/a007/index.m3u8
 
@@ -2154,23 +2159,23 @@ https://edge1.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 group-title="SKY SPORTS INGGRIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", SKY PREMIER LEAGUE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005f05c21a77f9475e05b177e70111a:ca009f546f9348a3659d877e3f67ee19
-https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd
+https://linear015-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd
 
 #EXTINF:-1 group-title="SKY SPORTS INGGRIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-icon-uk.png", SKY SPORTS FOOTBALL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005598a4d0f91328444c6fcdea04acb:ab03caec7a18da1fa6a8f306d91715a1
-https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsfootball)/manifest_720.mpd
+https://linear014-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsfootball)/manifest_720.mpd
 
 #EXTINF:-1 group-title="SKY SPORTS INGGRIS" tvg-id="SkySportsMainEventHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-icon-uk.png", Sky SPORTS MAIN EVENT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005fad32eb7fe7f488093e851d71c5f:6342118978914afbc5fec26e93168b64
-https://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsmainevent)/manifest_720.mpd
+https://linear011-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsmainevent)/manifest_720.mpd
 
 #EXTINF:-1 group-title="SKY SPORTS INGGRIS" tvg-id="SkySportsNFLHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-icon-uk.png", Sky SPORTS ACTION
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2191,7 +2196,7 @@ https://linear006-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/ch
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00052def539f4c65b1ddeb5ea4ea9003:4af118364d041875a8137c5839381cce
-https://linear034-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsmix)/manifest_720.mpd
+https://linear034-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsmix)/manifest_720.mpd
 
 #EXTINF:-1 group-title="SKY SPORTS INGGRIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-icon-uk.png", SKY SPORTS CRICKET 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3204,7 +3209,7 @@ https://tv5.hoichoi24.com/1007/tracks-v1a1/mono.m3u8
 http://103.120.172.74:1030
 
 #EXTINF:-1 group-title="INDIA SPORTS" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/11/Star-Sports-AMP-Logo.jpg", STAR SPORTS SELECT 2
-#http://103.86.134.34:9981/stream/channelid/2094485147.ts?ticket=400028DD5FE12AFDBDD3A47D3A55CFFAABBE4E91&profile=pass
+http://103.120.172.74:4700
 
 #EXTINF:-1 group-title="INDIA SPORTS" tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg", T SPORTS
 https://tv5.hoichoi24.com/1000/tracks-v1a1/mono.m3u8
@@ -4396,3 +4401,4 @@ https://stream.lokermusik.com:8420/lokermusik
 https://sv.rajamediautama.my.id/listen/station_4/radio
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.persibradio.id/asset/images/PERSIB-Radio-Logo.png", RADIO PERSIB
 https://s3.vinhostmedia.com:10945/;
+
