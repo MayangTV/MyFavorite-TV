@@ -99,11 +99,11 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-027/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-028/stream.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="TV4 Motor" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", TV4 MOTOR 
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="TV4 Motor" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", TV4 MOTOR ( RALLY TV )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39557d4a1ba75e168fc7b13756084b4d:efe8223510249dc20db097bb814feb41
 https://director.streaming.telia.com/tvm-packager-prod/group1/6089c58f47a23d7ce45cf30f/manifest.mpd
 
@@ -131,7 +131,7 @@ https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="Strongman.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexlE3t_tlABbQjMCd1DDYcjYk6xIeI3GBSYhImFzibQ&s", STRONGMAN
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="FuelTV.us" tvg-logo="https://photocall.cc/img/new/fueltv.png", FUEL TV
-https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/playlist/amg01074-fueltv-fueltvemeaen-sportstribal/cb543d1e786c64879bd43e60d5ef46a6f9a853fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505f6cdb7fdc7c03cece08ed0868280817fa99c365db981201b3da112a2ab0710e16b81705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434ff9081fa6f901fde0e54345c81ff9f34315c03044e5825cc9ca1abb89dd459c4086668c4bcfcbacdec373d3d0c021f048b7675e16712bdbc47892cf5bb3dfca6b749e737d105304b7a696b3176bdf440e0afdabc8e932ab449edf7287525dd160ea2ffe50c00bf8699d502fca53daf24d5b30a8c85a2e72eeb5e0c2d73c3da87ea0e2c8d3776e96ff1038169b3698147968c2a48b3691ca1992f910b5e548536a91c11dcacffcd3bfe3d60a8b338387d5882d4e4b540100ad54b6d538887e932bfe8e5b0a74796981d615c88fd25b70454a858b519d532dbcc9988ad000749e2e4b1acb68cb54086983653e2cab7db7cc6c35d06858d6657dd65737894ef9f81ff4a1daf70f74e08d900cac399dd860b5d70cad7f335006c1907d0d3f3317b4d84b0c280ba773c9d2d29b143f52bcb5a1d3cf51310b3c57620484ece27af9d992317c8bfeeed7b088bb910d42bd8b314fde45/72/848x480_1249600/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="HorizonSports.us" tvg-logo="https://photocall.cc/img/new/horizon.png", HORIZON SPORTS
 http://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 
@@ -150,22 +150,21 @@ https://nhl-firetv.amagi.tv/playlist480p.m3u8
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-023/stream.mpd
 
+#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://play-lh.googleusercontent.com/cpWdFlXAmAfzx6XC7m3BPJ4g-5epEcJvAQqKzQsG1gCBYoVZgMbdKyV7Srv4RnIwRQ=w240-h480-rw", FUTSAL MAFER TV
+https://cloudvideo.servers10.com:8081/8184/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5rKI89wWFiDrg-HiIBn4_PF6KaHMzWwHbC36fHTCvSw&s", MU TV
 https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/../../eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
-
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FLiverpool%20FC%20TV%20HD-FirstMedia-Chl-328.jpg&w=256&q=100", LIVERPOOL TV (LFC TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://webhdrus.onlinehdhls.ru/lb/premium826/index.m3u8?|origin=https://weblivehdplay.ru/&referer=https://weblivehdplay.ru/
-
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNsnSwFJjbJb9MydS3Pji2VlixgcWWCo_QtBqhRFa1Q&s", REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043156/rmtv-en-mob/bitrate_3.m3u8
-
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="MilanTV.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTkcCNAyw77MzEAlFNkCU9Htur9UlUEg7AN26ar9-c0g&s", MILAN TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-025/stream.mpd
-
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiA0z8oLemtUYzPXR0V9VFkFizpkK0zyhJRw&usqp=CAU", INTER TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -747,6 +746,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 ==========================================
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.autentic.com/images/curiositynow.jpg", CURIOSITY 
+https://curiosity-curiosity-now-2-us.tcl.wurl.tv/2be3e2d614113716d0d6be750db78407.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/3hQBDBj/IMG-20240129-071855.jpg", LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
@@ -772,6 +773,8 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE", Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://photocall.cc/img/new/voyager.png", VOYAGER TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/1539795/playlist.m3u8?terminate=false&sid=7688e1cb-935e-4dd6-6e07-e027e39b4253&deviceDNT=0&deviceModel=0&deviceVersion=0&deviceId=0&appVersion=0&deviceType=0&deviceMake=0
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/fSZ39zj/IMG-20240129-071418.png", ANIMAL PLANET
 #https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
