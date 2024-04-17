@@ -759,8 +759,8 @@ https://dplus.gammacdn.workers.dev/videos/98.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/j5BPQzs5/image.jpg", OUTDOOR CHANNEL
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/D7FjWDK/IMG-20240126-101025.jpg", XLPORE 
-http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/7Xqcg3M/IMG-20240129-071722.png", MODERN MARVELS
+https://i.mjh.nz/SamsungTVPlus/USBB5200025DO.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="sony1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png", SONY BBC EARTH
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
