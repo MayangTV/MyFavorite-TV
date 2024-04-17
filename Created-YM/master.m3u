@@ -6,7 +6,7 @@ https://amg13231-actve-bike-ono-mj2ao.amagi.tv/playlist/amg13231-actve-bike-ono/
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="99" tvg-logo="https://thumbor.prod.vidiocdn.com/UMECq0_g6VrR4FqAl6Jzi_AO1ZE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-45122c.png", PERSIB LIVE
 #EXTVLCOPT:http-referrer=https://www.808bola42.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-https://ttx0022-cf.cool6bcd6.cc/auth%3D2832340f3ed7318f0d6d954fd69a8faf503614b19a820b95ac0a23d866a80015178e0dd6b87b7c6b7cbad5d676e56b55a26567e9b97c5b5caf48afdf7d451563e6c27c9a68515f2a0b9429cff5ebdb973ca95b5b60729604277ce8cd2bed58679cb84c1343fba590353514cc0397a99b8cd65d91b8782120f6ed3ef040fae455031cf641315d2e051ab1063d34158a8d7cda9467f7a0588712120781215aa88be8521d610a3fb4a55c46f603c4afc4592c6cf9ee607d9170cc3c001fb28230e8255bf7480ff3ed2a884a4093c4a615e8%26cid%3DVzGbfoo_x1I9yKMulgmXh240415%26_v%3D2%26_r%3Df-7RDh%26_vis%3D8e84b79b3699270738eea096cacffeedb68b645dc4948b0512616985492ce07a%26_vvs%3Dccaf76b59d397c903b64cf5eafef682beddb1ae8c2aae43bdb262b831425bd3a/app/c245056.m3u8
+#https://ttx0022-cf.cool6bcd6.cc/auth%3D2832340f3ed7318f0d6d954fd69a8faf503614b19a820b95ac0a23d866a80015178e0dd6b87b7c6b7cbad5d676e56b55a26567e9b97c5b5caf48afdf7d451563e6c27c9a68515f2a0b9429cff5ebdb973ca95b5b60729604277ce8cd2bed58679cb84c1343fba590353514cc0397a99b8cd65d91b8782120f6ed3ef040fae455031cf641315d2e051ab1063d34158a8d7cda9467f7a0588712120781215aa88be8521d610a3fb4a55c46f603c4afc4592c6cf9ee607d9170cc3c001fb28230e8255bf7480ff3ed2a884a4093c4a615e8%26cid%3DVzGbfoo_x1I9yKMulgmXh240415%26_v%3D2%26_r%3Df-7RDh%26_vis%3D8e84b79b3699270738eea096cacffeedb68b645dc4948b0512616985492ce07a%26_vvs%3Dccaf76b59d397c903b64cf5eafef682beddb1ae8c2aae43bdb262b831425bd3a/app/c245056.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="99" tvg-logo="https://thumbor.prod.vidiocdn.com/UMECq0_g6VrR4FqAl6Jzi_AO1ZE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-45122c.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", BRI LIGA 1 - SPORTSTARS 3 
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -3630,8 +3630,8 @@ https://kister.net/mpl/yt2m3u8?w=@timjanis
 #EXTINF:-1 group-title="MUSIK", RELAXING MUSIC 3
 https://kister.net/mpl/yt2m3u8?w=@coffeeworkspace
 
-
-
+https://youtube.com/@ALLTHEKPOP?si=QiwHSFk1TSfowpCJ
+https://ythls-v2.onrender.com/channel/QiwHSFk1TSfowpCJ.m3u8
 
 |||||||||||||||||||||||||||||||||  NEWS
 ======================
@@ -3815,6 +3815,90 @@ https://5bf7b725107e5.streamlock.net:443/mqtv/mqtv/chunklist.m3u8
 https://e.siar.us/live/tvmu.m3u8
 #EXTINF:-1 group-title="DAKWAH" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", ISLAM CHANNEL
 https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8
+
+
+////////////////////   KOREA
+=====================
+#EXTINF:-1 group-title="KOREA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502092_tvchannels_v1.jpg" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", tvN_HD
+http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8?|user-agent=Mozilla/5.0 
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/korean-entertainment-vipotv.png", K-PLUS HD
+http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8?|user-agent=Mozilla/5.0 
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg", tvN Movies HD
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8?|user-agent=Mozilla/5.0 
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692691581_tvchannels_v1.jpg", NaDooKorean
+http://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?|user-agent=Mozilla/5.0 
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502076_tvchannels_v1.jpg", KIX HD
+http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8?|user-agent=Mozilla/5.0 
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/kbs-drame-live-vipotv-korea.png", KBS DRAMA
+https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1713494196&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxMzQ5NDE5Nn19fV19&Signature=dMd6zKK2MO1Hyh1Np8N-yLaEgxnUz1puO~XGuQErKRyFXCcRHj12Z1UZ6eu57JDYekOs3rRl5Z0qR1EszXJLapHFU2C7hrvWPtVdVLvKPXTPtkm~iTMxDYpYwq8FJ~ov83lJGXGYyS9cPJiy1dO0b668aaCyKfiZLFKZnFHztqVm~9gXPRWSQ-I3epZOaixSZ80YLMRomnbYElBPIbn9ENbb8wWx-ntTUQYFXRVpTehhmAe1QiYTzmmfxIhTT7~-9395q4aVis9RA5eb~i~lMcGaM-rqbEAaRvotPwuJ2i7rSYCXegcjKhEoqkGuI--VjTxTlgGl4DOczFZxOBwbEQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/kbs-joy-live-vipotv-korea.png", KBS JOY
+https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Expires=1713494356&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyL2tic25qb3ktMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxMzQ5NDM1Nn19fV19&Signature=E4q1jRwT4eJKRy-ZokJUEX02k8KHRr1m6KH5sEquYxvA4BcIKeVXK6ecG2ZIXrmNXotPiA6XfaQgbmhp~3tUo7PWBSHhiHgbu81MzV9YyN3y3dDk-v6UkgVUMJfCLIF8rHxO69HjUfvt6OadtEwIWFEBeIHZh9~VHsugNKlCcyBN0WUQTCCx0qQxXEo1hUtWPd03640dkWR9Nm4IXp98SKpxAWz~lM9YxnM1Tu~aknSZ6pAr7DlNMgSTTFCi2jggyqYJyYdD~PIzTP3KXhmIWgfaqPJagKcZmVAqK4BXy7wJSu7MrTBEkVidKF70edMkMphPzGE9kcpwZADnhEGlZw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/kbs-story-live-vipotv-korea.png", KBS STORY
+https://kbsnw.gscdn.kbs.co.kr/kbsnw-01/kbsnw-01_sd.m3u8?Expires=1713494674&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDEva2JzbnctMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxMzQ5NDY3NH19fV19&Signature=l-7bCVI80o-OZ8GVo31Rfav6vn2fk3QXdfMD5qGx35hSoD28Soj-GPdaxZhGCPgGNlJdxCzjT4J8N7YU4K~hoggFRBZYo6ugVhCx1a907XHGK2LWp1gZGBfTsDBqgHdTVmDYlCa4kB~JeGBBEid2X1N7J81SMzFOuno-zyrcEHMy2a6xmBifRawJKIjaqwihZ1yuJpXHOZE-WuiR6Txhus-xzXFKXNuXN~9B8hd9ScFoBFzJNeYGp4IB6a~00084D4IGpimALFQ1k4f1ZLGD43UVJ8NrdVEgpsD1ibFt1Dd7nl6OyMjqkZmjPW31PpAmf0STIBlT9iSVbw44E9cKPg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/kbs-world-live-vipotv-korea.png", KBS WORLD
+https://world.gscdn.kbs.co.kr/world-01/world-01_sd.m3u8?Expires=1713494745&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDEvd29ybGQtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxMzQ5NDc0NX19fV19&Signature=YoxY24qgnoFJ5IOrdIzOXbHxc3mSQsAAzGbs58r5gh8ShhWv8PdE63Kr6OJja~Vz1yf12HFBvAeDIba4KdESx1msaBN-dryBvb4qnPN0G6x-gSJRmBmvJhDqa9ZVzmUJKOVL1NR~QGxquSZKw2mWMYbTjdesq3WNkX3eFV5gOI5xhJHy2Ew~SjCueHXGw2X3rroOuq8widPIQwlsAYgKcYCeV3bE84ne1yWRp2g9iTm~9T9ftZ8sOLbuJSXJv3GEgbOjQTggk9WnjaPrCMsAvxiN48VCjIBgLPAzppMWf9FPy~B8QX0AA7FZzt3wTwc1dG5RVY-l7T5J9u3OaqBVsQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/arirang-vipotv.png", ARIRANG TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2023/05/Channel-A-live-vipotv-korea.png", CHANNEL A
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MTMzOTIyMDJ9.U5g1o8Ki9twBQjBL-COLWMXv_ubkjn1SJr6EaRxwg8Y
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2022/02/CJB-SBS-live-vipotv-korean.png", CJBTV
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1930971353.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-1-vipotv.png", EBS 1
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-2-vipotv.png", EBS 2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/chunklist.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs-kids-vipotv.png", EBS KIDS
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebs2-vipotv.png", EBS+ 2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/chunklist.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebse-vipotv.png", EBS e
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/chunklist.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/ebsi-plus-vipotv.png", EBS i
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/chunklist.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2022/01/kbc-sbs-live-vipotv-korean.png", KBCTV
+https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1577283425.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/KBS-Dokdo-live-vipotv-south-korea.png", KBS DOKDO
+https://kbs-dokdo.gscdn.kbs.co.kr/myk_SD/kbs/chunklist.m3u8?Expires=1713494175&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnMtZG9rZG8uZ3NjZG4ua2JzLmNvLmtyL215a19TRC9rYnMvcGxheWxpc3QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxMzQ5NDE3NX19fV19&Signature=T5CuRF1fBZm7e02uaY8jq1PROWJ~xNbw-onga1uO0xYWx8iEGN1~Pw6lFhw1qxViXuPfVtqWQQLyKTzJKsxTSf6QzJR1G~du-lNDgkqSJvLpdxIsEVUOHICb4Gr3tUklAU4Bq9iaPjINfsAABVy3S1edCA0N23UxIPVahr68e8pB1YLOOK-PMIfYdk7~1QAHB6XFT1-bNxl-mWuPV8yB9toHd6ZZD9RZfhvn0C32si7FvMhcK0UXbWFQzL78ZaP8nFSE8je7lq0m~~A0hC0LoTqKMn-o9gvOi6aRj9uRguRY8oVc7ZUIs0Xd8kKQxZYxMbwOL~ljCRniVItCMIavzQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/kbs-kids-live-vipotv-korea.png", KBS KIDS
+https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1713494416&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxMzQ5NDQxNn19fV19&Signature=F9WhGj9suWpZ5Vg8D63zKfUpUjMLPGbZxOTWpid6a5xNUGqAZTdkxzVSTjxWlHRF3XkmrMhubI3b6i5UNKFQPdM4Mb4ZDzEVlB6OhBR0MOcsXNv5U46WsEe-W3EPvc9H7rM-D8RYe-qaLCCbGOyS-hO2wfC3rO5H8QPmNE0hTQaCRWm0J4OC9OnU3lHvSRRuCzqzCdxLxAIx0JZmUZ-baPfAAYH8Ewq4B~qR9ISEs2V~CtLE~Xl-e9SzlFhnhAnuhnXTvx~aBKrZhhUKe9w9yvMb0lMroHZWdBYegK7kJplCknx1AoDbG60mMpC4v8rQoj~d6mFbwzgbej1howGsBg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/kbs-life-live-vipotv-korea-south.png", KBS LIFE
+https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-02/kbsnlife-02_sd.m3u8?Expires=1713494558&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDIva2JzbmxpZmUtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxMzQ5NDU1OH19fV19&Signature=jJs7YSQd6SIyyuNfsEQ6hPvasbMQvlCNrbD~IYsZD8~JVHnlP1hPRAVGX5UN5Qyfs3tLPryeHhH6cfEtpYX8DOKzJ28ABtq4AhHheGAgDepvILdY4yMs0JVqQLaw9FL0aUX~OsdMdlPv~vvLXUbFqJewSDgh~pObcd3OXUnLqPoc24qDYdHkPyPNc16NlnarNQkHK1AGUZ3o7uKnY5flaARw9MRaPspidLeOpNz2HsmQ7Ixu0QNIq~Q-uTS~0cYNzC76b3bNNV2gujP1AUX-MPHhEVxqu-5z9Oaj6iisZlNJOn9C8HGQ3UQeTJrHSwO8Sud489UCN9S42l9lcsicfw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2022/02/korea-tv-live-vipotv-korean.png", KTV
+https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w2049548666.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2022/02/NBS-Korea-Agricultural-live-vipotv-korean.png", NBS Korea Agricultural
+https://media.joycorp.co.kr:4443/live/live_720p/chunklist_w608694728.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2022/01/tbs-livei-vpotv-korean.png", TBS TV
+https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_360.smil/chunklist_b414000.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2022/02/the-k-pop-live-vipotv-korean.png", KPOP
+https://tvlive.sbs.co.kr/sbskpop/sbskpop2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTMzMzAxMzgsInBhdGgiOiIvc2Jza3BvcDIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJlMWUyNjlhZC00Y2JkLTRjNTktYTJlZi1mMzdhYWYzN2ZiOTEiLCJpYXQiOjE3MTMzMjI5Mzh9.8rocbwENjGP0H2VpK4XzcM8jMWXA2oJqbZz4gSx_3Hc&solsessionid=3ac5388007c9835be581dad70108e7c2
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUh45WaAlcczsKjB6lEmmx3uglpKQYIzFXRw&usqp=CAU", THE K-POP2
+https://kister.net/mpl/yt2m3u8?w=@thekpop2
 
 
 |||||||||||||||||||||||||||||||||||||   MALAYSIA 
