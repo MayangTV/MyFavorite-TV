@@ -3820,19 +3820,19 @@ https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/bitrate1-audio_
 ////////////////////   KOREA
 =====================
 #EXTINF:-1 group-title="KOREA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502092_tvchannels_v1.jpg" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", tvN_HD
-http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8?|user-agent=Mozilla/5.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/korean-entertainment-vipotv.png", K-PLUS HD
-http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8?|user-agent=Mozilla/5.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg", tvN Movies HD
-http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8?|user-agent=Mozilla/5.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692691581_tvchannels_v1.jpg", NaDooKorean
-http://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?|user-agent=Mozilla/5.0 
+http://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502076_tvchannels_v1.jpg", KIX HD
-http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8?|user-agent=Mozilla/5.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/kbs-drame-live-vipotv-korea.png", KBS DRAMA
 https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1713494196&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxMzQ5NDE5Nn19fV19&Signature=dMd6zKK2MO1Hyh1Np8N-yLaEgxnUz1puO~XGuQErKRyFXCcRHj12Z1UZ6eu57JDYekOs3rRl5Z0qR1EszXJLapHFU2C7hrvWPtVdVLvKPXTPtkm~iTMxDYpYwq8FJ~ov83lJGXGYyS9cPJiy1dO0b668aaCyKfiZLFKZnFHztqVm~9gXPRWSQ-I3epZOaixSZ80YLMRomnbYElBPIbn9ENbb8wWx-ntTUQYFXRVpTehhmAe1QiYTzmmfxIhTT7~-9395q4aVis9RA5eb~i~lMcGaM-rqbEAaRvotPwuJ2i7rSYCXegcjKhEoqkGuI--VjTxTlgGl4DOczFZxOBwbEQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
@@ -4108,4 +4108,3 @@ https://stream.lokermusik.com:8420/lokermusik
 https://sv.rajamediautama.my.id/listen/station_4/radio
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.persibradio.id/asset/images/PERSIB-Radio-Logo.png", RADIO PERSIB
 https://s3.vinhostmedia.com:10945/;
-
