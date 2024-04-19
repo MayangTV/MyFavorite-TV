@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="guidatv.sky.it, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/dens.tv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://xmltv.tvkaista.net/guides/firstmedia.com.xml, https://xmltv.tvkaista.net/guides/mncvision.id.xml, https://xmltv.tvkaista.net/guides/visionplus.id.xml"  refresh="3600" billed-msg="PLAYLIST INI GRATIS DIBUAT OLEH ADMIN GANTENG FORUM SATELIT INDONESIA ~ https://chat.whatsapp.com/FVaNcuFgAuT00cv7WLTeat | Created by: YM"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/arabiapremium2.xml, https://www.bevy.be/bevyfiles/germanypremium.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml, https://www.bevy.be/bevyfiles/indonesiapremium2.xml, https://www.bevy.be/bevyfiles/ireland.xml, https://www.bevy.be/bevyfiles/italypremium.xml, https://www.bevy.be/bevyfiles/koreapremium.xml, https://www.bevy.be/bevyfiles/malaysia.xml, https://www.bevy.be/bevyfiles/newzealand.xml, https://www.bevy.be/bevyfiles/portugal.xml, https://www.bevy.be/bevyfiles/romaniapremium.xml, https://www.bevy.be/bevyfiles/romaniapremium.xml, https://www.bevy.be/bevyfiles/spain.xml, https://www.bevy.be/bevyfiles/sportspremium1.xml, https://www.bevy.be/bevyfiles/unitedstatespremium5.xml, https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="3600" billed-msg="PLAYLIST INI GRATIS DIBUAT OLEH ADMIN GANTENG FORUM SATELIT INDONESIA ~ https://chat.whatsapp.com/FVaNcuFgAuT00cv7WLTeat | Created by: YM"
 
 #EXTINF:-1 tvg-id="" group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", GOWESS
 https://amg13231-actve-bike-ono-mj2ao.amagi.tv/playlist/amg13231-actve-bike-ono/cb543d1e786c64879bd43e60d5ef46a6f93b3dda0f74907570ae4a9677df1f4b91eaa2c7bc4ebc6f558249d7660a70505c329e048c2d5491c37eaa5760294522c8cab128dafb283382fa3f001aa94a1c61942d2fed7a087acdfd0a47d173e42b4b439a69143638eeec51aa3e63070c54f82a1358293c05f62c78bcd046/187/854x480_1706830/index.m3u8
@@ -881,7 +881,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 /////////////////  SPORTS PREMIUM HD
 ==============================
 
-#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Astro SuperSport 1
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8?|referer=https://weblivehdplay.ru/
 #EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Astro SuperSport 2
@@ -2340,35 +2340,8 @@ http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/mast
 
 //////////////////////// TNT SPORTS
 ==============================
-#EXTINF:-1 group-title="TNT SPORTS" tvg-id="TNTSports1.uk" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", TNT SPORTS 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00057e0dcf77cadc027a69b60e145660:8517f2a86b1bd267fc71a207c9ea3e7a
-https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(tntsport1)/manifest_720.mpd
 
-#EXTINF:-1 group-title="TNT SPORTS" tvg-id="TNTSports2.uk" tvg-logo="https://i.ibb.co/ftMYw1j/tntsp2.png", TNT SPORTS 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005520dcd30036b77b924cc5363cad0:ebc86cd5962affaa29593b75d73551ba
-https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(tntsport2)/manifest_720.mpd
-
-#EXTINF:-1 group-title="TNT SPORTS" tvg-id="TNTSports3.uk" tvg-logo="https://i.ibb.co/sQwLrNy/tntsp3.png", TNT SPORTS 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00051f0f971600aff940e2b5fddb6a60:816e7a26242bd0ab0c5323e55a97456c
-https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(tntsport3)/manifest_720.mpd
-
-#EXTINF:-1 group-title="TNT SPORTS" tvg-id="TNTSports4.uk" tvg-logo="https://i.ibb.co/cwc9MzW/tntsp4.png", TNT SPORTS 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00055a412a3890d72fae79895095c792:63eb81d4f0e0b1c85f9592ab59c13b9a
-https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(tntsport4)/manifest_720.mpd
-==========================================
-#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDsVT.png", TNT SPORTS 1
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDsVT.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", TNT SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4355,6 +4328,23 @@ https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="FIFA TV", FIFA+ 3
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 
+
+
+////////////////////  HIBURAN
+======================
+#EXTINF:-1 group-title="HIBURAN", group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", JUST FOR LAUGHS 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+https://d1geua7w9myu7w.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="HIBURAN", JUST FOR LAUGHS 2
+https://i.mjh.nz/SamsungTVPlus/ESBC2700008SK.m3u8
+#EXTINF:-1 group-title="HIBURAN", JUST FOR LAUGHS GAGS
+https://i.mjh.nz/SamsungTVPlus/USBC4400004KK.m3u8
+#EXTINF:-1 group-title="HIBURAN", FAIL ARMY
+https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="HIBURAN", AFV FAMILY
+https://linear-12.frequency.stream/mt/plex/12/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 group-title="HIBURAN", WIPEOUT
+https://d2stx9idyk58lb.cloudfront.net/wipeoutxtra-samsungus/playlist480p.m3u8
 
 
 
