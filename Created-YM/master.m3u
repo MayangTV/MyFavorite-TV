@@ -3659,28 +3659,6 @@ https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 ===========================================
-#EXTINF:-1 tvg-id="SkyCinemaActionHD.uk" tvg-logo="https://prod.ctassets.virginmedia.com/uploads/Movies_Tile2x_7fe3b8e32f.png" group-title="MOVIES", SKY CINEMA ACTION 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0009155379296e2b270a60154889ef73:19955ba8f23feaffec600471f9b61c1d
-https://linear401-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_1080_30/Live/channel(skycinemaaction)/manifest_1080.mpd
-
-#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-logo="https://prod.ctassets.virginmedia.com/uploads/Movies_Tile2x_7fe3b8e32f.png" group-title="MOVIES", SKY CINEMA HITS 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00097e342d1d3b2b81077117831e96b4:cd19929847c50087f9d4a3708653cfcf
-https://linear406-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_1080_30/Live/channel(skycinemahits)/manifest_1080.mpd
-
-#EXTINF:-1 tvg-id="SkyCinemaPremiereHD.uk" tvg-logo="https://prod.ctassets.virginmedia.com/uploads/Movies_Tile2x_7fe3b8e32f.png" group-title="MOVIES", SKY CINEMA PREMIER 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0007236f894d9570b2bd910185faa158:05f2d10cf08f756fca27f9721d9c0533   
-https://linear407-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_1080_30/Live/channel(skycinemapremier)/manifest_1080.mpd
-
-#EXTINF:-1 tvg-id="SkyCinemaSelectHD.uk" tvg-logo="https://prod.ctassets.virginmedia.com/uploads/Movies_Tile2x_7fe3b8e32f.png" group-title="MOVIES", SKY CINEMA SELECT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0009240d9cacf6778bf17d9163edd28d:83829b6771d0d248a56d22e9007b8c92
-https://linear402-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_1080_30/Live/channel(skycinemaselect)/manifest_1080.mpd
-===========================================
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.mncnow.id/images/channel/920951dc/fad9.png", CELESTIAL MOVIES 
 http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 
@@ -4186,9 +4164,8 @@ https://d2stx9idyk58lb.cloudfront.net/wipeoutxtra-samsungus/playlist480p.m3u8
 
 |||||||||||||||||||||||||||||||||||||   RADIO
 ========================
-#EXTINF:-1 group-title="RADIO" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://www.nagaswarafm.com/wp-content/uploads/2023/10/nsradio-original-84px.webp", Nagaswara
-https://ythls-v2.onrender.com/video/Is03gZsBeq0.m3u8
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JqxiBOfNQWFZcKhixneJaFnAV75wSc_3sw&usqp=CAU", Hot fm Malaysia
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JqxiBOfNQWFZcKhixneJaFnAV75wSc_3sw&usqp=CAU" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Hot fm Malaysia
 https://kister.net/mpl/yt2m3u8?w=@hotfm976
 
 #EXTINF:-1 group-title="RADIO" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/19314.v10.png", Muara Dss
