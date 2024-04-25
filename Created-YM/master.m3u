@@ -198,6 +198,10 @@ https://hqth.me/Livevolly1_ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 https://hqth.me/Livevolly2_ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX", Volly 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://idn00054.tigoals60.com/
+https://ttx00032-cf.cool6bcd6.cc/auth%3D00e47dcf21ff3447a086a7cb1bd9e78acf897462e0eebc6f7930b46dc7df72ef390bba67ecf4591ac19eb3e900ee2c44a838274ce733ab6e1be130d25f38c5cb80966f145a24b3bbc6aba9797589c455f379aae0d6e2692b543bc470e14f55528a2ca84ec35bca2ebb4962aa8326f80232657e0a764e49a1720dfba888a5059c5ecf4fd14674cf25c037476d5d089a5f09df209024729200293058015cadcecc47feb70ffd7470163e912fd2c70b5028961b9c89901a325a2701e4bc13d0672712ae1fae01793594454f53c569b1fc2450ab7c973556156e6ab0c13f9ca5c7e95bbdaddf5f354d930dbf9dd585d50bc34a6b2cbbe8b104ba6c5dd8ea35683f081cbac0b84d16e73acc23a9ceb3bbfe7e85b7a6a24158ead5382938ecbaefd6d6a13c9594990a5435bafc9b83a908296e%26cid%3DUry5AypJhssB2-38YkvSj240425%26_v%3D2%26_r%3DX_y2r6%26_vis%3D57bf572991072b1a5b07a0e96c465668f8d4562df1c57a3d9000bd1c36781ba8%26_vvs%3Dc6a62f9aa78555981b39318361af92ac295854ca1badb02d56498967ac1b88fa/app/c247654.m3u8
 
 #EXTINF:-1 group-title="M-TEX" tvg-id="Indosiar.id" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR D
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
@@ -216,7 +220,7 @@ http://103.226.232.196:8000/play/a013/index.m3u8
 #EXTINF:-1 group-title="M-TEX" tvg-id="Ochannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", MOJI VIDIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-2-vidio-com.akamaized.net/exp=1714032065~acl=/hls-p/ingest_17252_*/*~hmac=217c0753af47498d44c8d0d26d0509a13b5c181b7c56312566164028940bf225/hls-p/ingest_17252_720p/index.m3u8
+#https://etslive-2-vidio-com.akamaized.net/exp=1714032065~acl=/hls-p/ingest_17252_*/*~hmac=217c0753af47498d44c8d0d26d0509a13b5c181b7c56312566164028940bf225/hls-p/ingest_17252_720p/index.m3u8
 
 #EXTINF:-1 group-title="M-TEX" tvg-id="Ochannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", MOJI DENS
 http://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
