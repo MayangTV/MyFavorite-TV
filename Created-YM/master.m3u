@@ -236,7 +236,9 @@ http://103.226.232.196:8000/play/a022/index.m3u8
 ==========================
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="RCTI.id" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", RCTI+
-https://1a-rcti.rctiplus.id/rcti-sdi.mpd?|user-agent=Dalvik/2.1.0 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+https://1a-rcti.rctiplus.id/rcti-sdi.mpd
+
 #EXTINF:-1 group-title="NASIONAL" tvg-id="MNCTV.id" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png", MNCTV+
 https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd?|user-agent=Dalvik/2.1.0 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="GTV.id" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png", GTV+
@@ -2829,6 +2831,8 @@ https://cnt1-streamer1.cdn.3bbtv.com:8443/3bb/tstv/903/903.mpd
 ================================
 #EXTINF:-1 group-title="CHINA SPORTS" tvg-id="CCTV5.cn" tvg-name="CCTV-5" tvg-logo="https://i.imgur.com/Mut2omN.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", CCTV 5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="CHINA SPORTS" tvg-id="CCTV5.cn" tvg-name="CCTV-5" tvg-logo="https://i.imgur.com/Mut2omN.png", CCTV5 2
+https://pull.tangyuan1688.com/live/sd-6MsEv9pZ6rv3Yz7xS2.m3u8
 #EXTINF:-1 group-title="CHINA SPORTS" tvg-id="CCTV5Plus.cn" tvg-name="CCTV-5+" tvg-logo="https://i.imgur.com/UNjmQVS.png", CCTV 5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="CHINA SPORTS" tvg-id="CCTV16.cn" tvg-name="CCTV-16" tvg-logo="https://i.imgur.com/gaA4Cjy.png", CCTV16
