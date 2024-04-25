@@ -205,10 +205,10 @@ https://ttx00032-cf.cool6bcd6.cc/auth%3D00e47dcf21ff3447a086a7cb1bd9e78acf897462
 
 #EXTINF:-1 group-title="M-TEX" tvg-id="Indosiar.id" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR D
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-#EXTINF:-1 group-title="M-TEX" tvg-id="Indosiar.id" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR OTT
-http://bit.ly/indosiar_shareext-ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTINF:-1 group-title="M-TEX" tvg-id="Indosiar.id" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR PLAY
-http://103.226.232.196:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="M-TEX" tvg-id="Indosiar.id" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR PERSIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://idn00054.tigoals60.com/
+https://ttx00032-cf.cool6bcd6.cc/auth%3Dc6e26d42e25901bd39cf54b19d01fe8afe977112c598a7f592e2b7d480f829e6cf01fe0efed4ca302c8623f347d8c7c46d1c4f72452d50e2abbc0771f9ab8d42f023f751a0719cce0346957cc01045b5d217572f26293c4cb7edf471b1aef554705f2fd5f3e41a4cc3cc19535a379633247f7f11e3c0d6f460a7abcf45f7bd4a0cfd0517b5a812c09010eb34a198a4d82737330d50fbf33c93429210f2de70880d04aa43c5d178238827b3ab6c8bdf5f%26cid%3D5tMs6GG7L0-Pn0USSh0-x240425%26_v%3D2%26_r%3DaCb6ON%26_vis%3Db043de437a19eb954579003edf96fca4b244e4860e80350191433153356672ab%26_vvs%3D80023667ae830f21399d3df8937cc630f3f984cd8463a017962320f7c8af107e/app/c247426.m3u8
 
 #EXTINF:-1 group-title="M-TEX" tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png", SCTV DENS
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
