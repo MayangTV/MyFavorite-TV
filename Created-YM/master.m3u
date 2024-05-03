@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", GOWESS
 https://amg13231-actve-bike-ono-mj2ao.amagi.tv/playlist/amg13231-actve-bike-ono/cb543d1e786c64879bd43e60d5ef46a6f93b3dda0f74907570ae4a9677df1f4b91eaa2c7bc4ebc6f558249d7660a70505c329e048c2d5491c37eaa5760294522c8cab128dafb283382fa3f001aa94a1c61942d2fed7a087acdfd0a47d173e42b4b439a69143638eeec51aa3e63070c54f82a1358293c05f62c78bcd046/187/854x480_1706830/index.m3u8
 
+
+https://love.yos512.eu.org/
+
 #EXTINF:-1 tvg-id="PremierLeagueTV.us" tvg-logo="https://www.geocities.ws/alvaro8/Premier_League.jpeg" group-title="MAYANG TV", PREMIER LEAGUE_peacok
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -296,18 +299,18 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6dda78ad-455c
 /////////   M-TEX
 =============
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Volly 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Voli 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 https://hqth.me/Livevolly1_ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX", Volly 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX", Voli 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 https://hqth.me/Livevolly2_ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX", Volly 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX", Voli 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://idn00054.tigoals60.com/
-https://tta00033-cf.cool6bcd6.cc/auth%3D00bad7d703819a37ebe6b76b37e2577bbbad5e2a91cef37846a1d5c2f1256eed489be9e6e788a04ebcdf6233bbc25fe11788b1d4f2292022fd9073041ee2a2133f02ce44e98657a8daa4887612a86a95edd187a1719d8ed9d7babdd4511ec46515a1bb9a5298f38413228549bd6ac79a1c8e50be1c460a23258516dd4bee709d0801741b72f49c92b0c0498a12cc463f073bfeaaab0db4dff167449820b1941bfa47a65443559af7526f570e7eee2acd052b94317f6dcf9153219ffa78be0898b4356d86ccac6a8ee562cab244efb9b3acd128f7e9f02da7f09e84b6b5fb0e04a05e3adbd2bd6da36400acab8ea405ae0a798f15daec9537111be74ece001f3a66ec0821471ca0d4892aee67c4c919b3b56f515b9ec0f86f8226ee529c2ed0a9%26cid%3DJ740Pnt0IGnRszsN5kWfw240502%26_v%3D2%26_r%3DcCpEGP%26_vis%3D479899a3fa18b0f24c57dd2e0f547d86c2f7565885960e32ceca7ed49d9eacef%26_vvs%3Dcfebb6253455fb40f2d426e4dcee17033fe30d4441eb1e4dc3208f9c1cca64f9/app/c249629.m3u8
+https://ttx00032-cf.cool6bcd6.cc/auth%3D0b30d48309e26983b13e002c6fd6e6f89c934630a794e3e38b3adb90be80fa54591186ab60464128e715beec491a9791411560d3df684e182001b4ab511639ba8d20f6417d74b9bcd2b236e1f8929243a3719e2d3b74558b37bddcca6bd9494c132f991a86c6ab86fce437101745ba337e9b6632828b4747eaa6147e999ca098db00f7d09983f002f2d3b370ce19015047fd1c69b3a9af6a013037a1c1fe06a0723325811528b2d641501df183c424a7%26cid%3Dp-UKuIAj75ndIObDrv9jj240503%26_v%3D2%26_r%3DCTxciH%26_vis%3D41039b99fb84391c24bd707e76184e5a6c75521d92e0d0c208b6859ab4ed5c13%26_vvs%3D4686b09a455ca9d9d052ab640eac142897241ca817a5355829ca64e5000e8549/app/c249931.m3u8
 
 #EXTINF:-1 group-title="M-TEX" tvg-id="Indosiar.id" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR D
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
