@@ -3,14 +3,14 @@
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/B6NYsV02/20220917-112745.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", GOWESS
 https://amg13231-actve-bike-ono-mj2ao.amagi.tv/playlist/amg13231-actve-bike-ono/cb543d1e786c64879bd43e60d5ef46a6f93b3dda0f74907570ae4a9677df1f4b91eaa2c7bc4ebc6f558249d7660a70505c329e048c2d5491c37eaa5760294522c8cab128dafb283382fa3f001aa94a1c61942d2fed7a087acdfd0a47d173e42b4b439a69143638eeec51aa3e63070c54f82a1358293c05f62c78bcd046/187/854x480_1706830/index.m3u8
 
-#EXTINF:-1 tvg-id="PremierLeagueTV.us" tvg-logo="https://www.geocities.ws/alvaro8/Premier_League.jpeg" group-title="MAYANG TV", PREMIER LEAGUE_peacok
+#EXTINF:-1 tvg-id="PremierLeagueTV.us" tvg-logo="https://thumbor.prod.vidiocdn.com/XrR1m22SDzfIma5XIiA-3aVa9wY=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/335/premier-league-5be18a.png" group-title="MAYANG TV", PREMIER LEAGUE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.geocities.ws/alvaro8/Premier_League.jpeg" group-title="MAYANG TV", PREMIER~LEAGUE_pluto
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XrR1m22SDzfIma5XIiA-3aVa9wY=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/335/premier-league-5be18a.png" group-title="MAYANG TV", PREMIER LEAGUE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="99" tvg-logo="https://thumbor.prod.vidiocdn.com/UMECq0_g6VrR4FqAl6Jzi_AO1ZE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-45122c.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", BRI LIGA 1 - SPORTSTARS 3 
@@ -46,7 +46,7 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="SPOTV1.my" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", SBK - SPOTV 1 MAY
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="SPOTV1.my" tvg-logo="https://thumbor.prod.vidiocdn.com/SCek27j63bmzwGgW7R8Wk8Oltfc=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/525/wsbk-4a9b22.png", SBK - SPOTV 1 MAY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -91,7 +91,7 @@ https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 https://arjuna.trans7.co.id/Trans7-L1v3stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TV4 Motor" tvg-logo="https://i.ibb.co/SxS86hq/tv4motor.png" group-title="MAYANG TV", TV4 MOTOR 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="MAYANG TV", TV4 MOTOR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -99,27 +99,26 @@ https://arjuna.trans7.co.id/Trans7-L1v3stream/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=39557d4a1ba75e168fc7b13756084b4d:efe8223510249dc20db097bb814feb41
 https://director.streaming.telia.com/tvm-packager-prod/group1/6089c58f47a23d7ce45cf30f/manifest.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="Fox Soccer Plus" tvg-logo="https://i.ibb.co/rbSp3Dd/foxsoccerplus.png", FOX SOCCER PLUS 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=260465aba18e40329932d47e9c7aa20b:2b79020e3f3ddc94ba84943ba72d898c
-https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1143/dash/cenc/FSCPLHD/manifest.mpd?
-
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co/JWYjRrF/fs1.png", FOX SPORTS 1 
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", FOX SPORTS 1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4aa03f4ba0b54774accf43d15af7be70:843a421b633ae576f7ad62872d0d71b1
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1166/dash/cenc/SPEEDHD/manifest.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="Fox Sports 2" tvg-logo="https://i.ibb.co/pwRPZLw/fs2.png", FOX SPORTS 2 
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="Fox Sports 2" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", FOX SPORTS 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=426b95e246774cb798a8c845fe6333d6:91e511fd8c290134b28c36ee1c386ea9
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1108/dash/cenc/FS2HD_00564/manifest.mpd
 
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="Fox Soccer Plus" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", FOX SOCCER PLUS 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=260465aba18e40329932d47e9c7aa20b:2b79020e3f3ddc94ba84943ba72d898c
+https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1143/dash/cenc/FSCPLHD/manifest.mpd?
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="eurosports.uk" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", EUROSPORTS 1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -144,12 +143,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8?|user-agent=Mozilla/5.0 (
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="MotoAmericaTV.us" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", MOTO AMERICA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-motoamerica-sportstribal/playlist.m3u8
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/6bb60f75741f46b79801c7e0e8a960e7/version/0/width/315/height/177/quality/8", MTRSPT1
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", MTRSPT1
 #EXTVLCOPT:http-referrer=https://sooka.my/
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sooka/0d204841-a402-43bc-a0de-0f70b05e1fee/0.m3u8
 
-#EXTINF:-1 channel-id="pluto-611468532f5f180007fbbc9c" tvg-id="611468532f5f180007fbbc9c" tvg-logo="https://images.pluto.tv/channels/611468532f5f180007fbbc9c/colorLogoPNG.png" tvg-chno="3000" group-title="MAYANG TV", MAVTV SELECT
-https://r.mjh.nz/PlutoTV/611468532f5f180007fbbc9c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-611468532f5f180007fbbc9c" tvg-id="611468532f5f180007fbbc9c" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="MAYANG TV", MAVTV SELECT
+https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="RedBullTV.de" tvg-logo="https://photocall.cc/img/new/redbull.png", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -177,6 +176,8 @@ https://nhl-firetv.amagi.tv/playlist480p.m3u8
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-023/stream.mpd
 
+#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", NBC SPORTS FREE USA
+https://r.mjh.nz/PlutoTV/6549306c83595c000815a696-alt.m3u8
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="MUTV.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5rKI89wWFiDrg-HiIBn4_PF6KaHMzWwHbC36fHTCvSw&s", MU TV
 https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/../../eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="LiverpoolFCTV.uk" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FLiverpool%20FC%20TV%20HD-FirstMedia-Chl-328.jpg&w=256&q=100", LIVERPOOL TV (LFC TV)
@@ -199,7 +200,7 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-025/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-033/stream.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://play-lh.googleusercontent.com/cpWdFlXAmAfzx6XC7m3BPJ4g-5epEcJvAQqKzQsG1gCBYoVZgMbdKyV7Srv4RnIwRQ=w240-h480-rw", FUTSAL MAFER TV
+#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", FUTSAL MAFER TV
 https://cloudvideo.servers10.com:8081/8184/tracks-v1a1/mono.m3u8
 
 
@@ -207,15 +208,15 @@ https://cloudvideo.servers10.com:8081/8184/tracks-v1a1/mono.m3u8
 ///////////////////////////////   M-TEX
 =========================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Voli 1
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0Zq8bjCr0GlppxcFIYoAb--E8u0=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/254/proliga-015760.png" group-title="M-TEX" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Voli 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 https://hqth.me/Livevolly1_ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX", Voli 2
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0Zq8bjCr0GlppxcFIYoAb--E8u0=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/254/proliga-015760.png" group-title="M-TEX", Voli 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 https://hqth.me/Livevolly2_ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX", Voli 3
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0Zq8bjCr0GlppxcFIYoAb--E8u0=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/254/proliga-015760.png" group-title="M-TEX", Voli 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://idn00054.tigoals60.com/
 https://ttx00032-cf.cool6bcd6.cc/auth%3D0b30d48309e26983b13e002c6fd6e6f89c934630a794e3e38b3adb90be80fa54591186ab60464128e715beec491a9791411560d3df684e182001b4ab511639ba8d20f6417d74b9bcd2b236e1f8929243a3719e2d3b74558b37bddcca6bd9494c132f991a86c6ab86fce437101745ba337e9b6632828b4747eaa6147e999ca098db00f7d09983f002f2d3b370ce19015047fd1c69b3a9af6a013037a1c1fe06a0723325811528b2d641501df183c424a7%26cid%3Dp-UKuIAj75ndIObDrv9jj240503%26_v%3D2%26_r%3DCTxciH%26_vis%3D41039b99fb84391c24bd707e76184e5a6c75521d92e0d0c208b6859ab4ed5c13%26_vvs%3D4686b09a455ca9d9d052ab640eac142897241ca817a5355829ca64e5000e8549/app/c249931.m3u8
@@ -1945,7 +1946,35 @@ https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/li
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+==========================================
+#EXTINF:-1 group-title="SPORTS" tvg-id="TNTSports1.uk" tvg-logo="https://i.ibb.co/kqXTRqF/tntsp1.png", TNT SPORTS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00051ad8db73a944abe9ec83ad88987b:100c985696718d923c4b1289c1cf0d7d
+https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(tntsport1)/manifest_720.mpd
 
+#EXTINF:-1 group-title="SPORTS" tvg-id="TNTSports2.uk" tvg-logo="https://i.ibb.co/ftMYw1j/tntsp2.png", TNT SPORTS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00050654545edbcf400de7c11a3ace78:7fc6cab788206f4b2c10fe5225def411
+https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(tntsport2)/manifest_720.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="TNTSports3.uk" tvg-logo="https://i.ibb.co/sQwLrNy/tntsp3.png", TNT SPORTS 3 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000540adbb30871d80550825b28bc4c3:402edc50e9288aadc551bceaf347a517
+https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(tntsport3)/manifest_720.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="TNTSports4.uk" tvg-logo="https://i.ibb.co/cwc9MzW/tntsp4.png", TNT SPORTS 4 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005091188d73981c2bbd51bbe4a81ab:2ee68af747c05c250b6a1c80abe57d2d
+https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(tntsport4)/manifest_720.mpd
+==========================================
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd" group-title="INGGRIS SPORTS", PREMIER SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
