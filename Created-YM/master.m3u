@@ -292,9 +292,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 =========================
 
 #EXTINF:-1 group-title="M-TEX" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0Zq8bjCr0GlppxcFIYoAb--E8u0=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/254/proliga-015760.png", VOLI PRO LIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_480p/hdntl=exp=1715543489~acl=%2f*~id=allUsers~data=hdntl~hmac=93a227f71c8f7cedb9c6daa1f7083f0525e425c01a473faf46ade5cb4de7cbc1/index.m3u8?hdnts=exp=1715471487~acl=/live/206/*~id=allUsers~hmac=89511315ad7a0fe094cb3a85c403c95fe062972037f7851cd44c0ba36b4ed4a7
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_720p/hdntl=exp=1715544524~acl=%2f*~id=allUsers~data=hdntl~hmac=5e981d0022716f010c69f15c6e17bc55a161e8e1c17ee680041664d482364640/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX", VOLI 1
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
@@ -308,7 +307,7 @@ https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8?vsid=7nxnh7m4ymrckua
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX", VOLI 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://idn00054.tigoals60.com/
-https://tta00033-cf.cool6bcd6.cc/auth~3Db905d769da4adbdfc1bc360a1de9246c762f2702a8ea0307fe7c9d6d3c39dda993949327e179a8adbab1ba8c03c23b015c22440aa51adbffe000f53d615ac0c14fece8cb267fac2b75c86177e9601f5befd09b88b773c85b6cd1587d2cc5eeb60e34f2697fbdab8abf2c8ad78f450c3da6f9c18bea8d7336dc72dfd19df05e8c8aa42a1854f8f44719efd3d47f5b6ef8d148d962e5a1603eaa27ec9e397023d36f2717496affd06baee3c2f6f4ed578d~26cid~3DfQP748CUgNr8aCMqSYDzv240510~26_v~3D2~26_r~3DUXkdj_~26_vis~3Db8be2e3d4b7b3f73d8822f14b1c74853985371ded40e5b2687d9945e866507c8~26_vvs~3Da1988d6d21821bb19b2c9f751c5a20e5a7afb596f37a46a9802884450cfe8b9d/app/c251944.m3u8
+#https://tta00033-cf.cool6bcd6.cc/auth~3Db905d769da4adbdfc1bc360a1de9246c762f2702a8ea0307fe7c9d6d3c39dda993949327e179a8adbab1ba8c03c23b015c22440aa51adbffe000f53d615ac0c14fece8cb267fac2b75c86177e9601f5befd09b88b773c85b6cd1587d2cc5eeb60e34f2697fbdab8abf2c8ad78f450c3da6f9c18bea8d7336dc72dfd19df05e8c8aa42a1854f8f44719efd3d47f5b6ef8d148d962e5a1603eaa27ec9e397023d36f2717496affd06baee3c2f6f4ed578d~26cid~3DfQP748CUgNr8aCMqSYDzv240510~26_v~3D2~26_r~3DUXkdj_~26_vis~3Db8be2e3d4b7b3f73d8822f14b1c74853985371ded40e5b2687d9945e866507c8~26_vvs~3Da1988d6d21821bb19b2c9f751c5a20e5a7afb596f37a46a9802884450cfe8b9d/app/c251944.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX", VOLI 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
