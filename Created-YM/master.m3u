@@ -294,7 +294,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 group-title="M-TEX" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0Zq8bjCr0GlppxcFIYoAb--E8u0=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/254/proliga-015760.png", VOLI PRO LIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://etslive-2-vidio-com.akamaized.net/exp=1715432948~acl=/hls-b/ingest_17252_*/*~hmac=2e0781dc729afd7daf0456bb25616c92a33fd59db3520c84c295f921146c4fed/hls-b/ingest_17252_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1715447473~acl=/hls-b/ingest_17252_*/*~hmac=175a128518035b65ef64f7fb8fdb41008af8d165752f8319273b70ed1bf6611a/hls-b/ingest_17252_480p/index.m3u8
+
+CAMPIONS TV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6685/primary/720p/v-720p-1714869807_49758306000.m4s?hdntl=exp=1715509112~acl=/*~id=117008036~data=hdntl~hmac=007919b76095dad1709e3b4bd78085b3f7661ed15ae8bae5bcf7a69e983dfdee
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX", VOLI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
