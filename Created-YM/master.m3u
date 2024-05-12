@@ -74,12 +74,6 @@ https://linear306-it-dash1-prd-ll.cdn13.skycdp.com/016a/31483/FHD/skysportmotogp
 #KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
 https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-id="DAZN1.es" tvg-logo="https://photocall.cc/img/new/motogp.png", MotoGp - DAZN1 ES
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-037/stream.mpd
-
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="TNTSports2.uk" tvg-logo="https://photocall.cc/img/new/motogp.png", MotoGp - TNT SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
@@ -148,6 +142,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-Dooya-SportsTribal/276.m3u8
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="Strongman.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexlE3t_tlABbQjMCd1DDYcjYk6xIeI3GBSYhImFzibQ&s", STRONGMAN
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://latele.xyz/img/new/dangertv.png", DANGER TV
+https://dangertv-us.samsung.wurl.tv/2000.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="HorizonSports.us" tvg-logo="https://photocall.cc/img/new/horizon.png", HORIZON SPORTS
 http://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
@@ -194,6 +190,8 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-033/stream.mpd
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", FUTSAL MAFER TV
 https://cloudvideo.servers10.com:8081/8184/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://latele.xyz/img/png/awesome.png", PEOPLE ARE AWESOME
+https://jukin-peopleareawesome-international-4-us.plex.wurl.tv/538b2cfec3d209c728c25ff5d749557a.m3u8
 
 
 ////////////////////////   KIDS CHANNEL
@@ -295,6 +293,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_720p/hdntl=exp=1715545645~acl=%2f*~id=117008036~data=hdntl~hmac=93b70dfae78e3f3858550a6c2b5835f108dff8e51919dfa984d26e85ca92d1da/index.m3u8?hdnts=exp=1715473644~acl=/live/206/*~id=117008036~hmac=8d411566c46556564e62c2b429384a87f86c4b9f278393275fc617a29da0ac94
+
+#EXTINF:-1 group-title="M-TEX" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0Zq8bjCr0GlppxcFIYoAb--E8u0=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/254/proliga-015760.png", VOLI PRO LIGA 1a
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_720p/hdntl=exp=1715545645~acl=%2f*~id=117008036~data=hdntl~hmac=93b70dfae78e3f3858550a6c2b5835f108dff8e51919dfa984d26e85ca92d1da/index.m3u8?hdnts=exp=1715473644~acl=/live/206/*~id=117008036~hmac=8d411566c46556564e62c2b429384a87f86c4b9f278393275fc617a29da0ac94
+
+#EXTINF:-1 group-title="M-TEX" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0Zq8bjCr0GlppxcFIYoAb--E8u0=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/254/proliga-015760.png", VOLI PRO LIGA 1b
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_720p/hdntl=exp=1715545645~acl=%2f*~id=117008036~data=hdntl~hmac=93b70dfae78e3f3858550a6c2b5835f108dff8e51919dfa984d26e85ca92d1da/index.m3u8?hdnts=exp=1715473644~acl=/live/206/*~id=117008036~hmac=8d411566c46556564e62c2b429384a87f86c4b9f278393275fc617a29da0ac94
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX", VOLI 1
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
@@ -1988,39 +1994,25 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 
 ||||||||||||||||||||||||||| OTHER SPORTS
 ===========================
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mgt4fPj/msetinfinityplus.png" group-title="OTHER SPORTS" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Infinity+ 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd
+#EXTINF:-1 group-title="OTHER SPORTS" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", FAST SPORTS
+http://121.91.61.106:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", TEN SPORTS
+http://121.91.61.106:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", A SPORTS
+http://121.91.61.106:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", PTV SPORTS
+http://121.91.61.106:8000/play/a01d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mgt4fPj/msetinfinityplus.png" group-title="OTHER SPORTS", Infinity+ 2 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mgt4fPj/msetinfinityplus.png" group-title="OTHER SPORTS", Infinity+ 3 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8342d78d46c8c202a:8d2e953821d36c942161be09930d2bd4
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-u3/u3-dash-widevine.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mgt4fPj/msetinfinityplus.png" group-title="OTHER SPORTS", Infinity+ 4 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834357864bc2ae0a8:ae7bec66e4ac23f3d243fa6e4d767a00
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-u4/u4-dash-widevine.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mgt4fPj/msetinfinityplus.png" group-title="OTHER SPORTS", Infinity+ 5 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b278760c5ba026:a9ab51a9e021da177f982de9b42eb0de
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mgt4fPj/msetinfinityplus.png" group-title="OTHER SPORTS", Infinity+ 6 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manifest.mpd
+#EXTINF:-1 group-title="OTHER SPORTS", PREMIER SPORTS 1 
+http://202.21.104.6:88/sps-prime/index.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", PREMIER SPORTS 2 
+http://202.21.104.6:88/sps-play/index.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", PREMIER SPORTS 3 
+http://202.21.104.6:88/sps-world/index.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", PREMIER SPORTS 4 
+http://202.21.104.6:88/sps-action/index.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", PREMIER SPORTS 5 
+http://202.21.104.6:88/sps-plus/index.m3u8
 
 #EXTINF:-1 group-title="OTHER SPORTS", L'EQUIPE LIVE 1
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
@@ -2394,11 +2386,6 @@ https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
 https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/k5Q6nMcC/National-Geographic-Wild.jpg", NATGEO WILD [Youtube]
-https://ythls.armelin.one/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/YS18msj2/national-geographic-hd.jpg", NATIONAL GEOGRAPHIC [Youtube]
-https://ythls.armelin.one/channel/UCpVm7bg6pXKo1Pr6k5kxG9A.m3u8
-
 #EXTINF:-1 tvg-id="BBCEarth.MACAN" group-title="KNOWLEDGE" tvg-logo="https://static.mncnow.id/images/channel/613c65c1/452b.png", BBC EARTH
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2465,6 +2452,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/7Xqcg3M/IMG-20240129-071722.png", MODERN MARVELS
 https://i.mjh.nz/SamsungTVPlus/USBB5200025DO.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/7Xqcg3M/IMG-20240129-071722.png", XPLORE
+https://xplore-xumo.amagi.tv/480p-cc/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="sony1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png", SONY BBC EARTH
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
