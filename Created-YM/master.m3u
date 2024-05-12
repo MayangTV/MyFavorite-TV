@@ -292,7 +292,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 group-title="M-TEX" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0Zq8bjCr0GlppxcFIYoAb--E8u0=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/254/proliga-015760.png", VOLI PRO LIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_720p/hdntl=exp=1715545645~acl=%2f*~id=117008036~data=hdntl~hmac=93b70dfae78e3f3858550a6c2b5835f108dff8e51919dfa984d26e85ca92d1da/index.m3u8?hdnts=exp=1715473644~acl=/live/206/*~id=117008036~hmac=8d411566c46556564e62c2b429384a87f86c4b9f278393275fc617a29da0ac94
+https://etslive-2-vidio-com.akamaized.net/exp=1715498206~acl=/hls-p/ingest_17252_*/*~hmac=e449529aa77e1a3e722d9120ca4a6bba4ded9b304050269e79ac67dc5b83a9de/hls-p/ingest_17252_720p/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX", VOLI 1
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
