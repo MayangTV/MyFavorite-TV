@@ -194,6 +194,40 @@ https://cloudvideo.servers10.com:8081/8184/tracks-v1a1/mono.m3u8
 https://jukin-peopleareawesome-international-4-us.plex.wurl.tv/538b2cfec3d209c728c25ff5d749557a.m3u8
 
 
+
+///////////////////////////////   LIVE EVENT
+=========================
+
+#EXTINF:-1 group-title="LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/xRxDYZKcO3ScOpYmPwudzTbz_Y8=/180x180/smart/filters:format(webp):quality(80)/vidio-web-prod-user/uploads/user/avatar/85044881/PROFILEPROLIGA2024-bacd6d773ea64a00.png", VOLI LIVE V1D10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+http://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+
+#EXTINF:-1 group-title="LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/lB2ANu-zh_9YTL7QdtzmfV4fh7E=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/168/vnl-e09675.png", VOLLEY VNL 1
+http://cdn.lvbxtv.com:80/live/2545965177/0589983587/290605.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/lB2ANu-zh_9YTL7QdtzmfV4fh7E=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/168/vnl-e09675.png", VOLLEY VNL 2
+https://trtspor.blutv.com/blutv_trtspor/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="LIVE EVENT", VOLI 1
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="LIVE EVENT", VOLI 2
+https://strm.yandex.ru/kal/start/start0.m3u8?vsid=hptol775c65k55x
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="LIVE EVENT", VOLI 3
+https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8?vsid=7nxnh7m4ymrckua
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="LIVE EVENT", VOLI 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://idn00054.tigoals60.com/
+#https://tta00033-cf.cool6bcd6.cc/auth~3Db905d769da4adbdfc1bc360a1de9246c762f2702a8ea0307fe7c9d6d3c39dda993949327e179a8adbab1ba8c03c23b015c22440aa51adbffe000f53d615ac0c14fece8cb267fac2b75c86177e9601f5befd09b88b773c85b6cd1587d2cc5eeb60e34f2697fbdab8abf2c8ad78f450c3da6f9c18bea8d7336dc72dfd19df05e8c8aa42a1854f8f44719efd3d47f5b6ef8d148d962e5a1603eaa27ec9e397023d36f2717496affd06baee3c2f6f4ed578d~26cid~3DfQP748CUgNr8aCMqSYDzv240510~26_v~3D2~26_r~3DUXkdj_~26_vis~3Db8be2e3d4b7b3f73d8822f14b1c74853985371ded40e5b2687d9945e866507c8~26_vvs~3Da1988d6d21821bb19b2c9f751c5a20e5a7afb596f37a46a9802884450cfe8b9d/app/c251944.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="LIVE EVENT", VOLI 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://idn00054.tigoals60.com/
+#https://ttx00042-cf.cool6bcd6.cc/auth~3Db6ea9326fb14a43c25f95e78f3a98a413ec2a063aad3a8e70fd46f1859742244e0bc5039a7c0b93db1362dd8567a81e44c022f54f71f488f52e19022acf0ea1fefba5b97fdb67cfe50b5e450a45ce98ae2fd050870b35973b4a765b7e53b179a92061bb516ee87d8f2443d65f4fe2da3a59d14ce096eed99081e1cd455bb8da9b3f2dffdda257698d0d8a3205ac727918363e78d2c5b36e1703111fc2f90e8df~26cid~3DAyei9VkI2c8h_sbbnS--k240509~26_v~3D2~26_r~3D9RvKA5~26_vis~3Dd0f59bed5c4bb600e139fd09414526da3f4611cf2fa65f2e09b43c5e391b83ca~26_vvs~3D066fef536805eab4920cb054d977033ae9afb360173cb821ddecb141009033c0/app/c251627.m3u8
+
+
+
 ////////////////////////   KIDS CHANNEL
 =========================
 
@@ -283,52 +317,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-
-
-
-///////////////////////////////   M-TEX
-=========================
-
-#EXTINF:-1 group-title="M-TEX" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0Zq8bjCr0GlppxcFIYoAb--E8u0=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/254/proliga-015760.png", VOLI PRO LIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-https://etslive-2-vidio-com.akamaized.net/exp=1715516336~acl=/hls-p/ingest_17252_*/*~hmac=011edc8fbbe3dd7c1bc3c91f34b9e9ec0bda429f9936130da76e3ab1f1562643/hls-p/ingest_17252_480p/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX", VOLI 1
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX", VOLI 2
-https://strm.yandex.ru/kal/start/start0.m3u8?vsid=hptol775c65k55x
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX", VOLI 3
-https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8?vsid=7nxnh7m4ymrckua
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX", VOLI 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://idn00054.tigoals60.com/
-#https://tta00033-cf.cool6bcd6.cc/auth~3Db905d769da4adbdfc1bc360a1de9246c762f2702a8ea0307fe7c9d6d3c39dda993949327e179a8adbab1ba8c03c23b015c22440aa51adbffe000f53d615ac0c14fece8cb267fac2b75c86177e9601f5befd09b88b773c85b6cd1587d2cc5eeb60e34f2697fbdab8abf2c8ad78f450c3da6f9c18bea8d7336dc72dfd19df05e8c8aa42a1854f8f44719efd3d47f5b6ef8d148d962e5a1603eaa27ec9e397023d36f2717496affd06baee3c2f6f4ed578d~26cid~3DfQP748CUgNr8aCMqSYDzv240510~26_v~3D2~26_r~3DUXkdj_~26_vis~3Db8be2e3d4b7b3f73d8822f14b1c74853985371ded40e5b2687d9945e866507c8~26_vvs~3Da1988d6d21821bb19b2c9f751c5a20e5a7afb596f37a46a9802884450cfe8b9d/app/c251944.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="M-TEX", VOLI 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://idn00054.tigoals60.com/
-#https://ttx00042-cf.cool6bcd6.cc/auth~3Db6ea9326fb14a43c25f95e78f3a98a413ec2a063aad3a8e70fd46f1859742244e0bc5039a7c0b93db1362dd8567a81e44c022f54f71f488f52e19022acf0ea1fefba5b97fdb67cfe50b5e450a45ce98ae2fd050870b35973b4a765b7e53b179a92061bb516ee87d8f2443d65f4fe2da3a59d14ce096eed99081e1cd455bb8da9b3f2dffdda257698d0d8a3205ac727918363e78d2c5b36e1703111fc2f90e8df~26cid~3DAyei9VkI2c8h_sbbnS--k240509~26_v~3D2~26_r~3D9RvKA5~26_vis~3Dd0f59bed5c4bb600e139fd09414526da3f4611cf2fa65f2e09b43c5e391b83ca~26_vvs~3D066fef536805eab4920cb054d977033ae9afb360173cb821ddecb141009033c0/app/c251627.m3u8
-
-#EXTINF:-1 group-title="M-TEX" tvg-id="Indosiar.id" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR D
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-#EXTINF:-1 group-title="M-TEX" tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png", SCTV D
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-#EXTINF:-1 group-title="M-TEX" tvg-id="Ochannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", MOJI D
-http://op-group1-swiftservesd-1.dens.tv/s/s41/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-
-#EXTINF:-1 group-title="M-TEX" tvg-id="Ochannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", MOJI VIDIO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#https://etslive-2-vidio-com.akamaized.net/exp=1714638352~acl=/hls-p/ingest_17252_*/*~hmac=0317b0d93d539bd97c3d7345fd58b171483473750e1656b1992157e76fb7f032/hls-p/ingest_17252_720p/index.m3u8
-
-#EXTINF:-1 group-title="M-TEX" tvg-id="Ochannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", MOJI IN
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-
 
 
 
@@ -1975,25 +1963,22 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 
 ||||||||||||||||||||||||||| OTHER SPORTS
 ===========================
-#EXTINF:-1 group-title="OTHER SPORTS" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", SPO TV1 KOREA
-https://z88.ubtvfans.com/live/rx3/266/8ae8a498bd520e74e5bbf3f8bfe8d284/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", SPO TV2 KOREA
-https://z88.ubtvfans.com/live/rx3/267/3c043641f93dff1d2d11ad8e8b613056/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", SBS SPORTS
-https://z88.ubtvfans.com/live/rx3/487/8cb994733ee12ff966d5c29941668a61/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", KABSN SPORTS
-https://z88.ubtvfans.com/live/rx3/2353/80b526df9819b4212d76597de20d848b/index.m3u8
-
-#EXTINF:-1 group-title="OTHER SPORTS" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", PREMIER SPORTS 1 
-http://202.21.104.6:88/sps-prime/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", PREMIER SPORTS 2 
-http://202.21.104.6:88/sps-play/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", PREMIER SPORTS 3 
-http://202.21.104.6:88/sps-world/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", PREMIER SPORTS 4 
-http://202.21.104.6:88/sps-action/index.m3u8
-#EXTINF:-1 group-title="OTHER SPORTS", PREMIER SPORTS 5 
-http://202.21.104.6:88/sps-plus/index.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", BAND SPORTS
+http://cdn.lvbxtv.com:80/live/2545965177/0589983587/290573.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", SPORT 1
+http://cdn.lvbxtv.com:80/live/2545965177/0589983587/290613.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", SPORT 3
+http://cdn.lvbxtv.com:80/live/2545965177/0589983587/290609.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", ESPN 1
+http://cdn.lvbxtv.com:80/live/2545965177/0589983587/290601.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", ESPN 2 
+http://cdn.lvbxtv.com:80/live/2545965177/0589983587/290585.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", ESPN 3 
+http://cdn.lvbxtv.com:80/live/2545965177/0589983587/290589.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", ESPN 4 
+http://cdn.lvbxtv.com:80/live/2545965177/0589983587/290593.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", ESPN XTRA
+http://cdn.lvbxtv.com:80/live/2545965177/0589983587/290597.m3u8
 
 #EXTINF:-1 group-title="OTHER SPORTS", L'EQUIPE LIVE 1
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
@@ -2105,6 +2090,45 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/mts/mtsw3/chunks.m3u8?nimblesessi
 
 
 
+
+////////////////////////// FIGHT
+=========================
+#EXTINF:-1 group-title="FIGHT" tvg-id="FightSportsTV.us" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", FIGHT SPORTS HD
+http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
+
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.ibb.co/p24tp0P/unifisports.png" group-title="FIGHT", UNIFI SPORTS 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.168_80&hms_devid=1785&mag_hms=1785,1793,1786,1788&it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUdTPJjt4KoIuEqy6xqd-ycBN0jXo38ci6P4-71Ix0OlgwQtjAoAG2mlJvqe-wwCx0xCVNoE1erpigQXMeZyTK3Fjt2F_l4ILrpTkUrHLtjtmTFZ9S_eaPNU_G6iuYyAb24Ov2DimVCnhMpaZnzO-rzX_kg9sQKxomQAAAA
+
+#EXTINF:-1 group-title="FIGHT" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", BOXING TV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v3.m3u8
+#EXTINF:-1 group-title="FIGHT" tvg-id="HardKnocks.us" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099463.m3u8
+#EXTINF:-1 group-title="FIGHT" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Top Rank Boxing
+https://csm-e-cetubiausw2live204-02c3e4ae2177c369f.csm.tubi.video/csm/extlive/tubiprd01,Top-Rank.m3u8?playback_start_ts=1704142443.744&yo.ap=https%3A%2F%2Flna.tubi.video%2Fprd-yospace%2F&yo.t.jt=1000&yo.eb.fb=aHR0cHM6Ly9sbmMtdG9wLXJhbmsudHViaS52aWRlby9wbGF5bGlzdC5tM3U4&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=400000055&content_type=mp4&device_id=197e5bdb-1804-4a15-b911-e1bb582446b9&language=en&now_pos=0&pub_id=f0164792d92507a6e36d2ead10e4ffb5&vpaid_enabled=true&platform=WEB&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+#EXTINF:-1 group-title="FIGHT" channel-id="pluto-5ebc8688f3697d00072f7cf8" tvg-id="5ebc8688f3697d00072f7cf8" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" tvg-chno="2870", Bellator MMA
+https://r.mjh.nz/PlutoTV/5ebc8688f3697d00072f7cf8-alt.m3u8
+#EXTINF:-1 group-title="FIGHT" channel-id="pluto-6334a574605f140007e233c4" tvg-id="6334a574605f140007e233c4" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" tvg-chno="2880", PFL MMA
+https://r.mjh.nz/PlutoTV/6334a574605f140007e233c4-alt.m3u8
+#EXTINF:-1 group-title="FIGHT" channel-id="pluto-5417a212ff9fba68282fbf5e" tvg-id="5417a212ff9fba68282fbf5e" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" tvg-chno="2900", Glory Kickboxing
+https://r.mjh.nz/PlutoTV/5417a212ff9fba68282fbf5e-alt.m3u8
+
+
+
+||||||||||||||||||||||||||||||||||   FIFA TV
+=======================
+#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="FIFA TV" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", FIFA+ 1
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="FIFA TV", FIFA+ 2
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="FIFA TV", FIFA+ 3
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+
+
+
 ////////////////////////  MOLA
 =====================
 #EXTINF:-1 group-title="MOLA" tvg-logo="https://mola.tv/images/logo.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", LIVE EVENT 1
@@ -2151,32 +2175,6 @@ https://live.mocdn.tv/out/v1/94dfdc818b124449bfcce06c2e6dde8d/manifest_L1.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.gmv02.verspective.net/?deviceId=ZjUyMDRlYWYtMGRmNy0zOTY2LWFjYjQtMTZlMmUzOTEwZTMx
 https://live.mocdn.tv/out/v1/e3b6cb27892d4466a522bf43fe92da1a/manifest_L1.mpd
-
-
-////////////////////////// FIGHT
-=========================
-#EXTINF:-1 group-title="FIGHT" tvg-id="FightSportsTV.us" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", FIGHT SPORTS HD
-http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-
-#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.ibb.co/p24tp0P/unifisports.png" group-title="FIGHT", UNIFI SPORTS 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.168_80&hms_devid=1785&mag_hms=1785,1793,1786,1788&it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUdTPJjt4KoIuEqy6xqd-ycBN0jXo38ci6P4-71Ix0OlgwQtjAoAG2mlJvqe-wwCx0xCVNoE1erpigQXMeZyTK3Fjt2F_l4ILrpTkUrHLtjtmTFZ9S_eaPNU_G6iuYyAb24Ov2DimVCnhMpaZnzO-rzX_kg9sQKxomQAAAA
-
-#EXTINF:-1 group-title="FIGHT" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", BOXING TV
-https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v3.m3u8
-#EXTINF:-1 group-title="FIGHT" tvg-id="HardKnocks.us" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Hard Knocks
-https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099463.m3u8
-#EXTINF:-1 group-title="FIGHT" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Top Rank Boxing
-https://csm-e-cetubiausw2live204-02c3e4ae2177c369f.csm.tubi.video/csm/extlive/tubiprd01,Top-Rank.m3u8?playback_start_ts=1704142443.744&yo.ap=https%3A%2F%2Flna.tubi.video%2Fprd-yospace%2F&yo.t.jt=1000&yo.eb.fb=aHR0cHM6Ly9sbmMtdG9wLXJhbmsudHViaS52aWRlby9wbGF5bGlzdC5tM3U4&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=400000055&content_type=mp4&device_id=197e5bdb-1804-4a15-b911-e1bb582446b9&language=en&now_pos=0&pub_id=f0164792d92507a6e36d2ead10e4ffb5&vpaid_enabled=true&platform=WEB&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
-#EXTINF:-1 group-title="FIGHT" channel-id="pluto-5ebc8688f3697d00072f7cf8" tvg-id="5ebc8688f3697d00072f7cf8" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" tvg-chno="2870", Bellator MMA
-https://r.mjh.nz/PlutoTV/5ebc8688f3697d00072f7cf8-alt.m3u8
-#EXTINF:-1 group-title="FIGHT" channel-id="pluto-6334a574605f140007e233c4" tvg-id="6334a574605f140007e233c4" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" tvg-chno="2880", PFL MMA
-https://r.mjh.nz/PlutoTV/6334a574605f140007e233c4-alt.m3u8
-#EXTINF:-1 group-title="FIGHT" channel-id="pluto-5417a212ff9fba68282fbf5e" tvg-id="5417a212ff9fba68282fbf5e" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" tvg-chno="2900", Glory Kickboxing
-https://r.mjh.nz/PlutoTV/5417a212ff9fba68282fbf5e-alt.m3u8
 
 
 
@@ -2830,16 +2828,6 @@ https://e.siar.us/live/surabayatv.m3u8
 
 
 
-||||||||||||||||||||||||||||||||||   FIFA TV
-=======================
-#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="FIFA TV" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", FIFA+ 1
-https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="FIFA TV", FIFA+ 2
-https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="FIFA TV", FIFA+ 3
-https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-
-
 
 ////////////////////  HIBURAN
 ======================
@@ -2861,10 +2849,6 @@ https://d2stx9idyk58lb.cloudfront.net/wipeoutxtra-samsungus/playlist480p.m3u8
 
 |||||||||||||||||||||||||||||||||||||   RADIO
 ========================
-
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JqxiBOfNQWFZcKhixneJaFnAV75wSc_3sw&usqp=CAU" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Hot fm Malaysia
-https://kister.net/mpl/yt2m3u8?w=@hotfm976
-
 #EXTINF:-1 group-title="RADIO" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/19314.v10.png", Muara Dss
 http://45.64.97.82:8668/;
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://pbs.twimg.com/media/EUV9u94UwAALv1D?format=jpg&name=4096x4096", Flamboyan
