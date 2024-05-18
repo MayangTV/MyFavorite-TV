@@ -386,7 +386,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8?|user-agent=
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://i.postimg.cc/fygXyg5H/Maleochannel.png", MALEO TV
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movies " tvg-id="atv.id" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1591070449-.jpeg", ATV
+#EXTINF:-1 group-title="NASIONAL" tvg-id="atv.id" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1591070449-.jpeg", ATV
 https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/y1lBqDalUJdTitoP1g8rvROZzRU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8815/f0c9f2.png", MGN
@@ -2118,7 +2118,7 @@ https://live.mocdn.tv/out/v1/e3b6cb27892d4466a522bf43fe92da1a/manifest_L1.mpd
 
 /////////////////////   MOVIES
 =====================
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO.id" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_vae5o3nc/landscape_carousel_mdpi.jpg" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", HBO | TRANSVIS
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO.id" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_vae5o3nc/landscape_carousel_mdpi.jpg" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", HBO HD | TRANSVIS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
