@@ -192,11 +192,13 @@ https://jukin-peopleareawesome-international-4-us.plex.wurl.tv/538b2cfec3d209c72
 ///////////////////////////////   LIVE EVENT
 =========================
 #EXTINF:-1 group-title="LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/xRxDYZKcO3ScOpYmPwudzTbz_Y8=/180x180/smart/filters:format(webp):quality(80)/vidio-web-prod-user/uploads/user/avatar/85044881/PROFILEPROLIGA2024-bacd6d773ea64a00.png", VOLI LIVE VID10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://raw.githubusercontent.com/MayangTV/ya2m/master/mooji.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 1
-https://bit.ly/3y3fZqX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium47/index.m3u8|Origin=https://claplivehdplay.ru
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 2
 http://cdn.lvbxtv.com:80/live/2545965177/0589983587/290605.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 3
@@ -209,11 +211,6 @@ https://trtsporyildiz.blutv.com/blutv_trtsporyildiz/live_720p2000000kbps/index.m
 https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8?|referer:https://olevod.tv/
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#EXTVLCOPT:http-referrer=https://emb.apl343.me/
-https://hqth.me/Livevolly2_ts
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8?|referer:https://olevod.tv/
 
@@ -224,15 +221,6 @@ https://strm.yandex.ru/kal/start/start0.m3u8?vsid=hptol775c65k55x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="LIVE EVENT", VOLI 3
 https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8?vsid=7nxnh7m4ymrckua
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="LIVE EVENT", VOLI 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://idn00054.tigoals60.com/
-#https://tta00033-cf.cool6bcd6.cc/auth~3Db905d769da4adbdfc1bc360a1de9246c762f2702a8ea0307fe7c9d6d3c39dda993949327e179a8adbab1ba8c03c23b015c22440aa51adbffe000f53d615ac0c14fece8cb267fac2b75c86177e9601f5befd09b88b773c85b6cd1587d2cc5eeb60e34f2697fbdab8abf2c8ad78f450c3da6f9c18bea8d7336dc72dfd19df05e8c8aa42a1854f8f44719efd3d47f5b6ef8d148d962e5a1603eaa27ec9e397023d36f2717496affd06baee3c2f6f4ed578d~26cid~3DfQP748CUgNr8aCMqSYDzv240510~26_v~3D2~26_r~3DUXkdj_~26_vis~3Db8be2e3d4b7b3f73d8822f14b1c74853985371ded40e5b2687d9945e866507c8~26_vvs~3Da1988d6d21821bb19b2c9f751c5a20e5a7afb596f37a46a9802884450cfe8b9d/app/c251944.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="LIVE EVENT", VOLI 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://idn00054.tigoals60.com/
-#https://ttx00042-cf.cool6bcd6.cc/auth~3Db6ea9326fb14a43c25f95e78f3a98a413ec2a063aad3a8e70fd46f1859742244e0bc5039a7c0b93db1362dd8567a81e44c022f54f71f488f52e19022acf0ea1fefba5b97fdb67cfe50b5e450a45ce98ae2fd050870b35973b4a765b7e53b179a92061bb516ee87d8f2443d65f4fe2da3a59d14ce096eed99081e1cd455bb8da9b3f2dffdda257698d0d8a3205ac727918363e78d2c5b36e1703111fc2f90e8df~26cid~3DAyei9VkI2c8h_sbbnS--k240509~26_v~3D2~26_r~3D9RvKA5~26_vis~3Dd0f59bed5c4bb600e139fd09414526da3f4611cf2fa65f2e09b43c5e391b83ca~26_vvs~3D066fef536805eab4920cb054d977033ae9afb360173cb821ddecb141009033c0/app/c251627.m3u8
 
 
 
@@ -980,24 +968,7 @@ https://bit.ly/4bj14Yt
 ///////////////////SPORTS PREMIUM HD
 ==============================
 
-#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", ASSP 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.onlinehdhls.ru/lb/premium123/index.m3u8?|Origin=https://weblivehdplay.ru
-#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", ASSP 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.onlinehdhls.ru/lb/premium124/index.m3u8?|Origin=https://weblivehdplay.ru
-#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", ASSP 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.onlinehdhls.ru/lb/premium125/index.m3u8?|Origin=https://weblivehdplay.ru
-#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", ASSP 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.onlinehdhls.ru/lb/premium126/index.m3u8?|Origin=https://weblivehdplay.ru
-
-#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Arena Sport 1 Premium
+#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Arena Sport 1 Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.onlinehdhls.ru/lb/premium134/index.m3u8?|Origin=https://weblivehdplay.ru
@@ -1476,15 +1447,6 @@ https://webhdrunns.onlinehdhls.ru/lb/premium441/index.m3u8?|Origin=https://webli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.onlinehdhls.ru/lb/premium442/index.m3u8?|Origin=https://weblivehdplay.ru
-
-#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Polsat Sport Poland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.onlinehdhls.ru/lb/premium47/index.m3u8?|Origin=https://weblivehdplay.ru
-#EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Polsat Sport Extra Poland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.onlinehdhls.ru/lb/premium50/index.m3u8?|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 group-title="SPORTS PREMIUM HD" tvg-id="?" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Premier Brasil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
