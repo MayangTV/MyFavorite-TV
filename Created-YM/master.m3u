@@ -132,8 +132,9 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-025/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-033/stream.mpd
 
-#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://latele.xyz/img/png/awesome.png", PEOPLE ARE AWESOME
-https://jukin-peopleareawesome-international-4-us.plex.wurl.tv/538b2cfec3d209c728c25ff5d749557a.m3u8
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="" tvg-logo="https://www.psjtv.id/wp-content/uploads/2023/06/PSJTV-Tagline-Hitam.png", PERSIJA TV
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+
 
 
 
@@ -142,17 +143,14 @@ https://jukin-peopleareawesome-international-4-us.plex.wurl.tv/538b2cfec3d209c72
 #EXTINF:-1 group-title="LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://thumbor.prod.vidiocdn.com/xRxDYZKcO3ScOpYmPwudzTbz_Y8=/180x180/smart/filters:format(webp):quality(80)/vidio-web-prod-user/uploads/user/avatar/85044881/PROFILEPROLIGA2024-bacd6d773ea64a00.png", VOLI LIVE VID10
 https://raw.githubusercontent.com/MayangTV/ya2m/master/mooji.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 1
-http://178.219.128.68:64889/POLSSPORHD
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 2
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 1
 https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 3
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 2
 https://trtspor.blutv.com/blutv_trtspor/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 4
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 3
 https://trtsporyildiz.blutv.com/blutv_trtsporyildiz/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 5
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8?|referer:https://olevod.tv/
 
