@@ -17,8 +17,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.m
 https://raw.githubusercontent.com/MayangTV/ya2m/master/siarindo.m3u8
 
 #EXTINF:-1 tvg-id="PremierLeagueTV.us" tvg-logo="https://thumbor.prod.vidiocdn.com/XrR1m22SDzfIma5XIiA-3aVa9wY=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/335/premier-league-5be18a.png" group-title="MAYANG TV", PREMIER LEAGUE
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
@@ -40,29 +38,21 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="SPOTV1.my" tvg-logo="https://thumbor.prod.vidiocdn.com/SCek27j63bmzwGgW7R8Wk8Oltfc=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/525/wsbk-4a9b22.png", SBK - SPOTV 1 MAY
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7de0fa3c35f52f8a8517f1600dd11ed7:2d59cf94d10020aeee01a97cd0716eea
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="SPOTV2.my" tvg-logo="https://photocall.cc/img/new/motogp.png", MotoGp - SPOTV 2 MAY
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="skysportmotogp.it" tvg-logo="https://photocall.cc/img/new/motogp.png", MotoGp - SKYSPORT MOTOGP 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"COGun6DuTZ7CsZTEkIYTrg", "kid":"ADbqLpCNTMIO8IWV2p/5kQ" } ], "type":"temporary" }
 https://linear306-it-dash1-prd-ll.cdn13.skycdp.com/016a/31483/FHD/skysportmotogp/master.mpd
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="skysportmotogp.it" tvg-logo="https://photocall.cc/img/new/motogp.png", MotoGp - SKYSPORT MOTOGP 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
 https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
@@ -82,10 +72,6 @@ https://arjuna.trans7.co.id/Trans7-L1v3stream/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=39557d4a1ba75e168fc7b13756084b4d:efe8223510249dc20db097bb814feb41
 https://director.streaming.telia.com/tvm-packager-prod/group1/6089c58f47a23d7ce45cf30f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", NITRO CIRCUS
-https://dbrb49pjoymg4.cloudfront.net/10001/99991294/hls/master.m3u8?ads.xumo_channelId=99991294&ads._fw_ifa_type=dpid&ads._fw_did=c162d88f-2332-175e-59eb-f75203f7d507&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=NitroCircus&ads.csid=xumo_desktopweb_NitroCircus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Sport&ads._fw_content_category=IAB17&ads._fw_content_language=en&ads._fw_content_genre=Sports&ads._fw_content_rating=TV-PG&ads.xumo_contentId=284&ads.xumo_contentName=NitroCircus&ads.xumo_providerId=284&ads.xumo_providerName=NitroCircus&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991294&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.13.1&ads._fw_app_bundle=&ads._fw_app_store_url=
-#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", FLO SPORTS
-https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="MotorRacing.us" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", MOTORRACING TV
 http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="MotorvisionTV.de" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", MOTORVISION
@@ -2520,7 +2506,7 @@ https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&e
 ====================
 #EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", ESPN ESPN 1
 https://brflu.walk-tv.com/5912/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-logo="https://i.ibb.co/K0XRbdr/espn2cl.png" group-title="ESPN", ESPN 2 ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-logo="https://i.ibb.co/K0XRbdr/espn2cl.png" group-title="ESPN", ESPN 2
 https://brflu.walk-tv.com/5910/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://i.ibb.co/LNQtJjG/espn3cl.png" group-title="ESPN", ESPN 3
 https://brflu.walk-tv.com/5907/tracks-v1a1/mono.m3u8
@@ -2849,7 +2835,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 =========================
 #EXTINF:-1 group-title="FIGHT" tvg-id="FightSportsTV.us" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", FIGHT SPORTS HD
 http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-COMBATE
+#EXTINF:-1 group-title="FIGHT" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", COMBATE
 https://brflu.walk-tv.com/5865/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIGHT" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", BOXING TV
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v3.m3u8
@@ -3083,6 +3069,13 @@ https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="LoveNature.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsFrMB6-8TFGNBlLEny-zs1VOFL6Tu0j9ZfIgbaxrb0g&s", LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="LoveNature.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpvIbw4tzNirphfOh-kGz1YLZti90e-vbyg&usqp=CAU", LOVE NATURE ENGLISH
+https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="LoveNature.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpvIbw4tzNirphfOh-kGz1YLZti90e-vbyg&usqp=CAU", LOVE NATURE AUSTRALIA
+https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/cb543d1e786c64879bd43e60d5ef46a6f9a853fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505f6cdb7fdc7c03cece08ed0868280817fa99c365db981201b3da112a2ab0710e16b81705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434ff9081fa6f901fde0e54345c81ff9f34315c03044e5865cc9ca1ab886d3459f448f668c4bcfcbacdec373d3d0c021f048b7675e16712bdbc478c29b5eb38bcd6d74cd29791e5304b7a695b31669d7450e0efdaf9fbd67a6109ad170d3525dd160ea2ffe50c00bf8699d502fca53daf24d5b30a8c85a2e72eeb5e0c2d73c3da87ea0e2c8d3776e96ff1038169b3698147968c2a48b3691ca1992f910b5e548536a91c11dcacffcd3bfe3d60a8b338387d5882d4e4b540100ad54b6d538887e932bfe8e5b0a74796981d615c88fd25b70454a858b519d532dbcc9988ad000749e2e4b1acb68cb54086983653e28ab7db7cc6f3ade685bd26c7dd65737894ef9f81ff4a1daf70f74e08d900cac399dd860b5d70cad7f335006c1907d0d3f3317b4d84b0c280ba773c9d2d29b143f52bcb5a1d3cf51310b3c57620484ece27af8df977d0577f7c1165cb9fe43e870ecba55a02141b7/174/1280x720_2622400/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCEarth.MACAN" group-title="KNOWLEDGE" tvg-logo="https://static.mncnow.id/images/channel/613c65c1/452b.png", BBC EARTH
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
