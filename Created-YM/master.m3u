@@ -82,10 +82,10 @@ https://arjuna.trans7.co.id/Trans7-L1v3stream/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=39557d4a1ba75e168fc7b13756084b4d:efe8223510249dc20db097bb814feb41
 https://director.streaming.telia.com/tvm-packager-prod/group1/6089c58f47a23d7ce45cf30f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" NITRO CIRCUS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", NITRO CIRCUS
 https://dbrb49pjoymg4.cloudfront.net/10001/99991294/hls/master.m3u8?ads.xumo_channelId=99991294&ads._fw_ifa_type=dpid&ads._fw_did=c162d88f-2332-175e-59eb-f75203f7d507&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=NitroCircus&ads.csid=xumo_desktopweb_NitroCircus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Sport&ads._fw_content_category=IAB17&ads._fw_content_language=en&ads._fw_content_genre=Sports&ads._fw_content_rating=TV-PG&ads.xumo_contentId=284&ads.xumo_contentName=NitroCircus&ads.xumo_providerId=284&ads.xumo_providerName=NitroCircus&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991294&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.13.1&ads._fw_app_bundle=&ads._fw_app_store_url=
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", FLO SPORTS
-https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist_640x360.m3u8
+https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="MotorRacing.us" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", MOTORRACING TV
 http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="MotorvisionTV.de" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", MOTORVISION
