@@ -82,6 +82,8 @@ https://arjuna.trans7.co.id/Trans7-L1v3stream/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=39557d4a1ba75e168fc7b13756084b4d:efe8223510249dc20db097bb814feb41
 https://director.streaming.telia.com/tvm-packager-prod/group1/6089c58f47a23d7ce45cf30f/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" NITRO CIRCUS
+https://dbrb49pjoymg4.cloudfront.net/10001/99991294/hls/master.m3u8?ads.xumo_channelId=99991294&ads._fw_ifa_type=dpid&ads._fw_did=c162d88f-2332-175e-59eb-f75203f7d507&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=NitroCircus&ads.csid=xumo_desktopweb_NitroCircus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Sport&ads._fw_content_category=IAB17&ads._fw_content_language=en&ads._fw_content_genre=Sports&ads._fw_content_rating=TV-PG&ads.xumo_contentId=284&ads.xumo_contentName=NitroCircus&ads.xumo_providerId=284&ads.xumo_providerName=NitroCircus&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991294&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.13.1&ads._fw_app_bundle=&ads._fw_app_store_url=
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", FLO SPORTS
 https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist_640x360.m3u8
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="MotorRacing.us" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", MOTORRACING TV
@@ -92,7 +94,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8?|user-agent=Mozilla/5.0 (
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-motoamerica-sportstribal/playlist.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", MTRSPT1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8?channel_name=MTRSPT1&content_id=284f9d24_20240125180149_D0CF72b&ip=83.137.6.162&mute=false&consent=CP48G0AP48G0AAcABBENAkEsAP_gAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkiFMRM2dYCF5vmQtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdA58tDfv9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA.f_wAAAAAAAAA&ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F80.0.3987.100+Safari%2F537.36&gdpr=1&p=sportstribal&content_title=MTRSPT1&channel_partner=MTRSPT1&content_genre=Drag+Racing%2CRacing%2CMotor+Racing%2CMotorsport&t=2024-01-25T18%3A01%3A49.228&ic=IAB19-16%2CIAB25-1
 
 #EXTINF:-1 channel-id="pluto-611468532f5f180007fbbc9c" tvg-id="611468532f5f180007fbbc9c" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-title="MAYANG TV", MAVTV SELECT
@@ -130,7 +131,7 @@ https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="LiverpoolFCTV.uk" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FLiverpool%20FC%20TV%20HD-FirstMedia-Chl-328.jpg&w=256&q=100", LIVERPOOL TV (LFC TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/dplay.ru/
-#https://webhdrunns.onlinehdhls.ru/lb/premium826/index.m3u8|origin=https://weblivehdplay.ru
+https://webhdrunns.onlinehdhls.ru/lb/premium826/index.m3u8|origin=https://weblivehdplay.ru
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="RealMadridTV.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNsnSwFJjbJb9MydS3Pji2VlixgcWWCo_QtBqhRFa1Q&s", REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043156/rmtv-en-mob/bitrate_3.m3u8
@@ -156,12 +157,10 @@ https://jukin-peopleareawesome-international-4-us.plex.wurl.tv/538b2cfec3d209c72
 https://raw.githubusercontent.com/MayangTV/ya2m/master/mooji.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.onlinehdhls.ru/lb/premium47/index.m3u8|Origin=https://claplivehdplay.ru
+http://178.219.128.68:64889/POLSSPORHD
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 2
-http://cdn.lvbxtv.com:80/live/2545965177/0589983587/290605.m3u8
+https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 3
 https://trtspor.blutv.com/blutv_trtspor/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 4
@@ -171,16 +170,8 @@ https://trtsporyildiz.blutv.com/blutv_trtsporyildiz/live_720p2000000kbps/index.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8?|referer:https://olevod.tv/
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8?|referer:https://olevod.tv/
-
 #EXTINF:-1 group-title="LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="LIVE EVENT", VOLI 1
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="LIVE EVENT", VOLI 2
-https://strm.yandex.ru/kal/start/start0.m3u8?vsid=hptol775c65k55x
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="LIVE EVENT", VOLI 3
-https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8?vsid=7nxnh7m4ymrckua
 
 
 
@@ -2527,6 +2518,15 @@ https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&e
 
 //////////////////////   ESPN
 ====================
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", ESPN ESPN 1
+https://brflu.walk-tv.com/5912/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-logo="https://i.ibb.co/K0XRbdr/espn2cl.png" group-title="ESPN", ESPN 2 ESPN 2
+https://brflu.walk-tv.com/5910/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://i.ibb.co/LNQtJjG/espn3cl.png" group-title="ESPN", ESPN 3
+https://brflu.walk-tv.com/5907/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-logo="https://i.ibb.co/4f70pMW/espn5.png" group-title="ESPN", ESPN 5
+https://brflu.walk-tv.com/5924/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ESPN Deportes" tvg-logo="https://i.ibb.co/PhMnc7c/espndeportes.png" group-title="ESPN" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", ESPN DEPORTES USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be65e5985fa04a49af310f0a92a0260a:1acb5ff7b0dbfdf19c4dca1aabfaaa11
@@ -2731,6 +2731,22 @@ https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/11
 #KODIPROP:inputstream.adaptive.license_key=260465aba18e40329932d47e9c7aa20b:2b79020e3f3ddc94ba84943ba72d898c
 https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1143/dash/cenc/FSCPLHD/manifest.mpd?
 
+#EXTINF:-1 group-title="OTHER SPORTS", PREMIER
+https://brflu.walk-tv.com/5914/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", PREMIER
+https://brflu.walk-tv.com/5915/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", PREMIER
+https://brflu.walk-tv.com/5918/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", PREMIER
+https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", BAND SPORTS
+https://brflu.walk-tv.com/5928/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="OTHER SPORTS", SPORT 3
+https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OTHER SPORTS", SPORT PREMIUM
+https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="OTHER SPORTS" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", L'EQUIPE LIVE 1
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1 group-title="OTHER SPORTS", L'EQUIPE LIVE 2
@@ -2833,7 +2849,8 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 =========================
 #EXTINF:-1 group-title="FIGHT" tvg-id="FightSportsTV.us" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", FIGHT SPORTS HD
 http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 
-
+COMBATE
+https://brflu.walk-tv.com/5865/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIGHT" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", BOXING TV
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v3.m3u8
 #EXTINF:-1 group-title="FIGHT" tvg-id="HardKnocks.us" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", Hard Knocks
