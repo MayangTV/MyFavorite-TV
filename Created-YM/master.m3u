@@ -4,8 +4,8 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-#https://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="88" tvg-logo="https://thumbor.prod.vidiocdn.com/UMECq0_g6VrR4FqAl6Jzi_AO1ZE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-45122c.png", LIGA1 - PAKE DANA & OVO | 085321200809
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -14,7 +14,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="99" tvg-logo="https://thumbor.prod.vidiocdn.com/UMECq0_g6VrR4FqAl6Jzi_AO1ZE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-45122c.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", LIGA 1 - INDOSIAR
-https://raw.githubusercontent.com/MayangTV/ya2m/master/siarindo.m3u8
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205
+https://raw.githubusercontent.com/MayangTV/ya2m/master/test.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="" tvg-logo="https://i.postimg.cc/Dzp3F1NB/20240524-090037.png", PEDAL NGAPRAK
 https://1853185335.rsc.cdn77.org/K192/tv/K19/tv_480/chunks.m3u8
@@ -950,7 +952,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
 ////////////// ENTERTAINMENT & LIFESTYLE
 ====================================
-#EXTINF:-1 group-title="ENTERTAINMENT & LIFESTYLE" tvg-id="00" tvg-logo="https://static.mncnow.id/images/channel/3d2f505f/c6dd.png", ROCK ENTERTAINMENT
+#EXTINF:-1 group-title="ENTERTAINMENT & LIFESTYLE" tvg-id="00" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://static.mncnow.id/images/channel/3d2f505f/c6dd.png", ROCK ENTERTAINMENT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
