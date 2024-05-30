@@ -14,7 +14,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="99" tvg-logo="https://thumbor.prod.vidiocdn.com/UMECq0_g6VrR4FqAl6Jzi_AO1ZE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-45122c.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", LIGA 3
-https://raw.githubusercontent.com/MayangTV/ya2m/master/test.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17339_480p/hdntl=exp=1717063877~acl=%2f*~id=159650192~data=hdntl~hmac=df9ba4d1ff1c28a0277617dc414ba3c2ba75c67efd3e83165b7df552ad537ec0/index.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="" tvg-logo="https://i.postimg.cc/Dzp3F1NB/20240524-090037.png", PEDAL NGAPRAK
 https://1853185335.rsc.cdn77.org/K192/tv/K19/tv_480/chunks.m3u8
