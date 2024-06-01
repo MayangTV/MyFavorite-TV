@@ -2787,83 +2787,63 @@ https://d2stx9idyk58lb.cloudfront.net/wipeoutxtra-samsungus/playlist480p.m3u8
 
 |||||||||||||||||||||||||||||||||||||   RADIO
 ========================
-#EXTINF:-1 group-title="RADIO" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/19314.v10.png", Muara Dss
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/19314.v10.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", MUARA DSS
 http://45.64.97.82:8668/;
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://pbs.twimg.com/media/EUV9u94UwAALv1D?format=jpg&name=4096x4096", Flamboyan
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://pbs.twimg.com/media/EUV9u94UwAALv1D?format=jpg&name=4096x4096", FLAMBOYAN
 https://i.klikhost.com/8236/stream
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://twitter.erdioo.net/avatar/LazuarRadio/bigger.jpg", Lazuar
-http://svara-stream.radioddns.net:8000/karawang_lazuar?
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/static/mytuner/images/player/play.png", PRO93.1
-https://ig.siar.live/listen/lpplpurwakarta/stream
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOkBsrlJl_T5rzDag-IWQbUd0aOcaMIwGSJg&usqp=CAU", Kandaga
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOkBsrlJl_T5rzDag-IWQbUd0aOcaMIwGSJg&usqp=CAU", KANDAGA
 http://103.158.97.118:8000/;
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/frgucwuc7usx.png", Maya
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/frgucwuc7usx.png", MAYA
 http://svara-stream.radioddns.net:8000/bandung_mayafm_mono
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://images.noiceid.cc/catalog/300x300/content-1665389798221", Dahlia
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://images.noiceid.cc/catalog/300x300/content-1665389798221", DAHLIA
 https://svara-stream.radioddns.net:8443/bandung_dahliafm
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://thumbor.prod.vidiocdn.com/sxf8qFMVElTkCFqM1DxBTGPOrhk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7684/761fe4.jpg", Rama
-http://i.klikhost.com:8330/;
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://images.noiceid.cc/catalog/300x300/content-1636106414484.jpg", Cakra
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://thumbor.prod.vidiocdn.com/sxf8qFMVElTkCFqM1DxBTGPOrhk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7684/761fe4.jpg", RAMA
+https://i.klikhost.com/8336/;
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://images.noiceid.cc/catalog/300x300/content-1636106414484.jpg", CAKRA
 http://dengerin.radiocakrabandung.com:8905/stream/
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/5ZugPyHCgg.jpg", Raka
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/5ZugPyHCgg.jpg", RAKA
 https://cast2.my-control-panel.com/proxy/radioso5/stream
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://firebasestorage.googleapis.com/v0/b/fir-crud-c7e20.appspot.com/o/logo%2Fgitaradio.png?alt=media&token=418c3028-c9f7-44c7-94d8-e239fadef64e", Gita Pantura
-https://stream10.pasopatiradio.com/gitapantura
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://firebasestorage.googleapis.com/v0/b/fir-crud-c7e20.appspot.com/o/logo%2Fpasundanradio.png?alt=media&token=0eee85d8-cb4e-4cb1-a35c-f5cd47f0658c", Pasundan
-https://stream6.pasopatiradio.com/pasundan
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://firebasestorage.googleapis.com/v0/b/fir-crud-c7e20.appspot.com/o/logo%2Fkartika.png?alt=media&token=b255e2ff-5cfd-4169-9ce4-fa27a2956045", Kartika
-https://stream5.pasopatiradio.com/kartikafm
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/113017.v2.png", Nusantara
-https://s.rajamediautama.my.id/radio/8090/nusantara
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://twitter.erdioo.net/avatar/actarifm/bigger.jpg", Actari
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://twitter.erdioo.net/avatar/actarifm/bigger.jpg", ACTARI
 https://svara-stream.radioddns.net:8443/ciamis_actarifm_mp3
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://thumbor.prod.vidiocdn.com/Jquv9SO8JF5KXrZ9qRwwkaDn7-c=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7057/4fe373.png", I radio
-https://n02.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABh4ky0FsANb8SjBntSTfKzw
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/ardan.png", Ardan
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/82758.v64.png", GALUH FM
+https://stream.yaomiab.com/galuhfm
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/113017.v2.png", NUSANTARA
+https://s.rajamediautama.my.id/radio/8090/nusantara
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/66985.v10.png", PISS
+https://svara-stream.radioddns.net:8443/ciamis_pissfm_stereo
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/ardan.png", ARDAN
 https://n16.rcs.revma.com/1q762wy5a9hvv?
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/hswFPaygeD.png", Delta
-https://stream.cloudmu.id/listen/delta_fm/stream
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://images.noiceid.cc/catalog/300x300/content-1614529804201.jpg", Most
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://thumbor.prod.vidiocdn.com/Jquv9SO8JF5KXrZ9qRwwkaDn7-c=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7057/4fe373.png", I-RADIO
+https://n11.radiojar.com/4ywdgup3bnzuv?
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/hswFPaygeD.png", DELTA
+https://s1.cloudmu.id/listen/delta_fm/radio.mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://images.noiceid.cc/catalog/300x300/content-1614529804201.jpg", MOST
 https://wz.mari.co.id:1936/web_mostfm/mostfm/playlist.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://images.noiceid.cc/catalog/300x300/content-1614529825398.jpg", KIS
 https://proxy.beta.noice.id/proxy-v1/103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/qVTEm9pFkN.jpg", MGT
 http://s1.gntr.net/listen/mgtradio/mgtradio
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://images.noiceid.cc/catalog/300x300/content-1614529793044.jpg", Mustang
-https://proxy.beta.noice.id/proxy-v1/103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/UqGjK62g3S.jpg", Prambors
-https://22243.live.streamtheworld.com:443/PRAMBORS_FM_SC
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://images.noiceid.cc/catalog/300x300/content-1692789974803", Female
-https://stream.cloudmu.id/listen/female_radio/stream
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/HGDyN8ySPT.jpg", Sonora
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://images.noiceid.cc/catalog/300x300/content-1614529793044.jpg", MUSTANG
+https://proxy.beta.noice.id/proxy-v1/103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist_w2010131751.m3u8
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/HGDyN8ySPT.jpg", SONORA
 http://cast1.my-control-panel.com/proxy/radioso1/stream
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/ANm8fKJ5nb.png", Hard Rock
-http://n09.radiojar.com/fnex9bkswk8uv?
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/bgaD97FGbw.jpg", Trax
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/bgaD97FGbw.jpg", TRAX
 http://n0c.radiojar.com/rrqf78p3bnzuv.mp3
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://images.noiceid.cc/catalog/300x300/content-1614529857498.jpg", JAK
-https://proxy.beta.noice.id/proxy-v1/103.246.184.62:1935/noice_jakfm/jakfm/chunklist.m3u8
+https://proxy.beta.noice.id/proxy-v1/103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1963277238.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://images.noiceid.cc/catalog/300x300/content-1631518434114.png", OZ
 https://streaming.ozradiojakarta.com:8443/ozjakarta
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.paramudaradio.com/images/LOGOPARAMUDAbig.png", Paramuda 
-https://i.klikhost.com/8332/stream
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://radio-online.id/assets/image/radio/180/urban-radio-bandung.jpg", Urban
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://radio-online.id/assets/image/radio/180/urban-radio-bandung.jpg", URBAN
 https://live1.indostreamserver.com/8250/stream
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/131575.v1.png", NOAH
-https://stream-173.zeno.fm/p4iv21fvns8uv
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/128717.v3.png", GEMA ETNIK
-https://stream-153.zeno.fm/e13km7azly0vv
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/82758.v62.png", GALUH
-https://stream.yaomi.space/galuhfm
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/71836.v21.png", PITALOKA
-https://stream1.pasopatiradio.com/pitalokafm
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://stream.elshifaradio.com/logo.png", ELSHIFA
-https://icecast.elshifaradio.com/stream.mp3
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AZrGwfWNdJ.png", Sunda
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AZrGwfWNdJ.png", SUNDA
 https://sundaradio.com/live/sundaradio
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRBBUBC1OpT3RJMiNtrQ3e8IfAnDrOLjU3SQ&s", PR FM 
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/72602.v15.png", SMOOTH
+https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/133113.v2.png", As
+https://void.idserverhost.com/8054/stream
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRBBUBC1OpT3RJMiNtrQ3e8IfAnDrOLjU3SQ&s", PR FM
 https://radio.idh.am/prfm
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://oiradio.co/assets/images/stations/3/3f0e07e92ee66d409d65cf2f02ede608.png", El Shinta
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://oiradio.co/assets/images/stations/3/3f0e07e92ee66d409d65cf2f02ede608.png", EL SHINTA
 https://stream-ssl.arenastreaming.com:8000/jakarta
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/18859.v13.png", RRI PRO 1
 https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3
@@ -2871,14 +2851,4 @@ https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3
 https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/86394.v5.png", RRI PRO 4
 https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro4.mp3
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/102942.v1.png", Rock
-https://stream-149.zeno.fm/xzv5v3011s8uv?zs=MHE-_ZDWT3epttpTd4PdQA
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/72602.v15.png", Smooth
-https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/75039.v8.png", Loker Musik
-https://stream.lokermusik.com:8420/lokermusik
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/pimbes.png", Pimbes
-https://sv.rajamediautama.my.id/listen/station_4/radio
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.persibradio.id/asset/images/PERSIB-Radio-Logo.png", RADIO PERSIB
-https://s3.vinhostmedia.com:10945/;
 
