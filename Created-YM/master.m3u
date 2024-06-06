@@ -22,7 +22,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.m
 https://1853185335.rsc.cdn77.org/K192/tv/K19/tv_480/chunks.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://www.google.com/search?client=lightning&ie=UTF-8&oe=UTF-8&q=logo%20timnas", TIMNAS
-https://raw.githubusercontent.com/MayangTV/ya2m/master/siarindo.m3u8
+#EXTVLCOPT:http-user-agent=Chrome(Android)
+https://channel-e3a5e184c3f5710d.live.sportall.media/6JaqoCzlNV7L.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMjMwOTI4Xzk0YzZjNzQ0ODhlNTA3ODk1YjAxIn0.eyJpcCI6ZmFsc2UsImNvIjpmYWxzZSwiY3R5IjpmYWxzZSwicmVnIjpmYWxzZSwic3NuIjp0cnVlLCJleHAiOjE3MTc4NjE1MjcsImhlYWRlcnMiOltdLCJxcyI6W10sImludHNpZyI6Imc4RmdfZnBvWFN3MWF2Z3l3eVRNTE1tVWdRYUlRbVhkcTVuUklzdGhDTzQiLCJwYXRocyI6WyIvb3V0L3YxLzE4ZmUyY2VkYzc0ODQxZmU4NDVmZDAyYzk3ODBhOGUwLyJdLCJleGMiOlsiL3RtLyJdLCJuYmYiOjE2NDUwMDAwMDAsImlhdCI6MTcxNzY4ODcyN30.32JqHI_GoC-NH2FxlUk8QbhLZ6ZeNrKZHayBeruaq28/out/v1/18fe2cedc74841fe845fd02c9780a8e0/index_5.m3u8
 
 #EXTINF:-1 tvg-id="PremierLeagueTV.us" tvg-logo="https://thumbor.prod.vidiocdn.com/XrR1m22SDzfIma5XIiA-3aVa9wY=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/335/premier-league-5be18a.png" group-title="MAYANG TV", PREMIER LEAGUE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
