@@ -22,6 +22,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRpl
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
+#EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c0juD1cji7FRpWZSeOEIm9eghengsmenPEgJog-O4A&s", TIMNAS LIVE
+#EXTVLCOPT:http-referrer=https://id19.808bola62.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://tta00022-cf.cool6bcd6.cc/auth%3D7b54b3d4beab5cf06a509f24043a5785c64dbdfc1ba1335b672c52964a83f57c80b69c5d02dacda22e3aef6c25cd57c48d8097519c3e429e10bc49e54f8f139bbce634d5dc0475d3ec9d0a29d686173e77cedfa3cc2983d91298878a492da71a537098f2105a2574125dd658c098a8470adca9d343159fb04058167a042c791bde9cdc036ef5be4ccee96be308e32d2c7d27cccf8c382d681525c90a08e7cda6%26cid%3DkvIptSxmAUQ-Ph2fDWqct240611%26_v%3D2%26_r%3DqWQ9bl%26_vis%3Dae35f781740cc8633f696e9263ce69ea868f7cfb81e6ff09521b6403a4023ce9%26_vvs%3Dfb9280ee32ba6fde589d32379b26a96e396c5c9d9d651f74ab76e5e28375ec2d/app/c258064.m3u8
+
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="MotorRacing.us" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", MOTORRACING TV
 http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="MotorvisionTV.de" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", MOTORVISION
