@@ -23,7 +23,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRpl
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c0juD1cji7FRpWZSeOEIm9eghengsmenPEgJog-O4A&s", TIMNAS LIVE
-https://lebo.huminbird.cn/live/ballbar_37110.m3u8
+#EXTVLCOPT:http-referrer=https://id19.808bola62.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://tta00022-cf.cool6bcd6.cc/auth%3D7b54b3d4beab5cf06a509f24043a5785c64dbdfc1ba1335b672c52964a83f57c80b69c5d02dacda22e3aef6c25cd57c48d8097519c3e429e10bc49e54f8f139bbce634d5dc0475d3ec9d0a29d686173e77cedfa3cc2983d91298878a492da71a537098f2105a2574125dd658c098a8470adca9d343159fb04058167a042c791bde9cdc036ef5be4ccee96be308e32d2c7d27cccf8c382d681525c90a08e7cda6%26cid%3DkvIptSxmAUQ-Ph2fDWqct240611%26_v%3D2%26_r%3DqWQ9bl%26_vis%3Dae35f781740cc8633f696e9263ce69ea868f7cfb81e6ff09521b6403a4023ce9%26_vvs%3Dfb9280ee32ba6fde589d32379b26a96e396c5c9d9d651f74ab76e5e28375ec2d/app/c258064.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="MotorRacing.us" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", MOTORRACING TV
 http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -95,6 +97,112 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-033/stream.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://raw.githubusercontent.com/MayangTV/ya2m/master/test.m3u8
 ==================================
+
+
+///////////////////////////////   LIVE EVENT
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c0juD1cji7FRpWZSeOEIm9eghengsmenPEgJog-O4A&s", TIMNAS LIVE
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/8
+
+##EXTVLCOPT:http-referrer=https://id19.808bola62.com/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://tta00022-cf.cool6bcd6.cc/auth%3D7b54b3d4beab5cf06a509f24043a5785c64dbdfc1ba1335b672c52964a83f57c80b69c5d02dacda22e3aef6c25cd57c48d8097519c3e429e10bc49e54f8f139bbce634d5dc0475d3ec9d0a29d686173e77cedfa3cc2983d91298878a492da71a537098f2105a2574125dd658c098a8470adca9d343159fb04058167a042c791bde9cdc036ef5be4ccee96be308e32d2c7d27cccf8c382d681525c90a08e7cda6%26cid%3DkvIptSxmAUQ-Ph2fDWqct240611%26_v%3D2%26_r%3DqWQ9bl%26_vis%3Dae35f781740cc8633f696e9263ce69ea868f7cfb81e6ff09521b6403a4023ce9%26_vvs%3Dfb9280ee32ba6fde589d32379b26a96e396c5c9d9d651f74ab76e5e28375ec2d/app/c258064.m3u8
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://www.visionplus.id/images/repository/797/136797-SNAPSHOT-m.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", EURO 1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://www.visionplus.id/images/repository/798/136798-SNAPSHOT-m.png", EURO 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-id="TEN1.in" tvg-logo="https://www.visionplus.id/images/repository/799/136799-SNAPSHOT-m.png", EURO 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
+https://mailsusanti.theriumworld29.workers.dev/dash-wv/dashiso/5148/default.mpd
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-id="TEN2.in" tvg-logo="https://www.visionplus.id/images/repository/800/136800-SNAPSHOT-m.png", EURO 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
+https://panipuricor.theriumworld29.workers.dev/dash-wv/dashiso/5148/default.mpd
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/801/136801-SNAPSHOT-m.png", EURO 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
+https://cors-proxy.elfsight.com/https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 6
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 7
+https://trtspor.blutv.com/blutv_trtspor/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://www.visionplus.id/images/repository/065/137065-SNAPSHOT-m.png", V+LIVE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
+=========================================================================================
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png", VOLI PROLIGA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png", VOLI PROLIGA 2
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/117
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png", VOLI PROLIGA 3
+https://raw.githubusercontent.com/MayangTV/ya2m/master/mooji.m3u8
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 1
+https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 2
+https://pastebin.com/raw/HfawaYsW?id=mayangtv.m3u8
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 3
+https://trtspor.blutv.com/blutv_trtspor/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.imgur.com/hAHEjRF.png", VOLI 1
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+==================================================================================
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-id="skysportmotogp.it" tvg-logo="https://latele.xyz/img/new/motogp.png", MOTOGP 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
+https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-id="SPOTV2.kr" tvg-logo="https://latele.xyz/img/new/motogp.png", MOTOGP 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-id="pptv36.th" tvg-logo="https://latele.xyz/img/new/motogp.png", MOTOGP 3
+https://edge6a.v2h-cdn.com/pptv/pptv.stream/chunklist_w1846023317.m3u8
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-id="SPOTV1.my" tvg-logo="https://thumbor.prod.vidiocdn.com/SCek27j63bmzwGgW7R8Wk8Oltfc=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/525/wsbk-4a9b22.png", SUPERBIKE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de0fa3c35f52f8a8517f1600dd11ed7:2d59cf94d10020aeee01a97cd0716eea
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001
+==========================================================================
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png", BADMINTON COURT 1
+https://wakacha.github.io/live/c1.m3u8
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png", BADMINTON COURT 2
+https://wakacha.github.io/live/c2.m3u8
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png", BADMINTON COURT 3
+https://wakacha.github.io/live/c3.m3u8
 
 
 
