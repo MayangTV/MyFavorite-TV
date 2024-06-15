@@ -50,9 +50,9 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-023/stream.mpd
 https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/../../eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="LiverpoolFCTV.uk" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FLiverpool%20FC%20TV%20HD-FirstMedia-Chl-328.jpg&w=256&q=100", LIVERPOOL TV (LFC TV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/premiumtv/daddyhd.php?id=826
-https://ddy3.onlinehdhls.ru/ddy3/premium826/tracks-v1a1/mono.m3u8|origin=https://weblivehdplay.ru
+#EXTVLCOPT:http-referrer=https://player.goupnow.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://vipgoodlive-tvs.starcdn.live/LFC_TV_Live_TV/index.m3u8?tokenkey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcGNsaWVudCI6IjUuMTgyLjIwOS4xMTIiLCJ1cmxzdHJlYW0iOiJodHRwczovL2xpdmVfdHYuc3RhcmNkbnVwLmNvbS9MRkNfVFZfTGl2ZV9UVi9pbmRleC5tM3U4Iiwid2Vic2l0ZSI6Imh0dHBzOi8vYmVlc3BvcnQubmV0L2F1dGhvcml6ZS1jaGFubmVsIiwiaXNWSVAiOiIwIiwiZXhwIjoxNzE4NDUzMjQxfQ.ddUrVutd8jAonbC4OpgBVAXGuLty7rocoseLoavZCeg&ref=https://beesport.net/
 
 #EXTINF:-1 group-title="MAYANG TV" tvg-id="RealMadridTV.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNsnSwFJjbJb9MydS3Pji2VlixgcWWCo_QtBqhRFa1Q&s", REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043156/rmtv-en-mob/bitrate_3.m3u8
@@ -133,16 +133,16 @@ https://ak-akamaized.com/beIN-SPORTS-MAX-1-HD-TS-Test/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12591
 
+
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 8 SUPORT PC
-https://d3uyzgka2wjb00.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-210b4ta87o6ku/c9ecf4be-c8a3-4bd3-a1bb-6fc660b7fcb6/0.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 9 SUPORT PC
 https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 9 SUPORT PC
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 10 SUPORT PC
+https://live.tmk.ir/channel1/signal/stream_720/index.m3u8
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 11 SUPORT PC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 11 SUPORT PC
-https://live.tmk.ir/channel1/signal/stream_720/index.m3u8
-
 
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://www.visionplus.id/images/repository/065/137065-SNAPSHOT-m.png", V+LIVE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -159,8 +159,8 @@ https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/117
 https://raw.githubusercontent.com/MayangTV/ya2m/master/mooji.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png", VOLI PROLIGA 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
 
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.imgur.com/xRKSeM6.jpg", VNL 1
@@ -208,22 +208,14 @@ https://wakacha.github.io/live/c3.m3u8
 =========================
 
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-id="beINSports1.my" tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", BEIN SPORTS 1 INDONESIA
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-https://tv.burhansyam.com/api/bein1.m3u8?t=666
-
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-id="beINSports3.my" tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png", BEIN SPORTS 3 INDONESIA
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
-https://tv.burhansyam.com/api/bein2.m3u8?t=666
-
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 ==========================================
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png", BEIN SPORTS 1 MALAYSIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
