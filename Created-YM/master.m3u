@@ -143,15 +143,11 @@ https://linear301-it-dash1-prd-ll.cdn13.skycdp.com/016a/31023/FHD/skysportuno/ma
 https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12591
 
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 9 HD
-#EXTVLCOPT:http-user-agent=IE(PC)
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=
-
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 10 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 11 SUPORT PC
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 10 SUPORT PC
 https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://www.visionplus.id/images/repository/065/137065-SNAPSHOT-m.png", V+LIVE
