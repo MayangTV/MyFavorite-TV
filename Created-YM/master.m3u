@@ -158,8 +158,13 @@ http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
 https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 13 SUPORT PC
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=IE(PC)
+https://gg.hls2.xyz/live/Persiana%20Sports/chunks.m3u8
+
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 14 SUPORT PC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 15 SUPORT PC
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://www.visionplus.id/images/repository/065/137065-SNAPSHOT-m.png", V+LIVE
@@ -186,7 +191,7 @@ http://offshore.lat:8080/play/p04WUDXMi0rf0RV-9FntKyL7l0_oHCyJOGoIKZugwPs
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - SPORT ITALIA SOLOCALCIO
 https://italiansport-solocalcio-samsung.amagi.tv/amRdirect/device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&gdpr=%7BGDPR%7D/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/playlist.m3u8
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - TV MAX
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - TV MAX SUPORT PC
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 =======================================================
 /////////////////////VOLI
