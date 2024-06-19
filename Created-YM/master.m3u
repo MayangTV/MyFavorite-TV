@@ -114,64 +114,38 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports
 https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
 
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://www.visionplus.id/images/repository/799/136799-SNAPSHOT-m.png", EURO 3 - DANA/OVO 085321200809
-#EXTVLCOPT:http-user-agent=IE(PC)
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12585
+http://45.41.213.34:70/TSN1/index.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://www.visionplus.id/images/repository/800/136800-SNAPSHOT-m.png", EURO 4 - JIKA ANDA TIDAK TERHIBUR
-#EXTVLCOPT:http-user-agent=IE(PC)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
-https://cors-proxy.elfsight.com/https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
-
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/801/136801-SNAPSHOT-m.png", EURO 5 - HAPUS SAJA LINK NYA !!!
-#EXTVLCOPT:http-referrer=https://player.goupnow.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-https://vipgoodlive-tvs.starcdn.live/SuperSport_Premier_League_Live_TV/tracks-v1a1/mono.m3u8?ref=https%3A%2F%2Fbeesport.net%2F&tokenkey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcGNsaWVudCI6IjUuMTgyLjIwOS4xMTIiLCJ1cmxzdHJlYW0iOiJodHRwczovL2xpdmVfdHYuc3RhcmNkbnVwLmNvbS9TdXBlclNwb3J0X1ByZW1pZXJfTGVhZ3VlX0xpdmVfVFYvaW5kZXgubTN1OCIsIndlYnNpdGUiOiJodHRwczovL2JlZXNwb3J0Lm5ldC9hdXRob3JpemUtY2hhbm5lbCIsImlzVklQIjoiMCIsImV4cCI6MTcxODM4NzA5NH0.3EDOrna-NGMdHODKLpKsuFyGDLO1EZm86T3FvWq_dqc
-
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 6 HD
-#EXTVLCOPT:http-referrer=https://player.goupnow.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-https://vipgoodlive-tvs.starcdn.live/Fox_Sports_1_Live_TV/index.m3u8?tokenkey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcGNsaWVudCI6IjUuMTgyLjIwOS4xMTIiLCJ1cmxzdHJlYW0iOiJodHRwczovL2xpdmVfdHYuc3RhcmNkbnVwLmNvbS9Gb3hfU3BvcnRzXzFfTGl2ZV9UVi9pbmRleC5tM3U4Iiwid2Vic2l0ZSI6Imh0dHBzOi8vYmVlc3BvcnQubmV0L2F1dGhvcml6ZS1jaGFubmVsIiwiaXNWSVAiOiIwIiwiZXhwIjoxNzE4NTMwNDYxfQ.YOKPrfJu4Lqp1eFLGU2_69UU4j0cWpgd0CY2Yqc0Vio&ref=https://beesport.net/
-
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 7 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
 https://linear301-it-dash1-prd-ll.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master_stereo.mpd
 
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 8 HD
-#EXTVLCOPT:http-user-agent=IE(PC)
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12591
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/801/136801-SNAPSHOT-m.png", EURO 5 - HAPUS SAJA LINK NYA !!!
+http://45.41.213.34:70/TSN4/index.m3u8
 
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 9 HD
-#EXTVLCOPT:http-user-agent=IE(PC)
-http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 6 - M4 SPORT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=317aef79ab54447caaeecfec10c9b196:4d9fee9624bf32274cb407afd3d5d248
+https://m7rovideolive.solocoo.tv/blueskylive2dash/bluem4sport/Manifest.mpd
 
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 10 HD
-#EXTVLCOPT:http-user-agent=IE(PC)
-http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 7 - SKYSPORT CALCIO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
+https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
 
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 11 HD
-#EXTVLCOPT:http-user-agent=IE(PC)
-http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 DMOST/2.0.0 (; LGE; webOSTV; WEBOS6.3.2 03.34.95; W6_lm21a;)
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/index.m3u8
 
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 12 SUPORT PC
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 9 - PERSIANA SPORTS
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://persianasport.mastercast.cloud/memfs/ae5f15e4-63eb-48b3-a0b4-5346c34a8f37.m3u8
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 10 SUPORT PC
 https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 13 SUPORT PC
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=IE(PC)
-https://gg.hls2.xyz/live/Persiana%20Sports/chunks.m3u8
-
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 14 SUPORT PC
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png", EURO 15 SUPORT PC
-https://d1u68oyra9spme.cloudfront.net/master.m3u8
-
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://www.visionplus.id/images/repository/065/137065-SNAPSHOT-m.png", V+LIVE
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
 =========================================================================================
 //////////////////COPA AMERICA
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - FIFA TV AUTO
