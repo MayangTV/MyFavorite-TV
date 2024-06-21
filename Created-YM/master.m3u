@@ -144,16 +144,22 @@ https://d2anxt9uu5yxtz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - FIFA TV SD 360P
 https://d2anxt9uu5yxtz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/a176bd5d-24fb-4607-a272-275da4aa0448/0.m3u8
 
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - TyC SPORTS HD
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - INDOSIAR
 #EXTVLCOPT:http-user-agent=IE(PC)
-http://offshore.lat:8080/play/p04WUDXMi0rf0RV-9FntKyL7l0_oHCyJOGoIKZugwPs
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/127
 
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - SPORT ITALIA PLUS 
-https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - SPORT ITALIA SOLOCALCIO
-https://italiansport-solocalcio-samsung.amagi.tv/amRdirect/device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&gdpr=%7BGDPR%7D/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/playlist.m3u8
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - TV MAX SUPORT PC
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - FS1
+#EXTVLCOPT:http-referrer=https://player.goupnow.net/
+#EXTVLCOPT:http-user-agent=IE(PC)
+https://vipgoodlive-tvs.starcdn.live/Fox_Sports_1_Live_TV/index.m3u8?tokenkey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcGNsaWVudCI6IjUuMTgyLjIwOS4xMTIiLCJ1cmxzdHJlYW0iOiJodHRwczovL2xpdmVfdHYuc3RhcmNkbnVwLmNvbS9Gb3hfU3BvcnRzXzFfTGl2ZV9UVi9pbmRleC5tM3U4Iiwid2Vic2l0ZSI6Imh0dHBzOi8vYmVlc3BvcnQubmV0L2F1dGhvcml6ZS1jaGFubmVsIiwiaXNWSVAiOiIwIiwiZXhwIjoxNzE4NTY5MDc4fQ.UK1L8YSJdAH6W0FVBeKKxBNBT6OnbcrHL_xJzjukAqc&ref=https://beesport.net/
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 DMOST/2.0.0 (; LGE; webOSTV; WEBOS6.3.2 03.34.95; W6_lm21a;)
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/index.m3u8
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - TV MAX
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+
 =======================================================
 /////////////////////VOLI
 ==================
