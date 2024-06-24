@@ -93,13 +93,15 @@ https://1853185335.rsc.cdn77.org/K192/tv/K19/tv_480/chunks.m3u8
 
 ///////////////////////////////   LIVE EVENT
 
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c0juD1cji7FRpWZSeOEIm9eghengsmenPEgJog-O4A&s", TIMNAS LIVE
-#EXTVLCOPT:http-user-agent=IE(PC)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/8
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c0juD1cji7FRpWZSeOEIm9eghengsmenPEgJog-O4A&s", TIMNAS LIVE 1
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/8?|user-agent=com.xui.1_5_12r2
 
-##EXTVLCOPT:http-referrer=https://id19.808bola62.com/
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://tta00022-cf.cool6bcd6.cc/auth%3D7b54b3d4beab5cf06a509f24043a5785c64dbdfc1ba1335b672c52964a83f57c80b69c5d02dacda22e3aef6c25cd57c48d8097519c3e429e10bc49e54f8f139bbce634d5dc0475d3ec9d0a29d686173e77cedfa3cc2983d91298878a492da71a537098f2105a2574125dd658c098a8470adca9d343159fb04058167a042c791bde9cdc036ef5be4ccee96be308e32d2c7d27cccf8c382d681525c90a08e7cda6%26cid%3DkvIptSxmAUQ-Ph2fDWqct240611%26_v%3D2%26_r%3DqWQ9bl%26_vis%3Dae35f781740cc8633f696e9263ce69ea868f7cfb81e6ff09521b6403a4023ce9%26_vvs%3Dfb9280ee32ba6fde589d32379b26a96e396c5c9d9d651f74ab76e5e28375ec2d/app/c258064.m3u8
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c0juD1cji7FRpWZSeOEIm9eghengsmenPEgJog-O4A&s", TIMNAS LIVE 2
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/127?|user-agent=com.xui.1_5_12r2
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c0juD1cji7FRpWZSeOEIm9eghengsmenPEgJog-O4A&s", TIMNAS LIVE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
+https://raw.githubusercontent.com/MayangTV/ya2m/master/siarindo.m3u8
 
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://www.visionplus.id/images/repository/797/136797-SNAPSHOT-m.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", EURO 1 - BILA ANDA TERHIBUR
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -136,29 +138,25 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRpl
 =========================================================================================
 //////////////////COPA AMERICA
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - INDOSIAR
-#EXTVLCOPT:http-user-agent=IE(PC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/127
 
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - DAZN SPORTDIGITAL
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
-
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-022/stream.mpd
 
 
 
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - FS1
 #EXTVLCOPT:http-referrer=https://player.goupnow.net/
-#EXTVLCOPT:http-user-agent=IE(PC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
 https://vipgoodlive-tvs.starcdn.live/Fox_Sports_1_Live_TV/index.m3u8?tokenkey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcGNsaWVudCI6IjUuMTgyLjIwOS4xMTIiLCJ1cmxzdHJlYW0iOiJodHRwczovL2xpdmVfdHYuc3RhcmNkbnVwLmNvbS9Gb3hfU3BvcnRzXzFfTGl2ZV9UVi9pbmRleC5tM3U4Iiwid2Vic2l0ZSI6Imh0dHBzOi8vYmVlc3BvcnQubmV0L2F1dGhvcml6ZS1jaGFubmVsIiwiaXNWSVAiOiIwIiwiZXhwIjoxNzE4NTY5MDc4fQ.UK1L8YSJdAH6W0FVBeKKxBNBT6OnbcrHL_xJzjukAqc&ref=https://beesport.net/
 
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - PREMIER SPORTS 1
 #EXTVLCOPT:http-referrer=https://player.goupnow.net/
-#EXTVLCOPT:http-user-agent=IE(PC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
 https://vipgoodlive-tvs.starcdn.live/Premier_Sports_1/index.m3u8?tokenkey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcGNsaWVudCI6IjUuMTgyLjIwOS4xMTIiLCJ1cmxzdHJlYW0iOiJodHRwczovL2xpdmVfdHYuc3RhcmNkbnVwLmNvbS9QcmVtaWVyX1Nwb3J0c18xL2luZGV4Lm0zdTgiLCJ3ZWJzaXRlIjoiaHR0cHM6Ly9iZWVzcG9ydC5uZXQvYXV0aG9yaXplLWNoYW5uZWwiLCJpc1ZJUCI6IjAiLCJleHAiOjE3MTg5MzA5ODN9.jn5aGl1FhZB1njTBoYDUimYi_vHTrWmo3pM6a1MQDgA&ref=https://beesport.net/
 
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - TV4
@@ -221,7 +219,7 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227608/32
 ==========================================================================
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://latele.xyz/img/new/f1.png", SKYSPORT F1
 #EXTVLCOPT:http-referrer=https://player.goupnow.net/
-#EXTVLCOPT:http-user-agent=IE(PC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
 https://vipgoodlive-tvs.starcdn.live/Sky_Sports_F1_Live_TV/index.m3u8?tokenkey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcGNsaWVudCI6IjUuMTgyLjIwOS4xMTIiLCJ1cmxzdHJlYW0iOiJodHRwczovL2xpdmVfdHYuc3RhcmNkbnVwLmNvbS9Ta3lfU3BvcnRzX0YxX0xpdmVfVFYvaW5kZXgubTN1OCIsIndlYnNpdGUiOiJodHRwczovL2JlZXNwb3J0LnR2L2F1dGhvcml6ZS1jaGFubmVsIiwiaXNWSVAiOiIwIiwiZXhwIjoxNzE5MTQ4MjQ3fQ.LSSTCgwsjpUK5MPuof9Aqc2JYfTFSrnDR3u0Er6s33M&ref=https://beesport.net/
 
 #EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://latele.xyz/img/new/f1.png", DAZN F1
