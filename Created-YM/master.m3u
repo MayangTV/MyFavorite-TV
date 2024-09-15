@@ -1,14 +1,6 @@
-#EXTINF:-1 group-title="DAKWAH" tvg-id="" tvg-logo="https://i.ibb.co.com/NYDjffz/20240513-170018.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", ADMINYA MAU PENSIUN 
-https://warningfm.github.io/dailymotion/AswajaTV.m3u8
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml; https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml; https://raw.githubusercontent.com/iptv-org/epg/master/sites/moji.id/moji.id.channels.xml; https://raw.githubusercontent.com/iptv-org/epg/master/sites/vidio.com/vidio.com.channels.xml; https://raw.githubusercontent.com/iptv-org/epg/master/sites/indihometv.com/indihometv.com.channels.xml; https://raw.githubusercontent.com/iptv-org/epg/master/sites/visionplus.id/visionplus.id.channels.xml; https://raw.githubusercontent.com/iptv-org/epg/master/sites/mncvision.id/mncvision.id_id.channels.xml; https://raw.githubusercontent.com/iptv-org/epg/master/sites/content.astro.com.my/content.astro.com.my.channels.xml; https://raw.githubusercontent.com/iptv-org/epg/master/sites/cubmu.com/cubmu.com_id.channels.xml; https://raw.githubusercontent.com/iptv-org/epg/master/sites/beinsports.com/beinsports.com_mena-ar.channels.xml; https://raw.githubusercontent.com/iptv-org/epg/master/sites/tvarenasport.com/tvarenasport.com.channels.xml; https://raw.githubusercontent.com/iptv-org/epg/master/sites/rtmklik.rtm.gov.my/rtmklik.rtm.gov.my.channels.xml; https://raw.githubusercontent.com/iptv-org/epg/master/sites/dstv.com/dstv.com_za.channels.xml"  refresh="3600" billed-msg="SILAHKAN DINIKMATI SEMOGA ANDA TERHIBUR | SAYA HATURKAN TERIMAKASIH UNTUK YG SELALU MENSUPORT DGN TRAKTIRANYA VIA DANA & OVO 085321200809"
 
-#EXTINF:-1 group-title="DAKWAH" tvg-id="AlQuranAlKareem" group-title="DAKWAH" tvg-logo="https://static.mncnow.id/images/channel/42f6952c/f9d3.png", LIVE MEKAH 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
-
-#EXTINF:-1 group-title="DAKWAH" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_5ngxphy5/landscape_carousel_mdpi.jpg", MUSLIM TV
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjAwNDVhNzAtMGUyMi0zMDc3LWE1MGUtYTY1ZDdmODhmY2U3
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", MAYANG TV Ⓨ
+https://youtu.be/z1upv-zG5kg?si=Fw67FpSPhZBDRISN
+#EXTINF:-1 group-title="MAYANG TV" tvg-id="" tvg-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png", ADMINA TEACAN NGOPI
+https://youtu.be/z1upv-zG5kg?si=Fw67FpSPhZBDRISN
